@@ -1,3 +1,10 @@
+---
+layout: default
+title: Roule
+parent: Apprendre des Tours
+nav_order: 25
+---
+
 8. Roule / Roule Boulé
 ⦁ Description du Tour : Le chien, allongé, se tourne complètement sur lui-même pour se retrouver sur l'autre flanc.
 ⦁ Pourquoi l'Apprendre? : Un tour amusant qui sollicite la souplesse et la coordination du chien.
@@ -19,7 +26,3 @@
 2. Demandez le tour avec un geste minimal ou seulement l'ordre verbal.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien exécute une roulade complète de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Si le chien hésite, guidez-le doucement avec votre autre main pour l'aider à rouler. 
-
-[Précédent](./reste.md) | [Suivant](./salut.md)
-
-[Retour à l'accueil](../index.md) 

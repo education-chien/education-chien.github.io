@@ -1,3 +1,10 @@
+---
+layout: default
+title: Comprendre le Langage Canin
+parent: Adopter en Refuge
+nav_order: 6
+---
+
 # Comprendre le Langage Canin : La Clé de la Connexion
 
 Comprendre comment un chien communique est fondamental pour établir une relation de confiance et répondre à ses besoins. Le langage canin est complexe et combine signaux corporels, expressions faciales et vocalisations.
@@ -25,7 +32,3 @@ Les chiens utilisent diverses vocalisations et signaux pour communiquer leur ét
 - **Aboiements** : Leur signification varie selon le contexte, la tonalité (aigu pour excitation, sourd pour menace) et la cadence. Des aboiements excessifs ou des gémissements sont souvent des signes de stress ou de détresse.
 - **Grognements** : Un grognement est un avertissement. Il signifie souvent que le chien se sent menacé ou mal à l'aise et demande de la distance. Il ne faut jamais punir un chien qui grogne, car cela supprime un signal d'alerte essentiel avant une morsure.
 - **Signaux d'apaisement** : Ces comportements (détourner la tête, bâiller, se lécher le nez, se figer, s'asseoir, se coucher) sont utilisés par le chien pour se calmer ou calmer une situation perçue comme menaçante. Les reconnaître permet de désamorcer les conflits et de renforcer le lien. 
-
-[Précédent](./5_sante_bien_etre.md) | [Suivant](./7_defis_comportementaux.md)
-
-[Retour à l'accueil](../index.md) 

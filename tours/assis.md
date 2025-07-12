@@ -1,3 +1,10 @@
+---
+layout: default
+title: Assis
+parent: Apprendre des Tours
+nav_order: 2
+---
+
 # Assis
 
 - **Description du Tour** : Le chien pose son arrière-train au sol, en gardant ses pattes avant droites.
@@ -30,7 +37,5 @@
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien s'assoit immédiatement et de manière fiable (90% du temps) sur l'ordre "Assis", quelle que soit la distance (jusqu'à 5-10 mètres), la durée (jusqu'à 30 secondes) et dans des environnements variés avec des distractions modérées, sans avoir besoin de guide physique ou visuel.
 - **Conseils du Coach** : Variez les récompenses pour maintenir la motivation. Si le chien ne s'assoit pas, vérifiez que la friandise est bien placée pour guider le mouvement. 
-
-[Précédent](./aboie.md) | [Suivant](./au_pied.md)
 
 [Retour à l'accueil](../index.md) 

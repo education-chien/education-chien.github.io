@@ -1,3 +1,10 @@
+---
+layout: default
+title: Marche militaire
+parent: Apprendre des Tours
+nav_order: 15
+---
+
 29. La marche militaire / enfantine (entre les jambes)
 ⦁ Description du Tour : Le chien marche en avant ou en arrière entre les jambes de son humain, en synchronisation.
 ⦁ Pourquoi l'Apprendre? : Un tour très impressionnant qui demande une grande coordination et concentration, renforce le lien en mouvement.
@@ -19,7 +26,3 @@
 2. Augmentez la distance et la fluidité du mouvement.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien marche en avant ou en arrière entre les jambes de son humain de manière fluide et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, sur plusieurs mètres, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : La patience est clé pour ce tour qui demande beaucoup de coordination. 
-
-[Précédent](./lumiere.md) | [Suivant](./monte_descend.md)
-
-[Retour à l'accueil](../index.md) 

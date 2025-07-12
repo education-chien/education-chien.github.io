@@ -1,3 +1,10 @@
+---
+layout: default
+title: Rappel
+parent: Apprendre des Tours
+nav_order: 21
+---
+
 3. Le Rappel
 ⦁ Description du Tour : Le chien revient vers son humain dès qu'il est appelé, quelle que soit la situation.
 ⦁ Pourquoi l'Apprendre? : C'est l'un des ordres les plus importants pour la sécurité du chien (éviter les dangers) et pour la liberté (lui permettre de se défouler sans laisse en toute sécurité).
@@ -20,7 +27,3 @@
 ⦁ Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
 1. Pratiquez dans des environnements de plus en plus stimulants (parc avec d'autres chiens, personnes, odeurs) et l'environnement, même sans laisse.
 ⦁ Conseils du Coach : Ne jamais gronder ou punir le chien s'il ne revient pas, cela associerait le retour à une expérience négative. Rendez le rappel le plus gratifiant possible. 
-
-[Précédent](./range.md) | [Suivant](./rapporte.md)
-
-[Retour à l'accueil](../index.md) 

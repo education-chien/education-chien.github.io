@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cherche
+parent: Apprendre des Tours
+nav_order: 7
+---
+
 25. Cherche (friandise/jouet)
 ⦁ Description du Tour : Le chien utilise son flair pour trouver une friandise ou un jouet caché.
 ⦁ Pourquoi l'Apprendre? : Stimule énormément le sens de l'odorat du chien, excellent pour la dépense mentale et la résolution de problèmes.
@@ -21,7 +28,3 @@
 3. Utilisez des tapis de fouille ou des jouets distributeurs.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien trouve la friandise/jouet caché de manière fiable (90% du temps) sur l'ordre "Cherche", même lorsque la cachette est complexe et dans des environnements variés avec des distractions.
 ⦁ Conseils du Coach : Commencez toujours par des cachettes très faciles pour que le chien comprenne le principe. 
-
-[Précédent](./cache_toi.md) | [Suivant](./conclusion.md)
-
-[Retour à l'accueil](../index.md) 

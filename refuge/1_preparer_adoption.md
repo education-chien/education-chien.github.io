@@ -1,3 +1,10 @@
+---
+layout: default
+title: Préparer l'Adoption
+parent: Adopter en Refuge
+nav_order: 1
+---
+
 # Se Préparer à l'Adoption : Un Engagement Réfléchi
 
 L'adoption d'un chien est une décision qui engage pour la vie de l'animal, nécessitant une réflexion approfondie. Il est essentiel de s'assurer d'être pleinement prêt à accueillir un nouveau membre dans la famille.
@@ -14,7 +21,5 @@ Les refuges demandent également des pièces justificatives telles qu'une carte 
 ## Choisir le Bon Compagnon au Refuge
 
 La visite au refuge est une étape clé. Il est recommandé de prendre le temps d'interagir avec les chiens, de poser des questions sur leur passé, leur comportement et leur état de santé. La fiche d'identité de l'animal, renseignée par le refuge, est une ressource précieuse. Il est important de se rappeler que le comportement d'un chien en refuge peut différer de celui qu'il aura une fois installé dans un foyer calme. Un bon jumelage est celui où les besoins du chien correspondent à ce que l'adoptant peut offrir. 
-
-[Précédent](./introduction.md) | [Suivant](./2_amenager_foyer.md)
 
 [Retour à l'accueil](../index.md) 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Couche-toi
+parent: Apprendre des Tours
+nav_order: 9
+---
+
 2. Couché
 ⦁ Description du Tour : Le chien s'allonge complètement sur le ventre, les pattes étendues vers l'avant.
 ⦁ Pourquoi l'Apprendre? : Utile pour le calme, la gestion des visiteurs, et comme base pour des tours plus complexes comme "Fais le mort" ou "Rampe".
@@ -23,7 +30,3 @@
 3. Introduisez des distractions plus importantes (ex: un jouet qui roule à distance).
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien s'allonge immédiatement et de manière fiable (90% du temps) sur l'ordre "Couché", quelle que soit la distance (jusqu'à 5-10 mètres), la durée (jusqu'à 30 secondes) et dans des environnements variés avec des distractions modérées, sans avoir besoin de guide physique ou visuel.
 ⦁ Conseils du Coach : Si le chien se lève, ne le grondez pas. Reprenez l'étape précédente et assurez-vous que le mouvement de la friandise est clair. 
-
-[Précédent](./conclusion.md) | [Suivant](./donne_la_patte.md)
-
-[Retour à l'accueil](../index.md) 

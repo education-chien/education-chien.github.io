@@ -1,3 +1,10 @@
+---
+layout: default
+title: Rapporte un objet
+parent: Apprendre des Tours
+nav_order: 22
+---
+
 11. Rapporter un objet
 ⦁ Description du Tour : Le chien va chercher un objet lancé et le ramène à son humain.
 ⦁ Pourquoi l'Apprendre? : Un jeu interactif qui dépense l'énergie du chien et renforce la collaboration.
@@ -21,7 +28,3 @@
 2. Demandez-lui de rapporter des objets plus éloignés ou cachés.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien va chercher l'objet désigné, le ramène et le lâche dans la main de son humain de manière immédiate et fiable (90% du temps) sur l'ordre "Rapporte", dans des environnements variés et avec des distractions.
 ⦁ Conseils du Coach : Félicitez toujours le chien quand il lâche l'objet, même s'il ne le fait pas directement dans votre main au début. 
-
-[Précédent](./rappel.md) | [Suivant](./recule.md)
-
-[Retour à l'accueil](../index.md) 

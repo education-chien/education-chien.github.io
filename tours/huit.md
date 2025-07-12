@@ -1,3 +1,10 @@
+---
+layout: default
+title: Passe entre les jambes (Huit)
+parent: Apprendre des Tours
+nav_order: 13
+---
+
 30. Faire un "8" entre les jambes
 ⦁ Description du Tour : Le chien passe en "huit" entre les jambes de son humain qui reste immobile.
 ⦁ Pourquoi l'Apprendre? : Un tour élégant qui améliore la coordination et la concentration du chien autour de son humain.
@@ -20,7 +27,3 @@
 2. Augmentez la fluidité et la vitesse du mouvement.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien exécute le "8" de manière fluide et fiable (90% du temps) entre les jambes de son humain (immobile ou en mouvement très lent) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Ce tour est une excellente base pour l'obérythmée. 
-
-[Précédent](./fais_le_mort.md) | [Suivant](./lumiere.md)
-
-[Retour à l'accueil](../index.md) 

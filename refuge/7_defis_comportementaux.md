@@ -1,3 +1,10 @@
+---
+layout: default
+title: Gérer les Défis Comportementaux
+parent: Adopter en Refuge
+nav_order: 7
+---
+
 # Gérer les Défis Comportementaux Courants
 
 L'adoption d'un chien de refuge peut s'accompagner de défis comportementaux liés à son passé. Une approche positive et empathique est essentielle pour les surmonter.
@@ -35,7 +42,5 @@ Les destructions sont souvent un signe de mal-être, de stress, d'ennui ou d'anx
     - Gérer l'environnement : Rangez les objets précieux ou dangereux hors de portée.
     - Traiter l'anxiété de séparation : Appliquez les conseils mentionnés précédemment (absences progressives, banalisation des départs/retours, jouets d'occupation).
 - **Ne jamais punir** : La punition est inefficace et peut aggraver le stress. 
-
-[Précédent](./6_langage_canin.md) | [Suivant](./conclusion.md)
 
 [Retour à l'accueil](../index.md) 

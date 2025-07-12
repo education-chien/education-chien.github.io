@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fais le beau
+parent: Apprendre des Tours
+nav_order: 11
+---
+
 7. Fais le Beau
 ⦁ Description du Tour : Le chien est assis sur son arrière-train et lève ses deux pattes avant, comme s'il priait.
 ⦁ Pourquoi l'Apprendre? : Un tour impressionnant et amusant qui sollicite l'équilibre et les muscles du chien.
@@ -22,7 +29,3 @@
 3. Introduisez des distractions plus importantes.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien se met en position "Fais le beau" de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, maintient la position plusieurs secondes, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Attention au dos du chien. Ne pas abuser de ce tour, surtout pour les chiens de grande taille ou ayant des problèmes de dos. 
-
-[Précédent](./donne_la_patte.md) | [Suivant](./fais_le_mort.md)
-
-[Retour à l'accueil](../index.md) 

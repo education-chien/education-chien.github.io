@@ -1,3 +1,10 @@
+---
+layout: default
+title: Rampe
+parent: Apprendre des Tours
+nav_order: 19
+---
+
 16. Rampe
 ⦁ Description du Tour : Le chien se déplace en rampant, le ventre collé au sol.
 ⦁ Pourquoi l'Apprendre? : Un tour impressionnant qui sollicite les muscles du chien et sa concentration.
@@ -22,7 +29,3 @@
 3. Introduisez des distractions plus importantes.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien rampe de manière fluide et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, sur plusieurs mètres, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Si le chien se lève, reprenez l'étape précédente. Assurez-vous que la friandise reste très basse. 
-
-[Précédent](./porte.md) | [Suivant](./range.md)
-
-[Retour à l'accueil](../index.md) 

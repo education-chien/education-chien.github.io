@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fais le mort
+parent: Apprendre des Tours
+nav_order: 12
+---
+
 12. Fais le Mort
 ⦁ Description du Tour : Le chien s'allonge sur le flanc et reste immobile, comme s'il était inanimé.
 ⦁ Pourquoi l'Apprendre? : Un tour spectaculaire qui impressionne et demande une bonne maîtrise de soi au chien.
@@ -20,7 +27,3 @@
 3. Introduisez des distractions plus importantes.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien s'allonge sur le flanc, la tête au sol, et reste immobile de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, depuis différentes positions (assis, debout), dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Récompensez généreusement les exécutions parfaites pour encourager l'ensemble du mouvement. 
-
-[Précédent](./fais_le_beau.md) | [Suivant](./huit.md)
-
-[Retour à l'accueil](../index.md) 

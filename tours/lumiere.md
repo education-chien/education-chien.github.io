@@ -1,3 +1,10 @@
+---
+layout: default
+title: Allume ou éteint la lumière
+parent: Apprendre des Tours
+nav_order: 14
+---
+
 27. Allume/Éteint la lumière
 ⦁ Description du Tour : Le chien touche un interrupteur avec son museau ou sa patte pour allumer/éteindre la lumière.
 ⦁ Pourquoi l'Apprendre? : Un tour impressionnant qui montre l'intelligence du chien et peut être utile.
@@ -18,7 +25,3 @@
 2. Demandez le tour à distance.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien touche l'interrupteur pour allumer/éteindre la lumière de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Assurez-vous que l'interrupteur est à une hauteur accessible et sécuritaire pour le chien. 
-
-[Précédent](./huit.md) | [Suivant](./marche_militaire.md)
-
-[Retour à l'accueil](../index.md) 

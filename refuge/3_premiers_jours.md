@@ -1,3 +1,10 @@
+---
+layout: default
+title: Les Premiers Jours
+parent: Adopter en Refuge
+nav_order: 3
+---
+
 # Les Premiers Jours et Semaines : Patience et Routine
 
 L'intégration d'un chien de refuge est un processus qui demande du temps, de la patience et de la compréhension. La "règle du 3-3-3" est un excellent cadre pour gérer cette période d'adaptation.
@@ -28,7 +35,5 @@ Les chiens de refuge peuvent souffrir d'anxiété de séparation en raison de le
 - **Créer un environnement stimulant** : Un jardin sensoriel ou des promenades variées peuvent aider.
 - **Fatiguer le chien avant de partir** : L'exercice physique et mental avant une absence peut l'inciter à se reposer.
 - **Consulter un professionnel** : Si les difficultés persistent, un comportementaliste canin ou un vétérinaire spécialisé peut offrir un accompagnement personnalisé. 
-
-[Précédent](./2_amenager_foyer.md) | [Suivant](./4_education_socialisation.md)
 
 [Retour à l'accueil](../index.md) 

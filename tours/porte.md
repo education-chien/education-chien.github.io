@@ -1,3 +1,10 @@
+---
+layout: default
+title: Porte un objet
+parent: Apprendre des Tours
+nav_order: 18
+---
+
 23. Porte un objet en gueule
 ⦁ Description du Tour : Le chien prend un objet dans sa gueule et le tient sur commande.
 ⦁ Pourquoi l'Apprendre? : Utile pour rapporter des objets, pour des jeux, ou pour préparer des tours plus complexes (ranger les jouets).
@@ -19,7 +26,5 @@
 2. Demandez au chien de porter l'objet en marchant.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien prend l'objet désigné et le tient en gueule de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, pendant plusieurs secondes, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Assurez-vous que l'objet est sûr et qu'il ne peut pas l'avaler. 
-
-[Précédent](./ouvre.md) | [Suivant](./rampe.md)
 
 [Retour à l'accueil](../index.md) 

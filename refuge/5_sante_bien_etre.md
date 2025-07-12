@@ -1,3 +1,10 @@
+---
+layout: default
+title: Santé et Bien-être
+parent: Adopter en Refuge
+nav_order: 5
+---
+
 # Santé et Bien-être : Un Suivi Essentiel
 
 La santé et le bien-être d'un chien adopté, en particulier ceux issus de refuge, nécessitent une attention particulière et un suivi régulier.
@@ -34,7 +41,5 @@ L'exercice quotidien est crucial pour la santé physique et mentale du chien.
 - **Adaptation** : Le programme d'exercice doit être adapté à la race, l'âge, la taille et le passé du chien. Un chien de refuge peut avoir des problèmes de mobilité ou de santé nécessitant une intensité progressive.
 - **Variété** : Combinez promenades quotidiennes (au moins 45 minutes à 1 heure) avec des jeux et des exercices d'apprentissage. Des activités comme l'agility, le canicross, ou des jeux de détection d'odeurs stimulent l'endurance, l'agilité et les capacités cognitives.
 - **Stimulation mentale** : Les activités intellectuelles et masticatoires aident à canaliser l'énergie et à réduire le stress. 
-
-[Précédent](./4_education_socialisation.md) | [Suivant](./6_langage_canin.md)
 
 [Retour à l'accueil](../index.md) 

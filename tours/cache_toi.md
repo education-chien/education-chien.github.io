@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cache-toi
+parent: Apprendre des Tours
+nav_order: 6
+---
+
 14. Cache-toi les yeux avec la patte
 ⦁ Description du Tour : Le chien pose une patte sur son museau ou ses yeux.
 ⦁ Pourquoi l'Apprendre? : Un tour mignon et amusant, qui demande de la dextérité.
@@ -18,7 +25,3 @@
 2. Demandez le tour à distance.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien pose sa patte sur son museau/yeux de manière immédiate et fiable (90% du temps) sur l'ordre "Cache-toi", sans aide physique, maintient la position quelques secondes, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Assurez-vous que le ruban adhésif est léger et non irritant pour le chien. 
-
-[Précédent](./cache_cache.md) | [Suivant](./cherche.md)
-
-[Retour à l'accueil](../index.md) 

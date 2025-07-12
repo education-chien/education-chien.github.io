@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cache-cache
+parent: Apprendre des Tours
+nav_order: 5
+---
+
 # Joue à cache-cache
 
 - **Description du Tour** : Le chien cherche et trouve son humain qui se cache.
@@ -26,7 +33,5 @@
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien vous trouve de manière fiable (90% du temps) sur l'ordre "Cherche" ou "Viens me trouver", même lorsque la cachette est complexe et dans des environnements variés avec des distractions.
 - **Conseils du Coach** : Rendez le jeu très excitant et gratifiant pour le chien. 
-
-[Précédent](./bisou.md) | [Suivant](./cache_toi.md)
 
 [Retour à l'accueil](../index.md) 

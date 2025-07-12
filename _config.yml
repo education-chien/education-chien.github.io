@@ -1,2 +1,6 @@
-title: Education Canine
-description: Guides sur l'éducation canine
+title: Guides Education Canine
+description: Une ressource complète pour tous les propriétaires de chiens, qu'ils soient nouveaux ou expérimentés.
+remote_theme: just-the-docs/just-the-docs
+
+# Activer la recherche
+search_enabled: true
