@@ -7,9 +7,13 @@ nav_order: 10
 
 # Le Caniche
 
-Le Caniche est un chien élégant, intelligent et polyvalent, qui existe en quatre tailles.
+**Choisir un Caniche, c'est choisir un compagnon élégant et intelligent.**
 
-| Fiche d'identité | Grand | Moyen | Nain | Toy |
+Le Caniche est un chien **élégant**, **intelligent** et **polyvalent**, qui existe en quatre tailles.
+
+## Fiche d'identité
+
+| Caractéristique | Grand | Moyen | Nain | Toy |
 |---|---|---|---|---|
 | **Taille** | 45-60 cm | 35-45 cm | 28-35 cm | < 28 cm |
 | **Poids** | 20-30 kg | 10-15 kg | 4-7 kg | < 4 kg |
@@ -17,23 +21,57 @@ Le Caniche est un chien élégant, intelligent et polyvalent, qui existe en quat
 | **Type de poil** | Bouclé ou cordé, dense et laineux |
 | **Couleurs** | Noir, blanc, marron, gris, abricot, rouge |
 
-## Présentation générale :
-Le Caniche est réputé pour son intelligence et sa facilité d'éducation. C'est un chien joyeux, actif et très attaché à ses maîtres.
+## Présentation générale
 
-## Un compagnon pour la vie : Tempérament et besoins réels :
-Quelle que soit sa taille, le Caniche a besoin d'exercice quotidien et de stimulation mentale. Il ne perd pas ses poils, mais son pelage nécessite un entretien régulier et coûteux (toilettage).
+Le Caniche est réputé pour son **intelligence** et sa **facilité d'éducation**.
 
-> ### Mythe 1: "Le Caniche est un chien de salon précieux."
-> Le Caniche est avant tout un chien de chasse (rapporteur de gibier d'eau), sportif et robuste. Il adore nager et se dépenser.
+C'est un chien **joyeux**, **actif** et très attaché à ses maîtres.
 
-> ### Mythe 2: "Le Caniche est un chien snob."
-> Le Caniche est un chien très joueur et affectueux, qui adore faire le clown pour amuser sa famille.
+## Un compagnon pour la vie : Tempérament et besoins réels
 
-## Activités pour un chien épanoui :
-Le Caniche excelle dans de nombreuses disciplines : agility, obéissance, obérythmée, pistage. La natation est également une excellente activité pour lui.
+Quelle que soit sa taille, le Caniche a besoin d'**exercice quotidien** et de **stimulation mentale**.
 
-## Santé et bien-être :
-Le Caniche est une race robuste, mais peut être sujet à des problèmes oculaires (atrophie rétinienne), des luxations de la rotule et la maladie d'Addison. Un entretien régulier des oreilles est nécessaire pour éviter les otites.
+Il ne perd pas ses poils, mais son pelage nécessite un **entretien régulier** et coûteux (toilettage).
 
-## Un peu d'histoire :
-Originaire de France, le Caniche descend du Barbet. Il était utilisé pour la chasse au canard (d'où son nom). Sa toilette "en lion" permettait de protéger ses articulations et son poitrail du froid de l'eau, tout en laissant l'arrière-train libre de ses mouvements. 
+### Mythe 1: "Le Caniche est un chien de salon précieux."
+
+Le Caniche est avant tout un chien de **chasse** (rapporteur de gibier d'eau), **sportif** et **robuste**.
+
+Il adore **nager** et se dépenser.
+
+### Mythe 2: "Le Caniche est un chien snob."
+
+Le Caniche est un chien très **joueur** et **affectueux**.
+
+Il adore faire le **clown** pour amuser sa famille.
+
+## Activités pour un chien épanoui
+
+Le Caniche excelle dans de nombreuses disciplines :
+
+• **Agility**
+• **Obéissance**
+• **Obérythmée**
+• **Pistage**
+
+La **natation** est également une excellente activité pour lui.
+
+## Santé et bien-être
+
+Le Caniche est une race **robuste**, mais peut être sujet à plusieurs affections :
+
+• **Problèmes oculaires** (atrophie rétinienne)
+• **Luxations de la rotule**
+• **Maladie d'Addison**
+
+Un **entretien régulier** des oreilles est nécessaire pour éviter les otites.
+
+## Un peu d'histoire
+
+Originaire de **France**, le Caniche descend du **Barbet**.
+
+Il était utilisé pour la **chasse au canard** (d'où son nom).
+
+Sa toilette "en lion" permettait de protéger ses **articulations** et son **poitrail** du froid de l'eau, tout en laissant l'arrière-train libre de ses mouvements.
+
+**Un Caniche bien stimulé devient un compagnon élégant et équilibré, pour le bonheur de toute la famille.** 

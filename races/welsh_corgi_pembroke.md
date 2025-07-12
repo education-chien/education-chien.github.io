@@ -7,9 +7,13 @@ nav_order: 18
 
 # Le Welsh Corgi Pembroke
 
-Le Welsh Corgi Pembroke est un petit chien de berger bas sur pattes, connu pour son intelligence et sa bonne humeur.
+**Choisir un Corgi, c'est choisir un compagnon intelligent et joyeux.**
 
-| Fiche d'identité | |
+Le Welsh Corgi Pembroke est un petit chien de berger bas sur pattes, connu pour son **intelligence** et sa **bonne humeur**.
+
+## Fiche d'identité
+
+| Caractéristique | Détails |
 |---|---|
 | **Taille** | 25-30 cm |
 | **Poids** | Mâle 10-12 kg, Femelle 9-11 kg |
@@ -17,23 +21,52 @@ Le Welsh Corgi Pembroke est un petit chien de berger bas sur pattes, connu pour 
 | **Type de poil** | Mi-long, droit et dense |
 | **Couleurs** | Rouge, fauve, charbonné, avec ou sans marques blanches |
 
-## Présentation générale :
-Le Corgi est un chien vif, affectueux et très intelligent. Il est un excellent compagnon de famille, mais il a conservé son instinct de berger.
+## Présentation générale
 
-## Un compagnon pour la vie : Tempérament et besoins réels :
-C'est un chien qui a besoin d'exercice quotidien et de stimulation mentale. Il peut avoir tendance à mordiller les talons (comportement de troupeau) et à aboyer.
+Le Corgi est un chien **vif**, **affectueux** et très **intelligent**.
 
-> ### Mythe 1: "Le Corgi est un chien de canapé."
-> Le Corgi est un chien de travail qui a besoin de se dépenser. Il adore les longues promenades et les jeux.
+Il est un excellent **compagnon de famille**, mais il a conservé son instinct de berger.
 
-> ### Mythe 2: "Le Corgi est un petit chien facile."
-> Le Corgi est très intelligent et peut se montrer têtu. Il a besoin d'une éducation ferme et positive.
+## Un compagnon pour la vie : Tempérament et besoins réels
 
-## Activités pour un chien épanoui :
-Des promenades quotidiennes, des jeux de balle et des activités de pistage sont parfaits pour lui. Il peut exceller en agility et en obéissance.
+C'est un chien qui a besoin d'**exercice quotidien** et de **stimulation mentale**.
 
-## Santé et bien-être :
-Le Corgi est prédisposé à la dysplasie de la hanche, aux problèmes oculaires et à la maladie de von Willebrand (un trouble de la coagulation). Il a tendance à l'embonpoint.
+Il peut avoir tendance à **mordiller les talons** (comportement de troupeau) et à **aboyer**.
 
-## Un peu d'histoire :
-Originaire du Pays de Galles, le Corgi était utilisé pour conduire les troupeaux de vaches en leur mordillant les jarrets. Il est devenu célèbre grâce à la reine Elizabeth II. 
+### Mythe 1: "Le Corgi est un chien de canapé."
+
+Le Corgi est un chien de **travail** qui a besoin de se dépenser.
+
+Il adore les **longues promenades** et les **jeux**.
+
+### Mythe 2: "Le Corgi est un petit chien facile."
+
+Le Corgi est très **intelligent** et peut se montrer **têtu**.
+
+Il a besoin d'une **éducation ferme** et **positive**.
+
+## Activités pour un chien épanoui
+
+Des **promenades quotidiennes**, des **jeux de balle** et des **activités de pistage** sont parfaits pour lui.
+
+Il peut exceller en **agility** et en **obéissance**.
+
+## Santé et bien-être
+
+Le Corgi est prédisposé à plusieurs affections :
+
+• **Dysplasie de la hanche**
+• **Problèmes oculaires**
+• **Maladie de von Willebrand** (un trouble de la coagulation)
+
+Il a tendance à l'**embonpoint**.
+
+## Un peu d'histoire
+
+Originaire du **Pays de Galles**, le Corgi était utilisé pour conduire les troupeaux de vaches.
+
+Il leur **mordillait les jarrets** pour les diriger.
+
+Il est devenu célèbre grâce à la **reine Elizabeth II**.
+
+**Un Corgi bien stimulé devient un compagnon intelligent et équilibré, pour le bonheur de toute la famille.** 

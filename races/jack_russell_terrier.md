@@ -7,9 +7,13 @@ nav_order: 13
 
 # Le Jack Russell Terrier
 
-Le Jack Russell Terrier est un petit chien de chasse énergique, intelligent et plein de vie.
+**Choisir un Jack Russell, c'est choisir un compagnon énergique et intelligent.**
 
-| Fiche d'identité | |
+Le Jack Russell Terrier est un petit chien de chasse **énergique**, **intelligent** et plein de vie.
+
+## Fiche d'identité
+
+| Caractéristique | Détails |
 |---|---|
 | **Taille** | 25-30 cm |
 | **Poids** | 5-6 kg |
@@ -17,23 +21,46 @@ Le Jack Russell Terrier est un petit chien de chasse énergique, intelligent et 
 | **Type de poil** | Lisse, rêche ou "fil de fer" |
 | **Couleurs** | Majoritairement blanc, avec des taches noires ou feu |
 
-## Présentation générale :
-Le Jack Russell Terrier est un chien courageux, vif et très attaché à sa famille. Il est connu pour son énergie inépuisable et son fort instinct de chasse.
+## Présentation générale
 
-## Un compagnon pour la vie : Tempérament et besoins réels :
-C'est un chien qui a besoin de beaucoup d'exercice et de stimulation mentale. Il n'est pas fait pour une vie en appartement s'il ne peut pas se dépenser suffisamment.
+Le Jack Russell Terrier est un chien **courageux**, **vif** et très attaché à sa famille.
 
-> ### Mythe 1: "Le Jack Russell est un chien hyperactif."
-> Le Jack Russell a une grande énergie, mais il n'est pas hyperactif s'il bénéficie d'une dépense physique et mentale adéquate.
+Il est connu pour son **énergie inépuisable** et son **fort instinct de chasse**.
 
-> ### Mythe 2: "Le Jack Russell est un chien aboyeur."
-> Il peut aboyer pour exprimer son excitation ou pour alerter, mais une bonne éducation peut canaliser ce comportement.
+## Un compagnon pour la vie : Tempérament et besoins réels
 
-## Activités pour un chien épanoui :
-De longues promenades, des jeux de balle et des activités de pistage sont parfaits pour lui. L'agility et le flyball sont également d'excellents sports pour ce chien athlétique.
+C'est un chien qui a besoin de beaucoup d'**exercice** et de **stimulation mentale**.
 
-## Santé et bien-être :
-Le Jack Russell Terrier est une race robuste, mais peut être sujet à des problèmes oculaires, à la surdité et à la luxation de la rotule.
+Il n'est pas fait pour une vie en appartement s'il ne peut pas se dépenser suffisamment.
 
-## Un peu d'histoire :
-Créé en Angleterre par le Révérend John (Jack) Russell, ce chien était destiné à la chasse au renard. 
+### Mythe 1: "Le Jack Russell est un chien hyperactif."
+
+Le Jack Russell a une grande **énergie**, mais il n'est pas hyperactif s'il bénéficie d'une **dépense physique** et **mentale** adéquate.
+
+### Mythe 2: "Le Jack Russell est un chien aboyeur."
+
+Il peut aboyer pour exprimer son **excitation** ou pour **alerter**.
+
+Une bonne **éducation** peut canaliser ce comportement.
+
+## Activités pour un chien épanoui
+
+De **longues promenades**, des **jeux de balle** et des **activités de pistage** sont parfaits pour lui.
+
+L'**agility** et le **flyball** sont également d'excellents sports pour ce chien athlétique.
+
+## Santé et bien-être
+
+Le Jack Russell Terrier est une race **robuste**, mais peut être sujet à plusieurs affections :
+
+• **Problèmes oculaires**
+• **Surdité**
+• **Luxation de la rotule**
+
+## Un peu d'histoire
+
+Créé en **Angleterre** par le Révérend John (Jack) Russell.
+
+Ce chien était destiné à la **chasse au renard**.
+
+**Un Jack Russell bien stimulé devient un compagnon joyeux et équilibré, pour le bonheur de toute la famille.** 
