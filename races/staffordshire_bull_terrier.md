@@ -30,3 +30,7 @@ Le Staffordshire Bull Terrier est généralement robuste, mais il est sujet à c
 
 ## Un peu d'histoire :
 Le Staffordshire Bull Terrier est originaire du Royaume-Uni, plus précisément des régions du nord de Birmingham et du Black Country de Staffordshire, au XIXe siècle. Il descend des "bull and terriers", des croisements entre Bulldogs et divers Terriers, initialement développés pour les combats de chiens, une pratique interdite en 1835. La race a été officiellement reconnue par le Kennel Club de Grande-Bretagne en 1935. 
+
+[Précédent](./rottweiler.md) | [Suivant](./teckel.md)
+
+[Retour à l'accueil](../index.md) 

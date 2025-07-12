@@ -19,3 +19,7 @@
 2. Demandez des sauts plus complexes (ex: par-dessus plusieurs petits obstacles).
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien saute par-dessus l'obstacle ou dans les bras de son humain de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Adaptez la hauteur de l'obstacle à la taille et aux capacités physiques de votre chien. Évitez les sauts répétés pour les chiots ou les chiens âgés pour protéger leurs articulations. 
+
+[Précédent](./salut.md) | [Suivant](./slalome.md)
+
+[Retour à l'accueil](../index.md) 

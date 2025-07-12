@@ -30,3 +30,7 @@ Le Teckel est généralement rustique et robuste, mais sa morphologie unique (co
 
 ## Un peu d'histoire :
 L'origine du Teckel remonte à l'Allemagne médiévale, où il était très populaire pour la chasse au blaireau au XVIIe siècle. Son nom "Dachshund" est composé des mots allemands "dach" (blaireau) et "hund" (chien). La variété Kaninchen (qui signifie "lapin" en allemand) a été spécifiquement créée pour chasser ce petit gibier dans ses terriers. La race a gagné en popularité en tant que chien de compagnie, notamment grâce à la Reine Victoria. 
+
+[Précédent](./staffordshire_bull_terrier.md) | [Suivant](./welsh_corgi_pembroke.md)
+
+[Retour à l'accueil](../index.md) 

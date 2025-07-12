@@ -30,3 +30,7 @@ Le Jack Russell Terrier est généralement une race robuste. Bien que les snippe
 
 ## Un peu d'histoire :
 Le Jack Russell Terrier a été créé par le révérend John Russell en Angleterre au XIXe siècle. Son objectif était de développer un chien de chasse capable de débusquer le gibier (notamment le renard) dans les terriers sans le tuer. Il est important de le distinguer du Parson Russell Terrier, qui est plus haut sur pattes. 
+
+[Précédent](./golden_retriever.md) | [Suivant](./labrador_retriever.md)
+
+[Retour à l'accueil](../index.md) 

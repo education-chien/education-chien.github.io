@@ -29,3 +29,7 @@
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien marche calmement à côté de son humain, sans tirer sur la laisse, l'épaule à hauteur du genou, de manière fiable (90% du temps) dans des environnements variés et avec des distractions, et s'arrête lorsque l'humain s'arrête.
 - **Conseils du Coach** : Ne jamais tirer sur la laisse pour corriger. L'arrêt est la meilleure correction. Le chien doit apprendre que tirer ne mène nulle part. 
+
+[Précédent](./assis.md) | [Suivant](./bisou.md)
+
+[Retour à l'accueil](../index.md) 

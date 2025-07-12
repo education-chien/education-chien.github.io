@@ -19,3 +19,7 @@
 2. Demandez le recul sur une plus longue distance.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien recule de plusieurs pas de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans contact physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Soyez patient, certains chiens sont moins à l'aise avec le mouvement de recul. 
+
+[Précédent](./rapporte.md) | [Suivant](./reste.md)
+
+[Retour à l'accueil](../index.md) 

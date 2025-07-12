@@ -31,3 +31,7 @@ Le Labrador Retriever est une race robuste, mais il est prédisposé à plusieur
 
 ## Un peu d'histoire :
 Le Labrador Retriever est originaire de Terre-Neuve, au Canada, et non du Labrador comme son nom pourrait le suggérer. Au XIXe siècle, il était initialement appelé "chien de St. John's" et travaillait aux côtés des pêcheurs pour récupérer leurs prises. Vers 1830, les Labradors ont été importés en Angleterre, où ils ont été développés comme rapporteurs de gibier par des nobles. La race a été reconnue par le Kennel Club en 1903. 
+
+[Précédent](./jack_russell_terrier.md) | [Suivant](./rottweiler.md)
+
+[Retour à l'accueil](../index.md) 

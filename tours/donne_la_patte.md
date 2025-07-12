@@ -22,3 +22,7 @@
 3. Introduisez des distractions plus importantes.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien lève sa patte et la pose dans la main de son humain (ou vers lui) de manière immédiate et fiable (90% du temps) sur l'ordre "Patte", sans aide physique ou visuelle, dans des environnements variés.
 ⦁ Conseils du Coach : Si le chien ne lève pas la patte, vous pouvez la soulever doucement vous-même en disant l'ordre, puis récompenser. 
+
+[Précédent](./couche.md) | [Suivant](./fais_le_beau.md)
+
+[Retour à l'accueil](../index.md) 

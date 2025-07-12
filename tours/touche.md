@@ -18,3 +18,7 @@
 2. Variez les cibles et les positions.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien touche la cible désignée avec son museau de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, à distance et dans des environnements variés avec des distractions modérées.
 ⦁ Conseils du Coach : Le "Touche" est une excellente base pour le travail à distance. 
+
+[Précédent](./tope_la.md) | [Suivant](./tourne.md)
+
+[Retour à l'accueil](../index.md) 

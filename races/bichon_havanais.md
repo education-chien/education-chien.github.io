@@ -30,3 +30,7 @@ Le Bichon Havanais est généralement un chien en bonne santé avec une longue e
 
 ## Un peu d'histoire :
 Le Bichon Havanais est la seule race originaire de Cuba, et il tient son nom de La Havane, la capitale. Ses ancêtres, des bichons anciens (liés au Bichon Frisé et au Bichon Maltais), sont arrivés à Cuba au XVIIe siècle avec les colons espagnols et italiens. Il était initialement un chien de poche prisé par l'aristocratie cubaine, avant de devenir un animal de compagnie et même un chien de garde pour la volaille. La race a failli s'éteindre, mais a été relancée aux États-Unis par des familles cubaines en exil. 
+
+[Précédent](./berger_australien.md) | [Suivant](./bichon_maltais.md)
+
+[Retour à l'accueil](../index.md) 

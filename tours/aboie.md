@@ -25,3 +25,7 @@
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien aboie de manière immédiate et fiable (90% du temps) sur l'ordre "Aboie", sans provocation, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Ne jamais récompenser les aboiements non sollicités pour éviter d'encourager les aboiements excessifs. 
+
+[Précédent](./introduction.md) | [Suivant](./assis.md)
+
+[Retour à l'accueil](../index.md) 

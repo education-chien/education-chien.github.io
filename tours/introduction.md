@@ -44,4 +44,7 @@ Notre approche est basée sur la patience, le plaisir et le renforcement positif
 *   [Recule](./recule.md)
 
 ## Conclusion
-*   [Conclusion](./conclusion.md) 
+*   [Conclusion](./conclusion.md)
+
+[Suivant](./aboie.md)
+[Retour à l'accueil](../index.md) 

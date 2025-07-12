@@ -30,3 +30,7 @@ Le Yorkshire Terrier est prédisposé à plusieurs affections. Les problèmes de
 
 ## Un peu d'histoire :
 Le Yorkshire Terrier est d'origine britannique, apparu au milieu du XIXe siècle dans le Yorkshire, en Angleterre. Il descend de divers petits terriers écossais (Clydesdales, Paisleys, Skye Terriers) amenés par des ouvriers écossais. Initialement, il était utilisé pour chasser les rats dans les mines et scieries, et les petits animaux dans leurs terriers. Il est devenu un chien de salon à la mode à la fin de l'époque victorienne. "Huddersfield Ben", né en 1870, est un célèbre ancêtre de la race. 
+
+[Précédent](./welsh_corgi_pembroke.md)
+
+[Retour à l'accueil](../index.md) 

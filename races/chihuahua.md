@@ -30,3 +30,7 @@ Malgré leur petite taille, les Chihuahuas ont une très longue espérance de vi
 
 ## Un peu d'histoire :
 Le Chihuahua tire son nom de l'État de Chihuahua au Mexique, où la race a été découverte au milieu du XIXe siècle. Son origine exacte est débattue, mais il pourrait descendre du Techichi, un petit chien domestique des Aztèques. La race a gagné en popularité au début du XXe siècle, notamment grâce à des personnalités comme l'artiste Frida Kahlo. Les premiers Chihuahuas ont été enregistrés à l'American Kennel Club en 1904. 
+
+[Précédent](./caniche.md) | [Suivant](./golden_retriever.md)
+
+[Retour à l'accueil](../index.md) 

@@ -30,3 +30,7 @@ Le Boxer est prédisposé à plusieurs affections. Les problèmes de santé cour
 
 ## Un peu d'histoire :
 Le Boxer est une race canine d'origine allemande, apparue dans les années 1880. Il descend de deux chiens de type Mastiff utilisés comme chiens de chasse au Moyen Âge en Allemagne (notamment le Bullenbeißer). Le Boxer a été créé comme chien de défense, dans le but de retrouver une race moins agressive que certaines lignées de Bullenbeißer. Le Boxer Club Allemand de Munich a été fondé en 1895, et le premier standard a été publié en 1902. Il a été classé comme chien de travail depuis 1924. 
+
+[Précédent](./bouledogue_francais.md) | [Suivant](./cane_corso.md)
+
+[Retour à l'accueil](../index.md) 

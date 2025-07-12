@@ -30,3 +30,7 @@ Le Berger Australien est généralement une race robuste, mais un dépistage est
 
 ## Un peu d'histoire :
 Malgré son nom, le Berger Australien n'est pas originaire d'Australie. Ses racines se trouvent au Pays Basque, une région montagneuse entre la France et l'Espagne, où des bergers utilisaient des chiens ressemblant beaucoup à l'Aussie actuel. La race a été développée et son standard établi aux États-Unis, où elle était appréciée pour le travail avec les troupeaux de moutons. Le Berger Australien est arrivé en France au début de l'année 1988 et a été reconnu par la Fédération Cynologique Internationale (FCI) en 1996. 
+
+[Précédent](./berger_allemand.md) | [Suivant](./bichon_havanais.md)
+
+[Retour à l'accueil](../index.md) 

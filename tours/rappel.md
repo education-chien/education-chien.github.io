@@ -20,3 +20,7 @@
 ⦁ Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
 1. Pratiquez dans des environnements de plus en plus stimulants (parc avec d'autres chiens, personnes, odeurs) et l'environnement, même sans laisse.
 ⦁ Conseils du Coach : Ne jamais gronder ou punir le chien s'il ne revient pas, cela associerait le retour à une expérience négative. Rendez le rappel le plus gratifiant possible. 
+
+[Précédent](./range.md) | [Suivant](./rapporte.md)
+
+[Retour à l'accueil](../index.md) 

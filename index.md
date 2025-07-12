@@ -1,4 +1,4 @@
-# Bienvenue sur le Guide Canin Complet
+# Découvrez nos guides d'éducation canine
 
 Ce site est une ressource complète pour tous les propriétaires de chiens, qu'ils soient nouveaux ou expérimentés. Vous y trouverez des informations détaillées et des conseils pratiques pour vous aider à bâtir une relation harmonieuse et épanouissante avec votre compagnon à quatre pattes.
 

@@ -30,3 +30,7 @@ Le Cane Corso est généralement une race robuste, mais il est prédisposé à c
 
 ## Un peu d'histoire :
 Le Cane Corso est une race de molosse d'origine italienne, dont l'histoire remonte aux chiens de guerre de l'ancienne Rome (Molossiens). Après la chute de l'Empire romain, ces chiens se sont intégrés à la vie rurale italienne, où ils ont été sélectionnés pour devenir des chiens de ferme polyvalents, gardiens de propriété, chasseurs de gros gibier (sangliers) et conducteurs de bétail. La race a failli disparaître après les deux guerres mondiales, mais a connu un renouveau grâce à des passionnés italiens dans les années 1970 et 1980. Le nom "Cane Corso" est dérivé du latin "Cohors", signifiant "gardien" ou "protecteur". La race a été pleinement reconnue par la FCI en 2007 et par l'AKC en 2010. 
+
+[Précédent](./boxer.md) | [Suivant](./caniche.md)
+
+[Retour à l'accueil](../index.md) 

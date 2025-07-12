@@ -19,3 +19,7 @@
 2. Demandez-lui de ranger des jouets plus éloignés.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien prend ses jouets un par un et les dépose dans la boîte de manière fiable (80% du temps) sur l'ordre "Range", sans guide physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Félicitez chaleureusement après chaque jouet rangé. 
+
+[Précédent](./rampe.md) | [Suivant](./rappel.md)
+
+[Retour à l'accueil](../index.md) 

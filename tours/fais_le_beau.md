@@ -22,3 +22,7 @@
 3. Introduisez des distractions plus importantes.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien se met en position "Fais le beau" de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, maintient la position plusieurs secondes, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Attention au dos du chien. Ne pas abuser de ce tour, surtout pour les chiens de grande taille ou ayant des problèmes de dos. 
+
+[Précédent](./donne_la_patte.md) | [Suivant](./fais_le_mort.md)
+
+[Retour à l'accueil](../index.md) 

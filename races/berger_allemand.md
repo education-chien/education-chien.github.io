@@ -30,3 +30,7 @@ Le Berger Allemand est une race généralement robuste, mais il est prédisposé
 
 ## Un peu d'histoire :
 Le Berger Allemand, dans sa forme actuelle, est apparu à la fin du XIXe siècle en Allemagne, principalement grâce au travail du capitaine Max von Stephanitz, considéré comme le père de la race. Il a été développé à partir de variétés de chiens de berger régionales, notamment les Thuringe et les Würtemberg. Le standard de la race a été fixé en 1899 et a évolué au fil des révisions. Le Berger Allemand a prouvé sa valeur en tant que chien de guerre pendant la Première Guerre mondiale. 
+
+[Précédent](./1_comprendre_votre_compagnon.md) | [Suivant](./berger_australien.md)
+
+[Retour à l'accueil](../index.md) 

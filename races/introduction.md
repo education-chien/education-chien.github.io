@@ -22,4 +22,7 @@ Bienvenue dans notre guide des races de chiens ! Choisir un nouveau compagnon es
 *   [Le Staffordshire Bull Terrier](./staffordshire_bull_terrier.md)
 *   [Le Teckel](./teckel.md)
 *   [Le Welsh Corgi Pembroke](./welsh_corgi_pembroke.md)
-*   [Le Yorkshire Terrier](./yorkshire_terrier.md) 
+*   [Le Yorkshire Terrier](./yorkshire_terrier.md)
+
+[Suivant](./1_comprendre_votre_compagnon.md)
+[Retour à l'accueil](../index.md) 

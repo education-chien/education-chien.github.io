@@ -20,3 +20,7 @@
 2. Augmentez la fluidité et la vitesse du mouvement.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien exécute le "8" de manière fluide et fiable (90% du temps) entre les jambes de son humain (immobile ou en mouvement très lent) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Ce tour est une excellente base pour l'obérythmée. 
+
+[Précédent](./fais_le_mort.md) | [Suivant](./lumiere.md)
+
+[Retour à l'accueil](../index.md) 

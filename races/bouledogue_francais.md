@@ -31,3 +31,7 @@ Le Bouledogue Français est sujet à plusieurs problèmes de santé en raison de
 
 ## Un peu d'histoire :
 L'ancêtre du Bouledogue Français serait le Bouledogue Anglais, qui aurait été croisé avec des terriers en France, dans les années 1880, pour réduire son gabarit. Il était initialement utilisé comme chasseur de nuisibles et gardien, notamment auprès des bouchers et cochers. Il a rapidement quitté ces milieux pour devenir un chien de compagnie prisé par la bourgeoisie et la noblesse au début du XXe siècle. Le standard de la race a été fixé en 1889 et la race a été reconnue par la Société Centrale Canine en 1898. 
+
+[Précédent](./border_collie.md) | [Suivant](./boxer.md)
+
+[Retour à l'accueil](../index.md) 

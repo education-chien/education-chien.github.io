@@ -30,3 +30,7 @@ Le Rottweiler est une race robuste, mais il est prédisposé à plusieurs probl�
 
 ## Un peu d'histoire :
 Le Rottweiler est une race très ancienne, dont l'histoire remonte à l'Empire Romain. Il descend des mastiffs de l'armée romaine, utilisés pour conduire le bétail et comme chiens de combat. Au Moyen Âge, il a été utilisé comme chien de garde par des bouchers itinérants dans la ville de Rottweil en Allemagne, d'où il tire son nom complet "Rottweiler Metzgerhund" (chien de boucher de Rottweil). Sa popularité a décliné avec le transport du bétail par train au XIXe siècle, mais il a trouvé de nouvelles vocations comme chien policier, de garde personnel et chien-guide. La race a été officiellement reconnue en 1966 en France. 
+
+[Précédent](./labrador_retriever.md) | [Suivant](./staffordshire_bull_terrier.md)
+
+[Retour à l'accueil](../index.md) 

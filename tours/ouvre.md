@@ -19,3 +19,7 @@
 2. Demandez le tour à distance.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien ouvre la porte/tiroir désigné de manière immédiate et fiable (90% du temps) sur l'ordre "Ouvre", sans guide physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Commencez par des portes ou tiroirs très faciles à ouvrir. 
+
+[Précédent](./monte_descend.md) | [Suivant](./porte.md)
+
+[Retour à l'accueil](../index.md) 

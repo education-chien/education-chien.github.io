@@ -30,3 +30,7 @@ Le Welsh Corgi Pembroke est généralement robuste, mais il est prédisposé à 
 
 ## Un peu d'histoire :
 L'origine exacte du Welsh Corgi Pembroke est incertaine, mêlant folklore et théories historiques. Il est possible qu'il descende de chiens scandinaves (type Spitz) amenés par les Vikings au Pays de Galles au IXe ou Xe siècle, croisés avec des chiens locaux. Historiquement, il était un chien de berger précieux, utilisé pour garder et conduire le bétail dans les collines galloises. La race a gagné en popularité mondiale grâce à la Reine Elizabeth II, qui en était une grande amatrice. La distinction officielle entre le Pembroke et le Cardigan Welsh Corgi n'a été établie qu'en 1934. 
+
+[Précédent](./teckel.md) | [Suivant](./yorkshire_terrier.md)
+
+[Retour à l'accueil](../index.md) 

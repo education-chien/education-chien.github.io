@@ -30,3 +30,7 @@ Le Golden Retriever est prédisposé à plusieurs affections. Parmi les plus cou
 
 ## Un peu d'histoire :
 Le Golden Retriever est originaire de Grande-Bretagne, plus précisément d'Écosse, où il a été développé au XIXe siècle comme rapporteur de gibier à plume, notamment pour la chasse à la sauvagine. La race est issue de croisements initiés par Lord Tweedmouth, qui a accouplé un Flat-Coated Retriever jaune nommé "Nous" avec une Tweed Water Spaniel appelée "Belle". La légende selon laquelle les Golden Retrievers descendraient de chiens de cirque russes est un mythe. La race a été reconnue par le Kennel Club en 1903. 
+
+[Précédent](./chihuahua.md) | [Suivant](./jack_russell_terrier.md)
+
+[Retour à l'accueil](../index.md) 

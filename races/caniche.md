@@ -21,3 +21,7 @@ Cette idée est un cliché dépassé. Le Caniche, dans toutes ses tailles, est u
 
 ### Mythe 2: "Les Caniches sont fragiles et capricieux."
 Les Caniches sont des chiens résistants et équilibrés. Leur intelligence et leur sensibilité les rendent très réceptifs à l'éducation positive. Si un Caniche semble capricieux, c'est souvent le signe d'un manque de cadre, d'une socialisation insuffisante ou d'un besoin de stimulation non 
+
+[Précédent](./cane_corso.md) | [Suivant](./chihuahua.md)
+
+[Retour à l'accueil](../index.md) 

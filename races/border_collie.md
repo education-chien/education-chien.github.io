@@ -31,3 +31,7 @@ Le Border Collie est généralement une race solide, mais il est important de d�
 
 ## Un peu d'histoire :
 Le Border Collie est originaire de la région frontalière anglo-écossaise ("Anglo-Scottish border"). Il descend des chiens de berger traditionnels des îles britanniques. "Old Hemp", né en 1893, est considéré comme l'ancêtre de tous les Border Collies de pure race actuels. Le terme "Border Collie" a été utilisé pour la première fois en 1915 pour le distinguer des autres types de Collies. 
+
+[Précédent](./bichon_maltais.md) | [Suivant](./bouledogue_francais.md)
+
+[Retour à l'accueil](../index.md) 

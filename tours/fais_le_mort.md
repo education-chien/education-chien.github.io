@@ -20,3 +20,7 @@
 3. Introduisez des distractions plus importantes.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien s'allonge sur le flanc, la tête au sol, et reste immobile de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, depuis différentes positions (assis, debout), dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Récompensez généreusement les exécutions parfaites pour encourager l'ensemble du mouvement. 
+
+[Précédent](./fais_le_beau.md) | [Suivant](./huit.md)
+
+[Retour à l'accueil](../index.md) 

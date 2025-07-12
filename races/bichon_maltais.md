@@ -30,3 +30,7 @@ Le Bichon Maltais est prédisposé à plusieurs affections. Les problèmes de sa
 
 ## Un peu d'histoire :
 Le Bichon Maltais est une race très ancienne, appréciée comme animal de compagnie depuis plus de 3000 ans. Malgré son nom, il n'est pas d'origine maltaise. Ses traces remontent à l'Égypte et la Grèce antiques. Il aurait été importé en Angleterre par Marie Stuart et était adoré par Henri III en France. 
+
+[Précédent](./bichon_havanais.md) | [Suivant](./border_collie.md)
+
+[Retour à l'accueil](../index.md) 
