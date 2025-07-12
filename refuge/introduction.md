@@ -1,3 +1,14 @@
-# L'Adoption d'un Chien de Refuge : Un Guide Éclairé pour les Primo-Adoptants
+# Adopter en Refuge : Un Guide Complet
 
-L'adoption d'un chien de refuge représente un acte d'amour profond et un engagement significatif. Pour les primo-adoptants, cette aventure, bien que gratifiante, peut soulever de nombreuses questions et incertitudes. Ce guide est conçu pour accompagner les futurs propriétaires, en démystifiant les idées reçues et en offrant des conseils pratiques, empreints d'empathie et basés sur des recherches scientifiques rigoureuses, afin de bâtir une relation harmonieuse et durable avec leur nouveau compagnon. 
+Adopter un chien de refuge est une démarche généreuse qui offre une seconde chance à un animal. Ce guide vous accompagne à chaque étape de ce parcours, de la préparation de l'adoption à la gestion des défis comportementaux, pour que cette expérience soit une réussite pour vous et votre nouveau compagnon.
+
+## Nos Guides pour l'Adoption
+
+*   [Préparer l'Adoption](./1_preparer_adoption.md)
+*   [Aménager le Foyer](./2_amenager_foyer.md)
+*   [Les Premiers Jours](./3_premiers_jours.md)
+*   [Éducation et Socialisation](./4_education_socialisation.md)
+*   [Santé et Bien-être](./5_sante_bien_etre.md)
+*   [Comprendre le Langage Canin](./6_langage_canin.md)
+*   [Gérer les Défis Comportementaux](./7_defis_comportementaux.md)
+*   [Conclusion](./conclusion.md) 
