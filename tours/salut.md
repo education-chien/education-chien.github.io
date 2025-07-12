@@ -31,5 +31,3 @@ nav_order: 26
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien exécute la révérence de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Ce mouvement est naturel pour les chiens, ce qui peut faciliter l'apprentissage. 
-
-[Retour à l'accueil](../index.md) 

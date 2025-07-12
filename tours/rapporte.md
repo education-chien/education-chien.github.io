@@ -34,5 +34,3 @@ nav_order: 22
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien va chercher l'objet désigné, le ramène et le lâche dans la main de son humain de manière immédiate et fiable (90% du temps) sur l'ordre "Rapporte", dans des environnements variés et avec des distractions.
 - **Conseils du Coach** : Félicitez toujours le chien quand il lâche l'objet, même s'il ne le fait pas directement dans votre main au début. 
-
-[Retour à l'accueil](../index.md) 

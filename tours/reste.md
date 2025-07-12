@@ -37,5 +37,3 @@ nav_order: 24
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien maintient la position demandée (assis, couché) de manière fiable (90% du temps) pendant une durée prolongée (plusieurs minutes) et à distance, dans des environnements variés et avec des distractions, jusqu'à ce qu'un signal de libération soit donné.
 - **Conseils du Coach** : Si le chien bouge avant le signal de libération, ne le grondez pas. Ramenez-le calmement à sa position et reprenez l'étape précédente avec moins de difficulté. 
-
-[Retour à l'accueil](../index.md) 

@@ -35,5 +35,3 @@ nav_order: 28
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien slalome de manière fluide et fiable (90% du temps) entre les jambes de son humain qui marche, sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Rendez le mouvement fluide et amusant. Félicitez beaucoup pour maintenir l'énergie du chien. 
-
-[Retour à l'accueil](../index.md) 

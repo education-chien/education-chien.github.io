@@ -32,5 +32,3 @@ nav_order: 29
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien lève sa patte et touche la main de son humain de manière immédiate et fiable (90% du temps) sur l'ordre "Tope là", sans guide physique, à différentes hauteurs, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Rendez le jeu très enthousiasmant avec des félicitations vocales. 
-
-[Retour à l'accueil](../index.md) 

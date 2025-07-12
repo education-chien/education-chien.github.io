@@ -42,5 +42,3 @@ Les destructions sont souvent un signe de mal-être, de stress, d'ennui ou d'anx
     - Gérer l'environnement : Rangez les objets précieux ou dangereux hors de portée.
     - Traiter l'anxiété de séparation : Appliquez les conseils mentionnés précédemment (absences progressives, banalisation des départs/retours, jouets d'occupation).
 - **Ne jamais punir** : La punition est inefficace et peut aggraver le stress. 
-
-[Retour à l'accueil](../index.md) 

@@ -32,5 +32,3 @@ nav_order: 16
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien monte ou descend de diverses surfaces de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Toujours s'assurer que la surface est stable et sécuritaire pour le chien. 
-
-[Retour à l'accueil](../index.md) 

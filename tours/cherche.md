@@ -34,5 +34,3 @@ nav_order: 7
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien trouve la friandise/jouet caché de manière fiable (90% du temps) sur l'ordre "Cherche", même lorsque la cachette est complexe et dans des environnements variés avec des distractions.
 - **Conseils du Coach** : Commencez toujours par des cachettes très faciles pour que le chien comprenne le principe. 
-
-[Retour à l'accueil](../index.md) 

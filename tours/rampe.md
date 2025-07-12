@@ -35,5 +35,3 @@ nav_order: 19
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien rampe de manière fluide et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, sur plusieurs mètres, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Si le chien se lève, reprenez l'étape précédente. Assurez-vous que la friandise reste très basse. 
-
-[Retour à l'accueil](../index.md) 

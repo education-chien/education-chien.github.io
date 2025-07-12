@@ -33,5 +33,3 @@ nav_order: 13
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien exécute le "8" de manière fluide et fiable (90% du temps) entre les jambes de son humain (immobile ou en mouvement très lent) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Ce tour est une excellente base pour l'obérythmée. 
-
-[Retour à l'accueil](../index.md) 

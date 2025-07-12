@@ -31,5 +31,3 @@ nav_order: 14
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien touche l'interrupteur pour allumer/éteindre la lumière de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Assurez-vous que l'interrupteur est à une hauteur accessible et sécuritaire pour le chien. 
-
-[Retour à l'accueil](../index.md) 

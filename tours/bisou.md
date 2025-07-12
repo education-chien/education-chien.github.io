@@ -32,5 +32,3 @@ nav_order: 4
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien pose son museau ou lèche la joue de son humain de manière immédiate et fiable (90% du temps) sur l'ordre "Bisou", sans aide physique, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Si votre chien vous lèche souvent naturellement, récompensez-le à ce moment-là en disant "Bisou" pour l'associer à l'ordre. 
-
-[Retour à l'accueil](../index.md) 

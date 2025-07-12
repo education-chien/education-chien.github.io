@@ -33,5 +33,3 @@ nav_order: 5
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien vous trouve de manière fiable (90% du temps) sur l'ordre "Cherche" ou "Viens me trouver", même lorsque la cachette est complexe et dans des environnements variés avec des distractions.
 - **Conseils du Coach** : Rendez le jeu très excitant et gratifiant pour le chien. 
-
-[Retour à l'accueil](../index.md) 

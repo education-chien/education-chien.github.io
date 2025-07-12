@@ -32,5 +32,3 @@ nav_order: 18
 
 - **Quand l'Exercice est Maîtrisé?** : Le chien prend l'objet désigné et le tient en gueule de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, pendant plusieurs secondes, dans des environnements variés et avec des distractions modérées.
 - **Conseils du Coach** : Assurez-vous que l'objet est sûr et qu'il ne peut pas l'avaler. 
-
-[Retour à l'accueil](../index.md) 

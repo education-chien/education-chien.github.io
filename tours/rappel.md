@@ -33,5 +33,3 @@ nav_order: 21
 1. Pratiquez dans des environnements de plus en plus stimulants (parc avec d'autres chiens, personnes, odeurs) et l'environnement, même sans laisse.
 
 - **Conseils du Coach** : Ne jamais gronder ou punir le chien s'il ne revient pas, cela associerait le retour à une expérience négative. Rendez le rappel le plus gratifiant possible. 
-
-[Retour à l'accueil](../index.md) 
