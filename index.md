@@ -123,3 +123,9 @@ Explorez nos guides pratiques et faites de chaque jour une aventure réussie ave
 *   [Le Teckel](./races/teckel.md)
 *   [Le Welsh Corgi Pembroke](./races/welsh_corgi_pembroke.md)
 *   [Le Yorkshire Terrier](./races/yorkshire_terrier.md) 
+
+### Mythes
+*   [Introduction](./mythes/introduction.md)
+*   [Le mythe de la dominance](./mythes/dominance.md)
+*   [Un an humain vaut sept ans canins](./mythes/age.md)
+*   [Les races dites "dangereuses" sont naturellement agressives](./mythes/races_dangereuses.md) 
