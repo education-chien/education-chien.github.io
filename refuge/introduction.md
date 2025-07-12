@@ -1,0 +1,2 @@
+L'Adoption d'un Chien de Refuge : Un Guide Éclairé pour les Primo-Adoptants
+L'adoption d'un chien de refuge représente un acte d'amour profond et un engagement significatif. Pour les primo-adoptants, cette aventure, bien que gratifiante, peut soulever de nombreuses questions et incertitudes. Ce guide est conçu pour accompagner les futurs propriétaires, en démystifiant les idées reçues et en offrant des conseils pratiques, empreints d'empathie et basés sur des recherches scientifiques rigoureuses, afin de bâtir une relation harmonieuse et durable avec leur nouveau compagnon. 

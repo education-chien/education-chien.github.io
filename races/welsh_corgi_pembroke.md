@@ -1,0 +1,24 @@
+2.13 Le Welsh Corgi Pembroke
+
+Le Welsh Corgi Pembroke, chouchou de la noblesse britannique, est un chien intelligent et vif qui a conquis une place de choix parmi les races populaires en France.
+Fiche d'identité rapide :
+Taille : Généralement entre 25 et 30 cm.
+Poids : Mâle 10-13 kg, Femelle 9-11 kg.
+Espérance de vie : Généralement entre 12 et 15 ans.
+Type de poil : Double, avec une couche externe imperméable et une couche interne douce pour l'isolation.
+Couleurs : Rouge, fauve, sable et tricolore, souvent avec des marques blanches distinctives sur le visage, le poitrail et les pattes.
+Présentation générale :
+Le Welsh Corgi Pembroke est un chien courageux, intelligent et facile à vivre malgré ses pattes courtes. Il déborde d'énergie et adore l'action. Très attaché à sa famille, il peut se montrer protecteur et est reconnu pour sa personnalité vive et son désir de plaire.
+Un compagnon pour la vie : Tempérament et besoins réels :
+Le Corgi s'entend généralement bien avec les enfants et les autres animaux domestiques, à condition d'une socialisation précoce. Il a besoin de stimulations physiques et mentales quotidiennes pour être heureux et équilibré. C'est une "boule d'énergie" qui doit se dépenser. Il peut se montrer méfiant envers les étrangers, ce qui en fait un bon chien de garde. Il peut parfois être têtu, nécessitant une approche positive et cohérente dans son éducation.
+Démystifions les idées reçues :
+Mythe 1: "Le Corgi est un chien de canapé en raison de ses petites pattes."
+Malgré ses petites pattes et son allure attendrissante, le Corgi est loin d'être un chien de canapé. C'est un chien de berger, historiquement élevé pour conduire et garder le bétail, ce qui lui confère une énergie débordante et un besoin significatif d'activité. Le fait de le confiner à une vie sédentaire peut le rendre frustré, vocal (aboiements excessifs) ou développer des comportements destructeurs. Son tempérament vif et son intelligence exigent une stimulation physique et mentale quotidienne. L'idée que sa morphologie le destine à une vie tranquille est une erreur qui peut compromettre son bien-être et son équilibre.
+Mythe 2: "Les Corgis sont agressifs ou mordeurs."
+Le Corgi peut se montrer vocal, aboyant pour attirer l'attention ou alerter. Il peut aussi être "bougon" ou "râleur". Cependant, l'agressivité n'est pas un trait inhérent à la race. Un Corgi bien socialisé et éduqué positivement est généralement un compagnon doux et amical. Les comportements indésirables, comme l'aboiement excessif ou le mordillement, sont souvent le signe d'un manque de stimulation, d'ennui, ou d'une mauvaise gestion de son énergie et de ses instincts de berger (par exemple, mordiller les chevilles pour "rassembler"). Une éducation cohérente, basée sur le renforcement positif, et une socialisation précoce sont essentielles pour canaliser ces comportements et faire du Corgi un chien équilibré.
+Activités pour un chien épanoui :
+Le Corgi a besoin de stimulations physiques et mentales quotidiennes. Les promenades régulières sont essentielles, et il apprécie les jeux de rappel, de balle ou de frisbee. La randonnée et la course à pied sont des options pour les Corgis sportifs. Il excelle également dans l'agility. La stimulation mentale est cruciale et peut être apportée par des jeux d'obéissance (apprentissage de nouveaux tours), des jouets distributeurs de nourriture, des puzzles pour chien, et des jeux d'équilibre. Les jeux d'odorat et de cache-cache sont aussi très bénéfiques.
+Santé et bien-être :
+Le Welsh Corgi Pembroke est généralement robuste, mais il est prédisposé à certains problèmes de santé, notamment en raison de sa morphologie. Les affections courantes incluent les problèmes articulaires (dysplasie de la hanche, maladies dégénératives du disque intervertébral), les allergies cutanées, et l'hypothyroïdie. Il est important de maintenir un poids sain pour éviter un stress supplémentaire sur sa colonne vertébrale. Un brossage hebdomadaire est nécessaire pour son pelage dense, surtout pendant les périodes de mue. Il est également important de garder ses oreilles propres et ses griffes coupées.
+Un peu d'histoire :
+L'origine exacte du Welsh Corgi Pembroke est incertaine, mêlant folklore et théories historiques. Il est possible qu'il descende de chiens scandinaves (type Spitz) amenés par les Vikings au Pays de Galles au IXe ou Xe siècle, croisés avec des chiens locaux. Historiquement, il était un chien de berger précieux, utilisé pour garder et conduire le bétail dans les collines galloises. La race a gagné en popularité mondiale grâce à la Reine Elizabeth II, qui en était une grande amatrice. La distinction officielle entre le Pembroke et le Cardigan Welsh Corgi n'a été établie qu'en 1934. 

@@ -1,0 +1,7 @@
+# **Votre Aventure avec Canine Companion : Un Partenaire pour la Santé de Votre Chien**
+
+Bienvenue dans l'univers fascinant de la santé canine ! L'arrivée d'un chien est une source de joie immense, mais elle s'accompagne aussi de nombreuses interrogations, surtout pour les nouveaux propriétaires. Ce guide est conçu pour accompagner chaque étape de cette belle aventure, en vous offrant des informations fiables et faciles à comprendre.
+
+Notre promesse est simple : vous fournir un soutien basé sur des recherches scientifiques sérieuses, présenté de manière accessible et sans jugement. L'objectif est de vous éclairer, de simplifier les concepts complexes et de vous donner les clés pour prendre soin de votre compagnon avec confiance et sérénité. L'éducation canine est un domaine où les opinions divergent, et où les propriétaires peuvent parfois se sentir dépassés ou jugés. Il est important de savoir que chaque effort pour comprendre votre chien est une preuve de votre amour, et ce guide est là pour vous soutenir, pas pour vous critiquer.
+
+Ce document est structuré pour être une ressource pratique. Il encourage une lecture proactive pour anticiper les situations, et propose des "Guides d'Action Rapide" pour les moments où chaque seconde compte. En le parcourant, vous découvrirez comment observer les signaux de votre chien, prévenir les dangers quotidiens et réagir efficacement en cas d'urgence. 

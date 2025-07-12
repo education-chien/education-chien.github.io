@@ -1,0 +1,7 @@
+# **Guide Complet pour une Vie Heureuse avec Votre Chiot : De l'Arrivée à l'Éducation Positive**
+
+## **Introduction : L'Aventure Commence !**
+
+L'arrivée d'un chiot dans un foyer marque le début d'une aventure extraordinaire, remplie de joie, de découvertes et, parfois, de défis. Ce guide est conçu comme un compagnon de route bienveillant pour les nouveaux propriétaires, offrant des conseils clairs et pratiques pour bâtir une relation harmonieuse et épanouissante avec leur jeune compagnon canin. Il est ancré dans les dernières découvertes scientifiques en comportement animal, privilégiant une approche basée sur la gentillesse, la compréhension et le renforcement positif, loin des idées reçues qui peuvent parfois semer la confusion.
+
+Le parcours de l'éducation canine peut sembler intimidant, d'autant plus que de nombreuses informations contradictoires circulent. C'est pourquoi ce document s'appuie sur des recherches sérieuses pour vous offrir des stratégies efficaces et respectueuses. Chaque interaction positive avec votre chiot est un investissement précieux, une pierre ajoutée à ce que l'on pourrait appeler une "banque de confiance". Cette approche proactive vise à créer un lien solide et durable, où votre chiot se sent en sécurité, compris et motivé à apprendre. Les défis sont une partie normale de ce processus, et ce guide est là pour accompagner chaque étape, transformant les interrogations en opportunités de renforcer la complicité. 
