@@ -36,3 +36,5 @@ L'arrivée d'un chiot est un moment magique. Ce guide est conçu pour vous accom
 
 ### Conclusion
 *   [Conclusion](./conclusion.md) 
+[Suivant](./1.1_choisir_votre_compagnon.md)
+[Retour à l'accueil](../index.md) 

@@ -12,3 +12,5 @@ Adopter un chien de refuge est une démarche généreuse qui offre une seconde c
 *   [Comprendre le Langage Canin](./6_langage_canin.md)
 *   [Gérer les Défis Comportementaux](./7_defis_comportementaux.md)
 *   [Conclusion](./conclusion.md) 
+[Suivant](./1_preparer_adoption.md)
+[Retour à l'accueil](../index.md) 

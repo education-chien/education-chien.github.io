@@ -27,3 +27,7 @@ Enseigner des commandes de base (assis, couché, pas bouger, rappel, marche en l
 - **Clicker training** : Cette méthode, basée sur la science du comportement, est très efficace. Le clicker marque le comportement exact au moment où il se produit, suivi d'une récompense, aidant le chien à comprendre ce qui est attendu de lui.
 - **Marche en laisse sans tirer** : Commencez dans un environnement calme. Dès que le chien marche à vos côtés sans tirer, récompensez-le. Si la laisse est tendue, arrêtez-vous immédiatement et reprenez quand la laisse se détend.
 - **Socialisation** : Exposez progressivement le chien à de nouvelles personnes, d'autres animaux (chiens, chats) et divers environnements (ville, campagne, bruits du quotidien). Chaque nouvelle expérience doit être positive, supervisée et récompensée. La socialisation est cruciale pour prévenir l'anxiété et l'agressivité. 
+
+[Précédent](./3_premiers_jours.md) | [Suivant](./5_sante_bien_etre.md)
+
+[Retour à l'accueil](../index.md) 

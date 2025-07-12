@@ -31,3 +31,5 @@ La santé de votre chien est primordiale. Ce guide vous fournit des informations
 
 ### Conclusion
 *   [Conclusion](./conclusion.md) 
+[Suivant](./1.1_signes_bonne_sante.md)
+[Retour à l'accueil](../index.md) 

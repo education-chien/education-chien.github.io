@@ -19,3 +19,7 @@ La maison doit être sécurisée pour prévenir les accidents, un peu comme pour
 - **Ranger les objets dangereux** : Câbles électriques, produits chimiques (javel, antigel, médicaments), plantes toxiques, petits objets (vis, clous, jouets d'enfants), vêtements et chaussures doivent être hors de portée.
 - **Protéger les espaces** : Installer des barrières de sécurité pour interdire l'accès à certaines pièces (salle de bain, chambre) ou sécuriser les escaliers et balcons.
 - **Créer des zones de refuge** : Une cage de transport peut servir de lieu sûr et confortable, à condition qu'elle soit suffisamment grande. Des diffuseurs de phéromones apaisantes peuvent aider à adoucir la transition. 
+
+[Précédent](./1_preparer_adoption.md) | [Suivant](./3_premiers_jours.md)
+
+[Retour à l'accueil](../index.md) 

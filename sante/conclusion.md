@@ -9,3 +9,7 @@ Il est clair que la santé canine n'est pas une science figée, mais une dynamiq
 N'oubliez jamais que vous n'êtes pas seul dans cette démarche. Le vétérinaire est votre partenaire privilégié, un expert dédié à la santé de votre animal. N'hésitez jamais à le consulter en cas de doute, même minime. Une question posée à temps peut prévenir une urgence, et une intervention rapide peut sauver une vie.
 
 Pour être toujours prêt, envisagez de vous familiariser avec un kit de premiers secours pour animaux et, si possible, de suivre une formation aux gestes de premiers secours canins. Ces ressources supplémentaires, combinées à votre vigilance quotidienne et à la confiance que vous construisez avec votre vétérinaire, sont les clés d'une vie longue, saine et heureuse pour votre fidèle compagnon. 
+
+[Précédent](./4.2_problemes_pattes_peau.md)
+
+[Retour à l'accueil](../index.md) 
