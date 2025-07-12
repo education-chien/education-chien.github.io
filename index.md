@@ -101,7 +101,6 @@ Explorez nos guides pratiques et faites de chaque jour une aventure réussie ave
 *   [Range tes jouets](./tours/range.md)
 *   [Rapporte un objet](./tours/rapporte.md)
 *   [Recule](./tours/recule.md)
-*   [Conclusion](./tours/conclusion.md)
 
 ### Les Races de Chiens
 *   [Introduction](./races/introduction.md)
