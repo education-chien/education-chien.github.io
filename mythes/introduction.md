@@ -8,7 +8,7 @@ permalink: /mythes
 
 # **Mythes sur les Chiens : Démêler le Vrai du Faux**
 
-## **Accroche : Naviguer dans l'Océan des Idées Reçues**
+## **Naviguer dans l'Océan des Idées Reçues**
 
 Bienvenue dans notre section dédiée à la **déconstruction des mythes** les plus tenaces sur les chiens.
 

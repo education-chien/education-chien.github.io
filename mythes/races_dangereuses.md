@@ -7,7 +7,7 @@ nav_order: 3
 
 # **Les races dites "dangereuses" sont naturellement agressives**
 
-## **Accroche : "Il est gentil ?" - La question qui cache nos peurs**
+## **"Il est gentil ?" - La question qui cache nos peurs**
 
 On a tous déjà changé de trottoir en voyant arriver un "gros chien" à l'air impressionnant.
 

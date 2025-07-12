@@ -7,7 +7,7 @@ nav_order: 2
 
 # **Quel âge a vraiment votre chien ?**
 
-## **Accroche : Le fameux calcul "x7" : une idée simple qu'on a tous en tête**
+## **Le fameux calcul "x7" : une idée simple qu'on a tous en tête**
 
 Vous venez d'accueillir un nouveau compagnon à quatre pattes.
 

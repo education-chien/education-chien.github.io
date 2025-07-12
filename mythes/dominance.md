@@ -7,7 +7,7 @@ nav_order: 1
 
 # **Le mythe de la dominance chez le chien**
 
-## **Accroche : "On vous a sûrement déjà dit que votre chien vous 'domine'..."**
+## **On vous a sûrement déjà dit que votre chien vous 'domine'...**
 
 Bienvenue dans le monde merveilleux, et parfois un peu déroutant, de la vie avec un chien !
 
