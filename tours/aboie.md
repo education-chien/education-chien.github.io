@@ -2,7 +2,7 @@
 layout: default
 title: Aboie sur commande
 parent: Apprendre des Tours
-nav_order: 1
+nav_order: 10
 ---
 
 # Aboyer à la demande
