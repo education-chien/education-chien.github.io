@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Accueil
+title: Guides Complets pour Chien
 nav_order: 1
 ---
 
-# Guides sur l'éducation canine
+# Guides Complets pour Chien : Éducation, Santé, Adoption et Plus
 
-Ce site est une ressource complète pour tous les propriétaires de chiens, qu'ils soient nouveaux ou expérimentés. Vous y trouverez des informations détaillées et des conseils pratiques pour vous aider à bâtir une relation harmonieuse et épanouissante avec votre compagnon à quatre pattes.
+Bien plus qu'un simple manuel, ce site est votre allié pour construire une relation complice avec votre chien. De l'accueil de votre chiot à sa santé au quotidien, en passant par l'apprentissage de tours amusants, nous transformons les questions complexes en conseils simples et applicables.
 
-Naviguez à travers nos guides pour tout savoir sur l'éducation, la santé et le bien-être de votre chien.
+Explorez nos guides pratiques et faites de chaque jour une aventure réussie avec votre compagnon.
 
-## Tous nos guides
+## Découvrez nos guides
 
 ### Le Guide du Chiot
 *   [Introduction](./chiot/introduction.md)

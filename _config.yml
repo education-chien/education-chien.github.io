@@ -1,6 +1,11 @@
 title: Education Canine
-description: Une ressource complète pour tous les propriétaires de chiens, qu'ils soient nouveaux ou expérimentés.
+description: Découvrez nos guides détaillés pour prendre soin de votre chien : de l'accueil d'un chiot à sa santé, en passant par l'adoption en refuge et l'apprentissage de tours. Tout pour une relation épanouie avec votre compagnon.
 remote_theme: just-the-docs/just-the-docs
 
 # Activer la recherche
 search_enabled: true
+
+aux_links:
+  "Sweet Dog":
+    - "//sweet-dog.fr"
+  
