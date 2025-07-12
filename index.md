@@ -32,7 +32,7 @@ Explorez nos guides pratiques et faites de chaque jour une aventure réussie ave
 *   [Comprendre les comportements courants](./chiot/3.5_comportements_courants.md)
 *   [Les manipulations indispensables](./chiot/3.6_les_manipulations_indispensables.md)
 *   [Comprendre le dressage positif](./chiot/4.1_comprendre_le_dressage.md)
-*   [Les commandes essentielles](./chiot/4.2_les_commandes_essentielles.md)
+*   [Les ordres essentiels](./chiot/4.2_les_commandes_essentielles.md)
 *   [La marche en laisse](./chiot/4.3_la_marche_en_laisse.md)
 *   [Le "Prends" et "Donne"](./chiot/4.4_prends_donne.md)
 *   [Gérer les interdits](./chiot/4.5_gerer_les_interdits.md)
