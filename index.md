@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Guides Complets pour Chien
+title: Accueil
 nav_order: 1
 ---
 
