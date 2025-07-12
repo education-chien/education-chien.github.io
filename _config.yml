@@ -3,7 +3,10 @@ description: "Découvrez nos guides détaillés pour prendre soin de votre chien
 remote_theme: just-the-docs/just-the-docs
 
 # Obligatoire pour le thème. Remplacez par le nom de votre dépôt GitHub au format "propriétaire/nom-du-dépôt".
-repository: "education-chien/guides"
+repository: "education-chien/education-chien.github.io"
+
+# Base URL pour le site. Laisser vide pour une publication à la racine.
+baseurl: ""
 
 # Activer la recherche
 search_enabled: true
