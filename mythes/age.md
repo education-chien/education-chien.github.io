@@ -41,7 +41,7 @@ En décodant son **horloge biologique secrète**, vous n'obtiendrez pas seulemen
 
 Vous obtiendrez des clés précieuses pour l'accompagner à chaque étape de sa vie.
 
-## **Partie 1 : Pourquoi la règle des 7 ans ne raconte pas toute l'histoire**
+## **Pourquoi la règle des 7 ans ne raconte pas toute l'histoire**
 
 ### **La vie d'un chien : le décollage d'une fusée, pas une route droite**
 
@@ -96,7 +96,7 @@ Ce tableau le montre clairement : la règle des 7 ans est une boussole dérégl�
 
 Elle peut nous induire en erreur sur les véritables besoins de notre animal à des moments clés de sa vie.
 
-## **Partie 2 : Le vrai secret de son horloge biologique : la taille avant tout !**
+## **Le vrai secret de son horloge biologique : la taille avant tout !**
 
 ### **Une horloge pour les petits, une autre pour les géants**
 
@@ -158,7 +158,7 @@ Que vous ayez opté pour un sprint passionnant et intense avec un Bouvier Bernoi
 
 Vous pouvez chérir chaque étape et lui offrir les soins dont il a besoin, au bon moment.
 
-## **Partie 3 : Le guide de conversion : découvrez l'âge "humain" de votre compagnon**
+## **Le guide de conversion : découvrez l'âge "humain" de votre compagnon**
 
 ### **Un outil pratique pour y voir plus clair**
 
@@ -231,7 +231,7 @@ Un grand Dogue Allemand est déjà un senior bien installé (56 ans).
 
 Cette différence est fondamentale pour adapter vos soins.
 
-## **Partie 4 : De l'adolescence à la sagesse : un guide pratique pour chaque étape de sa vie**
+## **De l'adolescence à la sagesse : un guide pratique pour chaque étape de sa vie**
 
 Maintenant que vous avez une idée plus juste de l'âge de votre compagnon, vous pouvez devenir un véritable "coach de vie" pour lui.
 
@@ -343,7 +343,7 @@ Pour vous aider à mémoriser ces points clés, voici un résumé visuel.
 | **Exercice** | Intense, ludique et éducatif | Régulier, varié et stimulant | Doux, court et adapté aux capacités |
 | **Soins Vétérinaires** | Vaccins, stérilisation, éducation | Bilan de santé annuel | Bilan senior bi-annuel, surveillance accrue |
 
-## **Partie 5 : Accompagner les années dorées : reconnaître les signes et célébrer votre chien senior**
+## **Accompagner les années dorées : reconnaître les signes et célébrer votre chien senior**
 
 Loin d'être une fin, l'âge senior est une nouvelle aventure, une nouvelle forme de complicité.
 

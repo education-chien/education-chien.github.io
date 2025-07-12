@@ -57,7 +57,7 @@ Vous.
 
 Et ça, c'est une excellente nouvelle, car cela signifie que vous avez le pouvoir de construire une relation magnifique et sécuritaire avec votre futur compagnon.
 
-## **Partie 1 : La "Dangerosité" : Démontons la Mécanique d'une Idée Reçue**
+## **La "Dangerosité" : Démontons la Mécanique d'une Idée Reçue**
 
 Avant de pouvoir construire une relation de confiance, il est essentiel de démanteler les fondations des idées fausses.
 
@@ -65,7 +65,7 @@ La notion de "races dangereuses" n'est pas une vérité biologique, mais une con
 
 Comprendre comment ce mythe est né est la première étape pour s'en libérer.
 
-### **Chapitre 1 : Une Histoire de Réputation - Comment une Race Devient-elle "Méchante" ?**
+### **Une Histoire de Réputation - Comment une Race Devient-elle "Méchante" ?**
 
 Aucun chien ne naît avec l'étiquette "méchant".
 
@@ -151,7 +151,7 @@ Tout simplement parce qu'ils sont beaucoup plus nombreux.
 
 Les médias ne créent pas les faits, mais en choisissant où pointer leur loupe, ils façonnent notre perception du risque.
 
-### **Chapitre 2 : Les Chiffres ne Mentent Pas... si on sait les lire !**
+### **Les Chiffres ne Mentent Pas... si on sait les lire !**
 
 Les statistiques sur les morsures sont souvent brandies pour "prouver" la dangerosité d'une race.
 
@@ -221,11 +221,11 @@ La science nous invite donc à abandonner cette vision simpliste.
 
 Elle nous invite à nous concentrer sur les vrais leviers de prévention.
 
-## **Partie 2 : Le Vrai "Code Source" du Comportement Canin**
+## **Le Vrai "Code Source" du Comportement Canin**
 
 Si la race n'est pas le principal coupable, qu'est-ce qui explique le comportement d'un chien? La réponse est un fascinant mélange de prédispositions, d'expériences et d'environnement. C'est en tenant cette "recette" complexe que l'on peut vraiment agir pour prévenir les problèmes.
 
-### **Chapitre 3 : L'Héritage du Chien : La Race n'est qu'une Partie de l'Équation**
+### **L'Héritage du Chien : La Race n'est qu'une Partie de l'Équation**
 
 Penser que la race ne joue *aucun* rôle serait aussi une erreur. Elle est une pièce du puzzle, mais pas le puzzle entier. Pour y voir plus clair, utilisons une analogie.
 
@@ -255,7 +255,7 @@ La génétique ne code pas pour le comportement complexe de "l'agression", mais 
 
 Connaître la "configuration d'usine" de la race de son chien n'est donc pas fait pour le mettre dans une case, mais au contraire pour anticiper ses besoins et lui offrir un environnement et une éducation qui lui permettront de s'épanouir sans "bugs".
 
-### **Chapitre 4 : Le Cocktail Comportemental : Les Vrais Ingrédients du Risque**
+### **Le Cocktail Comportemental : Les Vrais Ingrédients du Risque**
 
 L'agressivité est rarement le fruit d'une seule cause. C'est un cocktail dont les ingrédients s'additionnent jusqu'à ce que le verre déborde. Voici les principaux ingrédients identifiés par la science, ceux qui comptent vraiment.
 
@@ -309,11 +309,11 @@ Pour résumer, l'idée qu'un chien est "dangereux" à cause de sa race est un ra
 
 Ce tableau montre clairement que la "dangerosité" n'est pas une fatalité génétique, mais le résultat d'un ensemble de facteurs sur lesquels le propriétaire a une influence énorme. C'est une grande responsabilité, mais c'est surtout un pouvoir immense : celui de faire de son chien un compagnon équilibré et bien dans ses pattes.
 
-## **Partie 3 : Devenir le Meilleur Coach pour Votre Chien**
+## **Devenir le Meilleur Coach pour Votre Chien**
 
 Maintenant que nous avons déconstruit les mythes et compris les vrais ingrédients du comportement canin, il est temps de passer à la pratique. Cette partie vous donnera des outils concrets et positifs pour construire une relation solide et sereine avec votre futur compagnon, en devenant le coach bienveillant et compétent dont il a besoin.
 
-### **Chapitre 5 : Construire un Super-Héros : Le Pouvoir de la Socialisation**
+### **Construire un Super-Héros : Le Pouvoir de la Socialisation**
 
 La socialisation est l'étape la plus fondamentale pour prévenir les peurs et l'agressivité. C'est un investissement à court terme pour une vie de tranquillité.
 
@@ -343,7 +343,7 @@ Transformez la socialisation en un jeu. L'objectif est d'exposer votre chiot à 
 
 **La Règle d'Or :** Chaque expérience doit être **courte, positive et au rythme du chiot**. Ne forcez jamais votre chiot. S'il a peur, augmentez la distance et associez la source de sa peur à quelque chose d'extrêmement positif (ses friandises préférées). Le but n'est pas de le "jeter dans le grand bain", mais de lui apprendre à nager dans une eau calme et tiède.
 
-### **Chapitre 6 : Parler le "Chien" Couramment : Le Guide de Traduction pour Éviter les Malentendus**
+### **Parler le "Chien" Couramment : Le Guide de Traduction pour Éviter les Malentendus**
 
 Beaucoup de problèmes de comportement viennent d'un simple malentendu. Nous, les humains, interprétons les réactions de nos chiens avec notre propre logique, alors qu'ils communiquent constamment avec un langage qui leur est propre. Apprendre à décoder ce langage est la clé pour désamorcer les conflits avant qu'ils n'éclatent.
 
@@ -387,7 +387,7 @@ Votre chien semble "têtu" ou refuse de faire un exercice qu'il connaît? C'est 
 
 En voyant son "entêtement" non pas comme un défi à votre autorité, mais comme un signal qu'il vous envoie, vous passez du rôle de "dompteur" frustré à celui de "coach" attentif et efficace.
 
-### **Chapitre 7 : L'Éducation Positive : Bâtir une Relation en Béton Armé**
+### **L'Éducation Positive : Bâtir une Relation en Béton Armé**
 
 Le terme "éducation positive" est parfois mal compris. Certains pensent qu'il s'agit d'être permissif et de laisser le chien tout faire. C'est faux. L'éducation positive est une méthode structurée, basée sur la science de l'apprentissage, qui est à la fois la plus respectueuse et la plus efficace pour construire une relation solide.
 
@@ -424,11 +424,11 @@ Voici un exemple concret d'éducation positive pour apprendre un ordre de base. 
 
 Félicitations\! Vous venez de faire un premier dépôt majeur dans votre banque de confiance, en utilisant la coopération et la motivation, pas la force.
 
-## **Partie 4 : Études de Cas : Au-delà de l'Étiquette**
+## **Études de Cas : Au-delà de l'Étiquette**
 
 Les théories sont utiles, mais rien ne vaut des exemples concrets pour changer les perspectives. Intéressons-nous maintenant aux deux races qui sont au cœur de nombreux préjugés : l'American Staffordshire Terrier et le Rottweiler. En comprenant qui ils sont vraiment et quels sont leurs besoins, nous pouvons remplacer la peur par le respect et l'admiration.
 
-### **Chapitre 8 : L'American Staffordshire Terrier : Portrait d'un Grand Sportif au Cœur Tendre**
+### **L'American Staffordshire Terrier : Portrait d'un Grand Sportif au Cœur Tendre**
 
 Souvent appelé "Amstaff" ou simplement "Staff", ce chien est probablement celui qui souffre le plus d'une image négative, souvent confondu à tort avec le terme générique "Pitbull".
 
@@ -455,7 +455,7 @@ La plupart des "problèmes" avec les Amstaffs ne viennent pas de leur caractère
 
 En France, il faut aussi être conscient de la barrière administrative. Qu'il soit avec ou sans pedigree (LOF), l'Amstaff est classé en catégorie 1 ou 2, ce qui impose des obligations légales très strictes (permis de détention, évaluation comportementale, assurance, muselière en public, etc.). Adopter un Amstaff demande donc une préparation et un engagement sans faille, tant sur le plan légal que sur le plan du mode de vie.
 
-### **Chapitre 9 : Le Rottweiler : La Force Tranquille qui ne Demande qu'à Faire Confiance**
+### **Le Rottweiler : La Force Tranquille qui ne Demande qu'à Faire Confiance**
 
 Avec sa carrure puissante et sa robe noir et feu, le Rottweiler est l'autre archétype du "chien dangereux". Son image de garde féroce est tenace, mais elle masque une toute autre réalité.
 
@@ -480,7 +480,7 @@ Le Rottweiler n'est pas un chien pour débutants non avertis, non pas parce qu'i
 
 Comme l'Amstaff, le Rottweiler est classé en catégorie 2 en France, ce qui implique les mêmes obligations légales strictes pour son propriétaire.
 
-### **Chapitre 10 : Héros Malgré Eux : Histoires de Chiens qui ont Défié les Préjugés**
+### **Héros Malgré Eux : Histoires de Chiens qui ont Défié les Préjugés**
 
 Après la science et la théorie, laissons parler les faits les plus touchants. Partout dans le monde, des chiens appartenant à ces races "étiquetées" ont accompli des actes de bravoure qui démontrent de la plus belle des manières que le caractère est une affaire d'individu, et non de race.
 
@@ -492,11 +492,11 @@ Après la science et la théorie, laissons parler les faits les plus touchants. 
 
 Ces histoires, parmi tant d'autres, ne sont pas des exceptions qui confirment la règle. Elles sont la règle. Elles nous montrent que derrière chaque étiquette, il y a un individu. Un chien avec son propre cœur, son propre courage et sa propre histoire. L'héroïsme, tout comme l'agressivité, n'est pas une fatalité inscrite dans les gènes. C'est un comportement qui naît d'une situation, d'une relation et d'un lien de confiance indestructible.
 
-## **Partie 5 : Votre Aventure Commence : Guide Pratique pour Futurs Propriétaires**
+## **Votre Aventure Commence : Guide Pratique pour Futurs Propriétaires**
 
 Vous êtes maintenant armé de connaissances pour regarder au-delà des préjugés. La dernière étape est de transformer cette connaissance en action. Choisir son futur compagnon est l'une des décisions les plus importantes que vous prendrez. Voici comment faire le bon choix, en toute conscience.
 
-### **Chapitre 11 : Adopter en Conscience : Choisir le Bon Compagnon pour VOUS**
+### **Adopter en Conscience : Choisir le Bon Compagnon pour VOUS**
 
 La question n'est pas "quelle race est la meilleure?", mais "quel chien est le meilleur pour *moi*, mon mode de vie, mon expérience et mon environnement?". Il existe deux chemins principaux pour accueillir un chien : l'élevage ou le refuge. Les deux sont valables, mais demandent une approche différente.
 

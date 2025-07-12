@@ -43,7 +43,7 @@ Préparez-vous à voir votre chien d'un œil nouveau.
 
 Préparez-vous à bâtir une relation basée non pas sur la soumission, mais sur une **confiance** et une **joie partagées**.
 
-## **Partie 1 : La Grande Histoire d'un Malentendu – D'où Vient l'Idée du "Chien Dominant"?**
+## **La Grande Histoire d'un Malentendu – D'où Vient l'Idée du "Chien Dominant"?**
 
 Pour comprendre pourquoi l'idée de la dominance est si tenace, il faut remonter à sa source.
 
@@ -196,7 +196,7 @@ Le tableau suivant résume les points clés de ce grand malentendu.
 | Il faut se comporter comme un "Alpha" pour être respecté par son chien. | Une relation saine est basée sur la confiance, la coopération et un leadership bienveillant, pas sur la force. |
 | Les comportements "dominants" sont des défis à notre autorité. | Ces comportements sont des expressions de besoins, d'émotions (joie, peur) ou de simples malentendus. |
 
-## **Partie 2 : Le Décodeur Canin – Comprendre ce que Votre Chien Essaie Vraiment de Vous Dire**
+## **Le Décodeur Canin – Comprendre ce que Votre Chien Essaie Vraiment de Vous Dire**
 
 Maintenant que nous avons balayé l'origine du mythe, il est temps de se pencher sur les comportements concrets.
 
@@ -252,11 +252,7 @@ Ou au contraire, parce qu'il a peur d'un bruit, d'un objet ou d'une situation.
 
 Il cherche à fuir le plus vite possible.
 
-### **Plutôt que de vous battre dans un rapport de force**
-
 L'objectif est de rendre le fait de marcher près de vous plus intéressant que tout le reste.
-
-Nous verrons dans la Partie 3 comment transformer la marche en laisse en un jeu de connexion amusant.
 
 ### **"Il me saute dessus pour me dominer !" → Recadrage : "Il est tellement heureux de vous voir qu'il ne sait plus comment le dire !"**
 
@@ -406,7 +402,7 @@ Le tableau suivant vous servira de "décodeur" rapide pour traduire le comportem
 | Passe la porte en premier | "Il prend le rang Alpha." | "Youpi, on sort ! L'aventure m'attend !" | "Transformez l'attente en un jeu amusant avec une récompense à la clé." |
 | Monte sur le canapé | "Il prend votre place de chef." | "C'est confortable ici, et ça sent comme toi, c'est rassurant." | "Offrez-lui un panier encore plus confortable et apprenez-lui que c'est SA place spéciale." |
 
-## **Partie 3 : La Boîte à Outils du Partenaire Idéal – Construire la Confiance par le Jeu et la Compréhension**
+## **La Boîte à Outils du Partenaire Idéal – Construire la Confiance par le Jeu et la Compréhension**
 
 Abandonner le mythe de la dominance, c'est bien.
 
