@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tourne
+parent: Apprendre des Tours
+nav_order: 31
+---
+
 10. Tourne sur lui-même
 ⦁ Description du Tour : Le chien effectue une rotation complète sur lui-même.
 ⦁ Pourquoi l'Apprendre? : Un tour ludique qui stimule l'agilité et la coordination.
@@ -17,8 +24,4 @@
 1. Pratiquez dans différents environnements.
 2. Demandez le tour avec un geste minimal ou seulement l'ordre verbal.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien effectue une rotation complète de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
-⦁ Conseils du Coach : Vous pouvez lui apprendre à tourner dans les deux sens ("Tourne gauche", "Tourne droite").
-
-[Précédent](./touche.md)
-
-[Retour à l'accueil](../index.md) 
+⦁ Conseils du Coach : Vous pouvez lui apprendre à tourner dans les deux sens ("Tourne gauche", "Tourne droite"). 

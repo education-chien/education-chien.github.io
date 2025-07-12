@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tope là
+parent: Apprendre des Tours
+nav_order: 29
+---
+
 13. Tope Là
 ⦁ Description du Tour : Le chien lève sa patte pour toucher la main de son humain tendue verticalement.
 ⦁ Pourquoi l'Apprendre? : Une variante amusante de "Donne la patte" qui renforce la coordination et l'interaction.
@@ -19,7 +26,3 @@
 2. Demandez le "Tope là" à différentes hauteurs (plus haut, plus bas).
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien lève sa patte et touche la main de son humain de manière immédiate et fiable (90% du temps) sur l'ordre "Tope là", sans guide physique, à différentes hauteurs, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Rendez le jeu très enthousiasmant avec des félicitations vocales. 
-
-[Précédent](./slalome.md) | [Suivant](./touche.md)
-
-[Retour à l'accueil](../index.md) 

@@ -1,27 +1,39 @@
+---
+layout: default
+title: Le Caniche
+parent: Les Races de Chiens
+nav_order: 10
+---
+
 # Le Caniche
 
-Le Caniche est une race élégante et intelligente, disponible en plusieurs tailles (Standard, Miniature et Toy), ce qui lui permet de s'adapter à divers foyers.
+Le Caniche est un chien élégant, intelligent et polyvalent, qui existe en quatre tailles.
 
-## Fiche d'identité rapide :
-- **Taille** : Variable selon la variété (Toy < 28 cm, Nain 28-35 cm, Moyen 35-45 cm, Grand > 45 cm).
-- **Poids** : Variable selon la variété (Toy 2-3 kg, Nain 4-7 kg, Moyen 7-12 kg, Grand 20-32 kg).
-- **Espérance de vie** : Généralement entre 12 et 15 ans.
-- **Type de poil** : Frisé, dense, laineux, hypoallergénique et ne mue pas.
-- **Couleurs** : Noir, blanc, marron, gris, abricot, roux.
+| Fiche d'identité | Grand | Moyen | Nain | Toy |
+|---|---|---|---|---|
+| **Taille** | 45-60 cm | 35-45 cm | 28-35 cm | < 28 cm |
+| **Poids** | 20-30 kg | 10-15 kg | 4-7 kg | < 4 kg |
+| **Espérance de vie** | Environ 12 à 15 ans |
+| **Type de poil** | Bouclé ou cordé, dense et laineux |
+| **Couleurs** | Noir, blanc, marron, gris, abricot, rouge |
 
 ## Présentation générale :
-Le Caniche est l'un des chiens les plus intelligents, reconnu pour sa polyvalence, son élégance et son tempérament joyeux. Il est facile à éduquer et peut être utilisé comme chien de service ou de thérapie.
+Le Caniche est réputé pour son intelligence et sa facilité d'éducation. C'est un chien joyeux, actif et très attaché à ses maîtres.
 
 ## Un compagnon pour la vie : Tempérament et besoins réels :
-Le Caniche est un chien fidèle, affectueux et très adaptable. Il aime la compagnie de sa famille et peut s'intégrer à divers modes de vie, à condition que ses besoins en exercice et en stimulation mentale soient satisfaits. Sa grande intelligence signifie qu'il a besoin d'être stimulé intellectuellement pour éviter l'ennui.
+Quelle que soit sa taille, le Caniche a besoin d'exercice quotidien et de stimulation mentale. Il ne perd pas ses poils, mais son pelage nécessite un entretien régulier et coûteux (toilettage).
 
-## Démystifions les idées reçues :
-### Mythe 1: "Le Caniche est un chien 'de dame' et n'est pas un vrai chien."
-Cette idée est un cliché dépassé. Le Caniche, dans toutes ses tailles, est un chien robuste, athlétique et très intelligent, avec un passé de chien de chasse (notamment de gibier d'eau). Son apparence élégante et son toilettage sophistiqué ne doivent pas masquer ses capacités physiques et mentales. C'est un chien qui adore l'activité et qui excelle dans de nombreux sports canins, prouvant qu'il est bien plus qu'un simple accessoire.
+> ### Mythe 1: "Le Caniche est un chien de salon précieux."
+> Le Caniche est avant tout un chien de chasse (rapporteur de gibier d'eau), sportif et robuste. Il adore nager et se dépenser.
 
-### Mythe 2: "Les Caniches sont fragiles et capricieux."
-Les Caniches sont des chiens résistants et équilibrés. Leur intelligence et leur sensibilité les rendent très réceptifs à l'éducation positive. Si un Caniche semble capricieux, c'est souvent le signe d'un manque de cadre, d'une socialisation insuffisante ou d'un besoin de stimulation non 
+> ### Mythe 2: "Le Caniche est un chien snob."
+> Le Caniche est un chien très joueur et affectueux, qui adore faire le clown pour amuser sa famille.
 
-[Précédent](./cane_corso.md) | [Suivant](./chihuahua.md)
+## Activités pour un chien épanoui :
+Le Caniche excelle dans de nombreuses disciplines : agility, obéissance, obérythmée, pistage. La natation est également une excellente activité pour lui.
 
-[Retour à l'accueil](../index.md) 
+## Santé et bien-être :
+Le Caniche est une race robuste, mais peut être sujet à des problèmes oculaires (atrophie rétinienne), des luxations de la rotule et la maladie d'Addison. Un entretien régulier des oreilles est nécessaire pour éviter les otites.
+
+## Un peu d'histoire :
+Originaire de France, le Caniche descend du Barbet. Il était utilisé pour la chasse au canard (d'où son nom). Sa toilette "en lion" permettait de protéger ses articulations et son poitrail du froid de l'eau, tout en laissant l'arrière-train libre de ses mouvements. 

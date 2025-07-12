@@ -1,3 +1,10 @@
+---
+layout: default
+title: Slalome
+parent: Apprendre des Tours
+nav_order: 28
+---
+
 15. Slalome entre les jambes
 ⦁ Description du Tour : Le chien passe en "huit" entre les jambes de son humain qui avance.
 ⦁ Pourquoi l'Apprendre? : Un tour dynamique qui améliore la coordination, la concentration et le lien en mouvement.
@@ -22,7 +29,3 @@
 3. Introduisez des distractions plus importantes.
 ⦁ Quand l'Exercice est Maîtrisé? : Le chien slalome de manière fluide et fiable (90% du temps) entre les jambes de son humain qui marche, sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
 ⦁ Conseils du Coach : Rendez le mouvement fluide et amusant. Félicitez beaucoup pour maintenir l'énergie du chien. 
-
-[Précédent](./saute.md) | [Suivant](./tope_la.md)
-
-[Retour à l'accueil](../index.md) 
