@@ -82,8 +82,8 @@ La maison doit être sécurisée pour prévenir les accidents, un peu comme pour
 
 ### **Créer des Zones de Refuge**
 
-* **Une cage de transport** peut servir de lieu sûr et confortable
-* **Condition** : qu'elle soit suffisamment grande
+* **Un panier avec des rebords** peut servir de lieu sûr et confortable
+* **Condition** : qu'il soit suffisamment grand
 * **Des diffuseurs de phéromones** apaisantes peuvent aider à adoucir la transition
 * **Un espace dédié** où le chien peut se retirer
 
