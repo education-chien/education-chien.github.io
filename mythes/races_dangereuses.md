@@ -1,6 +1,6 @@
 ---
 layout: default
-title: les races dites "dangereuses" sont naturellement agressives
+title: Les races dites "dangereuses" sont naturellement agressives
 parent: Mythes
 nav_order: 3
 ---
