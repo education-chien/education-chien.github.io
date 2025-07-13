@@ -5,29 +5,34 @@ parent: Apprendre des Tours
 nav_order: 30
 ---
 
-# Touche (une cible)
-- **Description du Tour** : Le chien touche une cible (votre main, un objet) avec son museau ou sa patte.
-- **Pourquoi l'Apprendre?** : Base pour de nombreux tours complexes (allumer la lumière, fermer une porte) et pour canaliser l'énergie.
-- **Prérequis** : Aucun prérequis spécifique.
+# "Touche" (une cible)
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien touche une cible (ta main, un objet) avec son museau.
+- **Pourquoi l'Apprendre ?** : C'est la **base** de très nombreux tours plus complexes (allumer la lumière, fermer une porte) et un super moyen de canaliser son énergie.
+- **Prérequis** : Aucun.
 
-### Niveau 1 (Calme, sans distraction) :
-1. Présentez votre main ouverte (paume vers le chien).
-2. Dès que le chien touche votre main avec son museau (par curiosité), dites "Bravo!" et donnez une friandise.
-3. Introduisez le mot "Touche".
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Demandez "Touche" en variant la position de votre main.
-2. Introduisez un objet simple comme cible.
+### Niveau 1 : Le premier contact
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la distance à laquelle le chien doit toucher la cible.
-2. Pratiquez avec de légères distractions.
+1.  Présente ta main ouverte (paume vers ton chien).
+2.  Par curiosité, il va la toucher avec son museau. À l'instant précis où il le fait, dis « **Bravo !** » et donne une friandise.
+3.  Introduis le mot « **Touche** ».
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Variez les cibles et les positions.
+### Niveau 2 : On varie les cibles
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien touche la cible désignée avec son museau de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, à distance et dans des environnements variés avec des distractions modérées.
-- **Conseils du Coach** : Le "Touche" est une excellente base pour le travail à distance. 
+1.  Demande « **Touche** » en variant la position de ta main (plus haut, plus bas, sur les côtés).
+2.  Introduis un objet simple comme nouvelle cible (un livre, un post-it).
+
+### Niveau 3 : On prend de la distance
+
+1.  Augmente la distance à laquelle ton chien doit aller pour toucher la cible.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On généralise
+
+1.  Entraîne-toi dans différents endroits.
+2.  Varie les cibles et leurs positions.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien touche la cible que tu lui indiques avec son museau, **immédiatement** et de manière **fiable** (9 fois sur 10), sur ordre verbal ou gestuel, à distance et même avec des distractions.
+- **Conseil du Coach** : Le « Touche » est une commande **fondamentale**. Elle t'ouvrira les portes pour apprendre des tours beaucoup plus complexes et pour travailler à distance avec ton chien. 

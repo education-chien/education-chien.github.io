@@ -5,30 +5,35 @@ parent: Apprendre des Tours
 nav_order: 15
 ---
 
-# La marche militaire / enfantine (entre les jambes)
-- **Description du Tour** : Le chien marche en avant ou en arrière entre les jambes de son humain, en synchronisation.
-- **Pourquoi l'Apprendre?** : Un tour très impressionnant qui demande une grande coordination et concentration, renforce le lien en mouvement.
-- **Prérequis** : Maîtrise de "Recule" et "Au pied".
+# La Marche "Militaire" (entre les jambes)
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien marche en avant ou en arrière entre tes jambes, en rythme avec toi.
+- **Pourquoi l'Apprendre ?** : Un tour **très impressionnant** qui demande une super **coordination** et **concentration**. Renforce le lien en mouvement.
+- **Prérequis** : Maîtrise des ordres « **Recule** » et « **Au pied** ».
 
-### Niveau 1 (Calme, sans distraction) :
-1. Tenez une friandise. Placez votre chien entre vos jambes, face à vous.
-2. Dites "Marche" et avancez un pied. Guidez le chien avec la friandise pour qu'il avance entre vos jambes.
-3. Dès qu'il fait un pas, dites "Bravo!" et donnez la friandise.
-4. Pour la marche arrière : placez-le entre vos jambes, tourné vers l'arrière. Dites "Recule" et reculez un pied, en le guidant.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez les ordres "Marche entre" ou "Recule entre".
-2. Faites quelques pas en avant ou en arrière.
+### Niveau 1 : Le guidage, pas à pas
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez le nombre de pas.
-2. Pratiquez avec de légères distractions.
+1.  Tiens une **friandise**. Place ton chien entre tes jambes, face à toi.
+2.  Dis « **Marche** » et avance un pied. Guide ton chien avec la friandise pour qu'il avance avec toi.
+3.  Dès qu'il fait un pas, dis « **Bravo !** » et donne la friandise.
+4.  **Pour la marche arrière** : place-le entre tes jambes, tourné vers l'arrière. Dis « **Recule** » et recule d'un pas, en le guidant.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Augmentez la distance et la fluidité du mouvement.
+### Niveau 2 : On introduit l'ordre
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien marche en avant ou en arrière entre les jambes de son humain de manière fluide et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, sur plusieurs mètres, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : La patience est clé pour ce tour qui demande beaucoup de coordination. 
+1.  Introduis les ordres « **Marche entre** » ou « **Recule entre** ».
+2.  Fais quelques pas en avant ou en arrière.
+
+### Niveau 3 : On enchaîne
+
+1.  Augmente le nombre de pas.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On fluidifie
+
+1.  Entraîne-toi dans différents endroits.
+2.  Augmente la distance et la **fluidité** du mouvement.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien marche en avant ou en arrière entre tes jambes de manière **fluide** et **fiable** (9 fois sur 10), sur ordre verbal ou gestuel, sans guidage, sur plusieurs mètres et même avec des distractions.
+- **Conseil du Coach** : La **patience** est la clé. Ce tour demande une énorme coordination pour ton chien (et pour toi !). Allez-y pas à pas. 

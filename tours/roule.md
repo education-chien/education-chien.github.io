@@ -5,30 +5,35 @@ parent: Apprendre des Tours
 nav_order: 25
 ---
 
-# Roule / Roule Boulé
-- **Description du Tour** : Le chien, allongé, se tourne complètement sur lui-même pour se retrouver sur l'autre flanc.
-- **Pourquoi l'Apprendre?** : Un tour amusant qui sollicite la souplesse et la coordination du chien.
-- **Prérequis** : Maîtrise de la commande "Couché".
+# "Roule" / "Roule-boulé"
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien, une fois allongé, se tourne complètement sur lui-même.
+- **Pourquoi l'Apprendre ?** : Un tour **amusant** qui travaille sa **souplesse** et sa **coordination**.
+- **Prérequis** : Maîtrise de l'ordre « **Couché** ».
 
-### Niveau 1 (Calme, sans distraction) :
-1. Demandez à votre chien de se coucher.
-2. Tenez une friandise près de son museau. Déplacez-la lentement en arc de cercle par-dessus sa tête, puis le long de son dos, pour l'inciter à rouler sur le flanc, puis sur le dos, puis sur l'autre flanc.
-3. Dès qu'il a fait la roulade complète, dites "Bravo!" et donnez la friandise.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez le mot "Roule" juste avant de guider avec la friandise.
-2. Réduisez légèrement le guidage, en laissant le chien initier le mouvement.
-3. Pratiquez dans une autre pièce.
+### Niveau 1 : Le guidage complet
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Utilisez un geste de la main circulaire au lieu de la friandise pour guider.
-2. Pratiquez avec de légères distractions.
+1.  Demande à ton chien de se coucher.
+2.  Tiens une **friandise** près de son museau. Déplace-la **lentement** en arc de cercle au-dessus de sa tête et le long de son dos pour l'inciter à rouler sur le flanc, puis sur le dos, et enfin sur l'autre flanc.
+3.  Dès que la roulade est complète, dis « **Bravo !** » et donne la friandise.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Demandez le tour avec un geste minimal ou seulement l'ordre verbal.
+### Niveau 2 : On introduit l'ordre
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien exécute une roulade complète de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Si le chien hésite, guidez-le doucement avec votre autre main pour l'aider à rouler. 
+1.  Introduis le mot « **Roule** » juste avant de le guider avec la friandise.
+2.  Réduis un peu le guidage, laisse-le initier le mouvement.
+3.  Entraîne-toi dans une autre pièce.
+
+### Niveau 3 : On passe au geste
+
+1.  Utilise un **geste** de la main (un cercle) pour guider, au lieu de la friandise.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On perfectionne
+
+1.  Entraîne-toi dans différents endroits.
+2.  Demande le tour avec un geste minimal ou juste l'ordre verbal.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien fait une roulade complète **immédiatement** et de manière **fiable** (9 fois sur 10) sur ordre verbal ou gestuel, sans guidage, même avec des distractions.
+- **Conseil du Coach** : S'il hésite, n'hésite pas à le guider **doucement** avec ton autre main pour l'aider à basculer. Le contact physique peut le rassurer et lui faire comprendre le mouvement. 

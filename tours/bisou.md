@@ -5,30 +5,34 @@ parent: Apprendre des Tours
 nav_order: 4
 ---
 
-# Fais un Bisou
+# Fais un "Bisou"
 
-- **Description du Tour** : Le chien pose son museau ou sa langue sur la joue de son humain.
-- **Pourquoi l'Apprendre?** : Un tour adorable qui renforce le lien affectif.
-- **Prérequis** : Aucun prérequis spécifique.
+- **Description du Tour** : Ton chien pose son museau ou sa langue sur ta joue.
+- **Pourquoi l'Apprendre ?** : Un tour adorable qui renforce votre **complicité**.
+- **Prérequis** : Aucun.
 
-## Apprentissage Étape par Étape (sans clicker) :
+## Apprentissage Étape par Étape
 
-### Niveau 1 (Calme, sans distraction) :
-1. Tenez un post-it (ou un morceau de scotch) avec une trace de friandise sur votre joue.
-2. Lorsque le chien s'approche et lèche/touche le post-it, dites "Bravo!" et donnez une friandise.
-3. Introduisez le mot "Bisou" au moment où il touche.
+### Niveau 1 : Dans le calme, sans distraction
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Réduisez la taille du post-it, puis retirez-le juste avant qu'il ne vous embrasse.
-2. Pratiquez en vous penchant légèrement vers lui.
+1.  Colle un post-it (ou un bout de scotch) avec une trace de friandise sur ta joue.
+2.  Quand ton chien s'approche et lèche ou touche le post-it, dis « **Bravo !** » et donne-lui une friandise.
+3.  Introduis le mot « **Bisou** » au moment où il touche.
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Demandez le "Bisou" sans support (post-it) sur votre joue.
-2. Pratiquez avec de légères distractions.
+### Niveau 2 : Avec de légères distractions
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Demandez le "Bisou" depuis différentes positions (assis, debout).
+1.  Réduis la taille du post-it, puis retire-le juste avant qu'il ne t'embrasse.
+2.  Entraîne-toi en te penchant légèrement vers lui.
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien pose son museau ou lèche la joue de son humain de manière immédiate et fiable (90% du temps) sur l'ordre "Bisou", sans aide physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Si votre chien vous lèche souvent naturellement, récompensez-le à ce moment-là en disant "Bisou" pour l'associer à l'ordre. 
+### Niveau 3 : Avec des distractions modérées
+
+1.  Demande le « **Bisou** » sans aucun support sur ta joue.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : Dans des environnements variés
+
+1.  Entraîne-toi dans différents endroits.
+2.  Demande-lui le « **Bisou** » depuis différentes positions (assis, debout).
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien pose son museau ou lèche ta joue **immédiatement** et de manière **fiable** (9 fois sur 10) sur l'ordre « Bisou », sans aide, dans des environnements variés.
+- **Conseil du Coach** : Si ton chien te lèche souvent naturellement, saisis l'occasion ! Au moment où il le fait, dis « **Bisou** » et récompense-le. Il associera le mot à son action. 

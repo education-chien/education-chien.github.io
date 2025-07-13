@@ -5,33 +5,38 @@ parent: Apprendre des Tours
 nav_order: 11
 ---
 
-# Fais le Beau
-- **Description du Tour** : Le chien est assis sur son arrière-train et lève ses deux pattes avant, comme s'il priait.
-- **Pourquoi l'Apprendre?** : Un tour impressionnant et amusant qui sollicite l'équilibre et les muscles du chien.
-- **Prérequis** : Maîtrise de la commande "Assis".
+# "Fais le Beau"
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien est assis sur son arrière-train et lève ses deux pattes avant, comme s'il priait.
+- **Pourquoi l'Apprendre ?** : Un tour **impressionnant** et amusant qui sollicite son **équilibre** et ses **muscles**.
+- **Prérequis** : Maîtrise de l'ordre « **Assis** ».
 
-### Niveau 1 (Calme, sans distraction) :
-1. Demandez à votre chien de s'asseoir, idéalement près d'un mur pour le soutenir.
-2. Tenez une friandise au-dessus de son museau et levez-la doucement vers le haut et légèrement en arrière.
-3. Le chien devrait lever ses pattes avant pour atteindre la friandise. Dès qu'il se redresse légèrement sur ses pattes arrière, dites "Bravo!" et donnez la friandise.
-4. Ne récompensez que s'il garde le bas du corps au sol.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez le mot "Beau" (ou "Fais le beau") juste avant de guider avec la friandise.
-2. Demandez le "Beau" sans le mur.
-3. Demandez au chien de maintenir la position 1-2 secondes.
+### Niveau 1 : Avec un support
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la durée de la position (3-5 secondes).
-2. Réduisez le guidage avec la friandise, en utilisant juste le geste de la main.
-3. Pratiquez avec de légères distractions.
+1.  Demande à ton chien de s'asseoir, de préférence près d'un **mur** pour le soutenir.
+2.  Tiens une **friandise** au-dessus de son museau et lève-la doucement vers le haut et un peu en arrière.
+3.  Il devrait lever ses pattes avant pour l'atteindre. Dès qu'il se redresse un peu, dis « **Bravo !** » et donne la friandise.
+4.  **Important** : ne récompense que s'il garde les fesses au sol.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Augmentez la durée de la position (jusqu'à 10 secondes ou plus).
-3. Introduisez des distractions plus importantes.
+### Niveau 2 : Sans support
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien se met en position "Fais le beau" de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, maintient la position plusieurs secondes, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Attention au dos du chien. Ne pas abuser de ce tour, surtout pour les chiens de grande taille ou ayant des problèmes de dos. 
+1.  Introduis le mot « **Beau** » juste avant de le guider avec la friandise.
+2.  Demande-lui de faire le beau **sans l'aide du mur**.
+3.  Exige qu'il maintienne la position 1 à 2 secondes.
+
+### Niveau 3 : On augmente la durée
+
+1.  Augmente la durée de la position (3-5 secondes).
+2.  Réduis le guidage avec la friandise, en utilisant juste un geste de la main.
+3.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : Dans des environnements variés
+
+1.  Entraîne-toi dans différents endroits.
+2.  Augmente la durée jusqu'à 10 secondes ou plus.
+3.  Introduis des distractions plus importantes.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien se met en position « Fais le beau » **immédiatement** et de manière **fiable** (9 fois sur 10), sur ordre verbal ou gestuel, et tient la position plusieurs secondes, même avec des distractions.
+- **Conseil du Coach** : **Attention au dos de ton chien**. Ce tour sollicite beaucoup son corps. N'en abuse pas, surtout s'il est de grande taille ou a des fragilités. La santé avant tout. 

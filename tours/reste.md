@@ -5,35 +5,40 @@ parent: Apprendre des Tours
 nav_order: 24
 ---
 
-# Reste / Pas Bouger
-- **Description du Tour** : Le chien maintient une position (assis, couché, debout) jusqu'à ce qu'un signal de libération lui soit donné.
-- **Pourquoi l'Apprendre?** : Crucial pour la sécurité (attendre à la porte, ne pas courir vers un danger) et pour le contrôle en général.
-- **Prérequis** : Maîtrise des commandes "Assis" et "Couché".
+# "Reste" / "Pas Bouger"
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien maintient une position (assis, couché, debout) jusqu'à ce que tu le libères.
+- **Pourquoi l'Apprendre ?** : **Crucial** pour la **sécurité** (attendre à la porte, ne pas foncer vers un danger) et pour le contrôle en général.
+- **Prérequis** : Maîtrise des ordres « **Assis** » et « **Couché** ».
 
-### Niveau 1 (Calme, sans distraction) :
-1. Demandez à votre chien de s'asseoir ou de se coucher.
-2. Dites "Reste" (ou "Pas bouger").
-3. Faites un petit pas en arrière, puis revenez immédiatement. Si le chien n'a pas bougé, dites "Bravo!" et donnez une friandise.
-4. Répétez plusieurs fois, en augmentant très légèrement la distance et la durée (1-2 secondes).
-5. Introduisez un signal de libération ("Libre!", "Ok!") pour indiquer la fin de l'exercice.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Augmentez la distance à 2-3 pas.
-2. Augmentez la durée à 5 secondes.
-3. Pratiquez dans une autre pièce.
-4. Introduisez de légères distractions (ex: vous bougez un objet près de vous).
+### Niveau 1 : La base (durée et distance minimales)
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la distance (5-10 pas) et la durée (10-20 secondes).
-2. Tournez le dos au chien, puis disparaissez brièvement de sa vue (derrière un meuble).
-3. Pratiquez avec des distractions modérées (ex: un membre de la famille passe dans la pièce).
+1.  Demande à ton chien de s'asseoir ou de se coucher.
+2.  Dis « **Reste** » (ou « Pas bouger »).
+3.  Fais un **tout petit** pas en arrière, puis reviens immédiatement. S'il n'a pas bougé, dis « **Bravo !** » et donne une friandise.
+4.  Répète, en augmentant **très légèrement** la distance et la durée (1-2 secondes max).
+5.  Introduis un mot de libération (« **Libre !** », « Ok ! ») pour marquer la fin de l'exercice.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez à l'extérieur, dans des environnements de plus en plus stimulants (parc, rue).
-2. Augmentez la distance et la durée de l'absence.
-3. Introduisez des distractions importantes (ex: d'autres chiens, des bruits forts).
+### Niveau 2 : On augmente un peu
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien maintient la position demandée (assis, couché) de manière fiable (90% du temps) pendant une durée prolongée (plusieurs minutes) et à distance, dans des environnements variés et avec des distractions, jusqu'à ce qu'un signal de libération soit donné.
-- **Conseils du Coach** : Si le chien bouge avant le signal de libération, ne le grondez pas. Ramenez-le calmement à sa position et reprenez l'étape précédente avec moins de difficulté. 
+1.  Augmente la distance à 2-3 pas.
+2.  Augmente la durée à 5 secondes.
+3.  Entraîne-toi dans une autre pièce.
+4.  Introduis de légères distractions (tu bouges un objet près de toi).
+
+### Niveau 3 : On se cache
+
+1.  Augmente la distance (5-10 pas) et la durée (10-20 secondes).
+2.  Tourne-lui le dos, puis disparais brièvement de sa vue (derrière un meuble).
+3.  Entraîne-toi avec des distractions modérées (un membre de la famille qui passe dans la pièce).
+
+### Niveau 4 : Le test ultime en extérieur
+
+1.  Entraîne-toi dehors, dans des lieux de plus en plus stimulants (parc, rue).
+2.  Augmente la distance et la durée de ton "absence".
+3.  Introduis des distractions importantes (d'autres chiens, des bruits forts).
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien tient la position demandée de manière **fiable** (9 fois sur 10) pendant plusieurs minutes et à distance, même avec des distractions, jusqu'à ce que tu le libères.
+- **Conseil du Coach** : Si ton chien bouge avant ton signal, **surtout ne le gronde pas**. Ramène-le calmement à sa place et reprends l'exercice à l'étape d'avant, en plus facile. La clé, c'est de ne jamais le mettre en échec. 

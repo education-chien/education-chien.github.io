@@ -5,33 +5,38 @@ parent: Apprendre des Tours
 nav_order: 28
 ---
 
-# Slalome entre les jambes
-- **Description du Tour** : Le chien passe en "huit" entre les jambes de son humain qui avance.
-- **Pourquoi l'Apprendre?** : Un tour dynamique qui améliore la coordination, la concentration et le lien en mouvement.
-- **Prérequis** : Le chien doit être à l'aise pour passer entre les jambes.
+# Le "Slalom" entre les jambes
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien passe en faisant des "huit" entre tes jambes pendant que tu avances.
+- **Pourquoi l'Apprendre ?** : Un tour **dynamique** qui améliore sa **coordination**, sa **concentration** et votre **complicité** en mouvement.
+- **Prérequis** : Ton chien doit être à l'aise à l'idée de passer entre tes jambes.
 
-### Niveau 1 (Calme, sans distraction) :
-1. Tenez une friandise. Placez votre chien devant vous.
-2. Avancez une jambe (ex: droite) et guidez le chien avec la friandise pour qu'il passe entre vos jambes et ressorte de l'autre côté (ex: à gauche de votre jambe gauche).
-3. Dès qu'il est passé, dites "Bravo!" et donnez la friandise.
-4. Avancez l'autre jambe (gauche) et guidez-le pour qu'il passe de l'autre côté.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez le mot "Slalom" (ou "Entre") juste avant de commencer.
-2. Réduisez le guidage avec la friandise, en utilisant un geste de la main.
-3. Faites quelques "huit" d'affilée.
+### Niveau 1 : Le guidage pas à pas
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez le nombre de "huit" consécutifs.
-2. Pratiquez en marchant à une vitesse légèrement plus rapide.
-3. Pratiquez avec de légères distractions.
+1.  Tiens une **friandise**. Mets ton chien devant toi.
+2.  Avance une jambe (la droite, par exemple) et guide ton chien avec la friandise pour qu'il passe entre tes jambes.
+3.  Dès qu'il est passé, dis « **Bravo !** » et donne la friandise.
+4.  Avance l'autre jambe (la gauche) et guide-le pour qu'il passe de l'autre côté.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Augmentez la vitesse et la fluidité du mouvement.
-3. Introduisez des distractions plus importantes.
+### Niveau 2 : On introduit l'ordre
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien slalome de manière fluide et fiable (90% du temps) entre les jambes de son humain qui marche, sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Rendez le mouvement fluide et amusant. Félicitez beaucoup pour maintenir l'énergie du chien. 
+1.  Introduis le mot « **Slalom** » (ou « Entre ») juste avant de commencer.
+2.  Réduis le guidage avec la friandise, utilise juste un geste de la main.
+3.  Enchaîne quelques "huit".
+
+### Niveau 3 : On accélère un peu
+
+1.  Augmente le nombre de "huit" à la suite.
+2.  Marche un peu plus vite.
+3.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On fluidifie
+
+1.  Entraîne-toi dans différents endroits.
+2.  Augmente la **vitesse** et la **fluidité** du mouvement.
+3.  Introduis des distractions plus importantes.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien slalome de manière **fluide** et **fiable** (9 fois sur 10) entre tes jambes quand tu marches, sur ordre verbal ou gestuel, sans guidage, même avec des distractions.
+- **Conseil du Coach** : Fais-en un jeu ! Rends le mouvement **fluide** et **amusant**. Ton énergie est communicative, alors félicite-le beaucoup pour qu'il reste motivé. 

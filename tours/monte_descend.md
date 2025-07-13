@@ -5,30 +5,35 @@ parent: Apprendre des Tours
 nav_order: 16
 ---
 
-# Monte / Descend (utilité pratique)
-- **Description du Tour** : Le chien monte ou descend d'une surface ou d'un objet sur commande.
-- **Pourquoi l'Apprendre?** : Très utile au quotidien (monter en voiture, sur la table du vétérinaire, sur une balance).
-- **Prérequis** : Aucun prérequis spécifique.
+# "Monte" et "Descend" (Commandes Pratiques)
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien monte ou descend d'une surface (voiture, canapé, etc.) quand tu le lui demandes.
+- **Pourquoi l'Apprendre ?** : **Très utile** au quotidien : monter en voiture, sur la table du vétérinaire, sur une balance...
+- **Prérequis** : Aucun.
 
-### Niveau 1 (Calme, sans distraction) :
-1. Placez une friandise sur une surface basse (un coussin, une marche).
-2. Dites "Monte" et incitez le chien à monter pour prendre la friandise.
-3. Dès qu'il monte, dites "Bravo!" et donnez la friandise.
-4. Pour "Descend", placez une friandise au sol et incitez-le à descendre.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez le mot "Monte" ou "Descend" avant le mouvement.
-2. Utilisez des surfaces légèrement plus hautes.
+### Niveau 1 : Le guidage facile
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Variez les surfaces (un banc, une chaise solide).
-2. Pratiquez avec de légères distractions.
+1.  Place une **friandise** sur une surface basse (un gros coussin, une marche d'escalier).
+2.  Dis « **Monte** » et incite ton chien à monter pour la récupérer.
+3.  Dès qu'il monte, dis « **Bravo !** » et donne la friandise.
+4.  Pour « **Descend** », mets une friandise par terre et incite-le à descendre.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements (voiture, table d'examen chez le vétérinaire).
-2. Demandez le tour à distance.
+### Niveau 2 : On introduit l'ordre
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien monte ou descend de diverses surfaces de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Toujours s'assurer que la surface est stable et sécuritaire pour le chien. 
+1.  Introduis le mot « **Monte** » ou « **Descend** » juste avant le mouvement.
+2.  Utilise des surfaces un peu plus hautes.
+
+### Niveau 3 : On varie les surfaces
+
+1.  Varie les objets : un banc, une chaise solide...
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On généralise
+
+1.  Entraîne-toi dans des contextes utiles (le coffre de la voiture, la table d'examen du véto).
+2.  Demande-lui le tour à distance.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien monte ou descend de n'importe quelle surface **immédiatement** et de manière **fiable** (9 fois sur 10) sur ordre, sans guidage, même avec des distractions.
+- **Conseil du Coach** : La **sécurité d'abord**. Assure-toi **toujours** que la surface est stable et pas trop haute pour lui. Ne le mets jamais en danger. 

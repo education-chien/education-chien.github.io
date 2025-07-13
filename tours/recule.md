@@ -5,30 +5,35 @@ parent: Apprendre des Tours
 nav_order: 23
 ---
 
-# Recule
-- **Description du Tour** : Le chien recule de quelques pas sur commande.
-- **Pourquoi l'Apprendre?** : Utile pour la gestion de l'espace, par exemple pour le faire reculer d'une porte ou d'un passage étroit.
-- **Prérequis** : Aucun prérequis spécifique.
+# L'ordre "Recule"
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien recule de quelques pas quand tu le lui demandes.
+- **Pourquoi l'Apprendre ?** : Utile pour la **gestion de l'espace**, par exemple pour le faire reculer d'une porte ou d'un passage étroit sans le toucher.
+- **Prérequis** : Aucun.
 
-### Niveau 1 (Calme, sans distraction) :
-1. Placez-vous face à votre chien dans un couloir ou un espace étroit.
-2. Avancez lentement vers lui en disant "Recule" et en faisant un petit pas en avant. Il devrait reculer naturellement pour éviter la collision.
-3. Dès qu'il fait un pas en arrière, dites "Bravo!" et donnez une friandise.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez un geste de la main (ex: main ouverte poussant vers l'arrière) avec l'ordre "Recule".
-2. Augmentez le nombre de pas en arrière (2-3 pas).
+### Niveau 1 : L'incitation naturelle
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la distance de recul (3-5 pas).
-2. Pratiquez dans un espace plus ouvert.
-3. Pratiquez avec de légères distractions.
+1.  Mets-toi face à ton chien dans un couloir ou un espace étroit.
+2.  Avance **lentement** vers lui en disant « **Recule** » et en faisant un petit pas en avant. Il devrait reculer naturellement pour ne pas te rentrer dedans.
+3.  Dès qu'il fait un pas en arrière, dis « **Bravo !** » et donne une friandise.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Demandez le recul sur une plus longue distance.
+### Niveau 2 : On ajoute le geste
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien recule de plusieurs pas de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans contact physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Soyez patient, certains chiens sont moins à l'aise avec le mouvement de recul. 
+1.  Introduis un geste de la main (main ouverte qui pousse en arrière) avec l'ordre « **Recule** ».
+2.  Augmente le nombre de pas en arrière (2-3 pas).
+
+### Niveau 3 : On prend de l'espace
+
+1.  Augmente la distance de recul (3-5 pas).
+2.  Entraîne-toi dans un espace plus ouvert.
+3.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On généralise
+
+1.  Entraîne-toi dans différents endroits.
+2.  Demande-lui de reculer sur une plus longue distance.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien recule de plusieurs pas **immédiatement** et de manière **fiable** (9 fois sur 10) sur ordre verbal ou gestuel, sans contact physique, même avec des distractions.
+- **Conseil du Coach** : Sois **patient**. Certains chiens ne sont pas du tout à l'aise avec le fait de reculer. C'est un mouvement qui n'est pas naturel pour eux. Vas-y en douceur. 

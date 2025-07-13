@@ -5,33 +5,38 @@ parent: Apprendre des Tours
 nav_order: 19
 ---
 
-# Rampe
-- **Description du Tour** : Le chien se déplace en rampant, le ventre collé au sol.
-- **Pourquoi l'Apprendre?** : Un tour impressionnant qui sollicite les muscles du chien et sa concentration.
-- **Prérequis** : Maîtrise de la commande "Couché".
+# L'ordre "Rampe"
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien se déplace en rampant, le ventre collé au sol.
+- **Pourquoi l'Apprendre ?** : Un tour **impressionnant** qui sollicite ses **muscles** et sa **concentration**.
+- **Prérequis** : Maîtrise de l'ordre « **Couché** ».
 
-### Niveau 1 (Calme, sans distraction) :
-1. Demandez à votre chien de se coucher.
-2. Tenez une friandise très près du sol, juste devant son museau.
-3. Tirez lentement la friandise vers l'avant, l'incitant à avancer en rampant pour l'atteindre.
-4. Dès qu'il fait un petit mouvement de rampe, dites "Bravo!" et donnez la friandise.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez le mot "Rampe" juste avant de guider avec la friandise.
-2. Augmentez la distance de rampe à quelques centimètres.
-3. Pratiquez dans une autre pièce.
+### Niveau 1 : Le guidage au sol
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la distance de rampe (1-2 mètres).
-2. Réduisez le guidage avec la friandise, en utilisant un geste de la main.
-3. Pratiquez avec de légères distractions.
+1.  Demande à ton chien de se coucher.
+2.  Tiens une **friandise** très près du sol, juste devant son museau.
+3.  Tire **lentement** la friandise vers l'avant, pour l'inciter à avancer en rampant pour l'avoir.
+4.  Dès qu'il fait le moindre petit mouvement de rampe, dis « **Bravo !** » et donne-lui la friandise.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Augmentez la distance de rampe sur plusieurs mètres.
-3. Introduisez des distractions plus importantes.
+### Niveau 2 : On introduit l'ordre
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien rampe de manière fluide et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, sur plusieurs mètres, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Si le chien se lève, reprenez l'étape précédente. Assurez-vous que la friandise reste très basse. 
+1.  Introduis le mot « **Rampe** » juste avant de le guider avec la friandise.
+2.  Augmente la distance de rampe à quelques centimètres.
+3.  Entraîne-toi dans une autre pièce.
+
+### Niveau 3 : On prend de la distance
+
+1.  Augmente la distance de rampe (1-2 mètres).
+2.  Réduis le guidage avec la friandise, en utilisant juste un geste de la main.
+3.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On généralise
+
+1.  Entraîne-toi dans différents endroits.
+2.  Augmente la distance de rampe sur plusieurs mètres.
+3.  Introduis des distractions plus importantes.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien rampe de manière **fluide** et **fiable** (9 fois sur 10) sur ordre verbal ou gestuel, sans guidage, sur plusieurs mètres, même avec des distractions.
+- **Conseil du Coach** : Si ton chien se lève, ce n'est pas grave. Reprends simplement l'étape d'avant. Le secret, c'est de garder la friandise **très, très basse**. 

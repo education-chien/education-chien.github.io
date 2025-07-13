@@ -5,29 +5,34 @@ parent: Apprendre des Tours
 nav_order: 31
 ---
 
-# Tourne sur lui-même
-- **Description du Tour** : Le chien effectue une rotation complète sur lui-même.
-- **Pourquoi l'Apprendre?** : Un tour ludique qui stimule l'agilité et la coordination.
-- **Prérequis** : Aucun prérequis spécifique.
+# "Tourne" sur lui-même
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien fait un tour complet sur lui-même.
+- **Pourquoi l'Apprendre ?** : Un tour **ludique** qui stimule son **agilité** et sa **coordination**.
+- **Prérequis** : Aucun.
 
-### Niveau 1 (Calme, sans distraction) :
-1. Tenez une friandise près du museau de votre chien.
-2. Déplacez votre main en un grand cercle autour de sa tête, l'incitant à suivre la friandise et à tourner sur lui-même.
-3. Dès qu'il a effectué un tour complet, dites "Bravo!" et donnez la friandise.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez le mot "Tourne" (ou "Twist") juste avant de guider avec la friandise.
-2. Réduisez le guidage avec la friandise, en utilisant un geste de la main circulaire.
+### Niveau 1 : Le guidage
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la distance à laquelle vous donnez l'ordre.
-2. Pratiquez avec de légères distractions.
+1.  Tiens une **friandise** près du museau de ton chien.
+2.  Déplace ta main en faisant un grand cercle autour de sa tête, pour l'inciter à suivre la friandise et à tourner.
+3.  Dès qu'il a fait un tour complet, dis « **Bravo !** » et donne la friandise.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Demandez le tour avec un geste minimal ou seulement l'ordre verbal.
+### Niveau 2 : On introduit l'ordre et le geste
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien effectue une rotation complète de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Vous pouvez lui apprendre à tourner dans les deux sens ("Tourne gauche", "Tourne droite"). 
+1.  Introduis le mot « **Tourne** » (ou « Twist ») juste avant de le guider.
+2.  Réduis le guidage avec la friandise, en utilisant un **geste** de la main (un cercle).
+
+### Niveau 3 : On prend de la distance
+
+1.  Augmente la distance à laquelle tu donnes l'ordre.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On perfectionne
+
+1.  Entraîne-toi dans différents endroits.
+2.  Demande le tour avec un geste minimal ou juste avec l'ordre verbal.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien fait un tour complet **immédiatement** et de manière **fiable** (9 fois sur 10) sur ordre verbal ou gestuel, sans guidage, même avec des distractions.
+- **Conseil du Coach** : Une fois qu'il maîtrise, tu peux lui apprendre à tourner dans les deux sens ! Utilise des mots différents, comme « **Tourne** » pour la droite et « **Twist** » pour la gauche, par exemple. 

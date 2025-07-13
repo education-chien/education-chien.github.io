@@ -5,30 +5,35 @@ parent: Apprendre des Tours
 nav_order: 20
 ---
 
-# Range tes jouets
-- **Description du Tour** : Le chien prend ses jouets un par un et les dépose dans une boîte ou un panier.
-- **Pourquoi l'Apprendre?** : Un tour très pratique qui stimule la réflexion et aide à maintenir l'ordre!
-- **Prérequis** : Maîtrise de "Porte" et "Lâche" (ou "Donne").
+# "Range tes Jouets"
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien prend ses jouets un par un et les met dans une boîte ou un panier.
+- **Pourquoi l'Apprendre ?** : Un tour **très pratique** qui stimule sa **réflexion** et aide à garder la maison en ordre !
+- **Prérequis** : Maîtrise des ordres « **Porte** » et « **Lâche** » (ou « Donne »).
 
-### Niveau 1 (Calme, sans distraction) :
-1. Placez un jouet près d'une boîte vide.
-2. Demandez à votre chien de "Porter" le jouet.
-3. Une fois qu'il le tient, guidez-le vers la boîte.
-4. Dès qu'il est au-dessus de la boîte, dites "Lâche" (ou "Donne") et récompensez-le quand le jouet tombe dans la boîte.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez l'ordre "Range" ou "Dans la boîte".
-2. Augmentez légèrement la distance entre le jouet et la boîte.
+### Niveau 1 : Le premier jouet
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Placez plusieurs jouets à ranger.
-2. Pratiquez avec de légères distractions.
+1.  Place un jouet près d'une boîte vide.
+2.  Demande à ton chien de « **Porter** » le jouet.
+3.  Une fois qu'il l'a en gueule, guide-le vers la boîte.
+4.  Dès qu'il est au-dessus de la boîte, dis « **Lâche** » (ou « Donne ») et récompense-le **uniquement** si le jouet tombe dedans.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différentes pièces.
-2. Demandez-lui de ranger des jouets plus éloignés.
+### Niveau 2 : On introduit l'ordre
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien prend ses jouets un par un et les dépose dans la boîte de manière fiable (80% du temps) sur l'ordre "Range", sans guide physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Félicitez chaleureusement après chaque jouet rangé. 
+1.  Introduis l'ordre « **Range** » ou « Dans la boîte ».
+2.  Augmente un peu la distance entre le jouet et la boîte.
+
+### Niveau 3 : Plusieurs jouets
+
+1.  Mets plusieurs jouets par terre à ranger.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : Le grand rangement
+
+1.  Entraîne-toi dans différentes pièces.
+2.  Demande-lui de ranger des jouets qui sont plus loin.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien prend ses jouets et les met dans la boîte de manière **fiable** (8 fois sur 10) sur l'ordre « Range », sans ton aide, même avec des distractions.
+- **Conseil du Coach** : **Félicite-le chaleureusement** après CHAQUE jouet rangé. Fais-en un jeu super positif. 

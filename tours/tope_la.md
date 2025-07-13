@@ -5,30 +5,35 @@ parent: Apprendre des Tours
 nav_order: 29
 ---
 
-# Tope Là
-- **Description du Tour** : Le chien lève sa patte pour toucher la main de son humain tendue verticalement.
-- **Pourquoi l'Apprendre?** : Une variante amusante de "Donne la patte" qui renforce la coordination et l'interaction.
-- **Prérequis** : Maîtrise de "Donne la patte".
+# "Tope LÀ !"
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien lève sa patte pour taper dans ta main tendue verticalement.
+- **Pourquoi l'Apprendre ?** : Une variante **amusante** de « Donne la patte » qui renforce votre **interaction**.
+- **Prérequis** : Maîtrise de l'ordre « **Donne la patte** ».
 
-### Niveau 1 (Calme, sans distraction) :
-1. Demandez à votre chien de s'asseoir.
-2. Tendez votre main verticalement, paume ouverte, et dites "Tope là".
-3. Si le chien ne touche pas, guidez sa patte avec votre autre main pour qu'elle touche votre paume.
-4. Dès que la patte touche, dites "Bravo!" et donnez une friandise.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Demandez le "Tope là" sans guide physique.
-2. Augmentez légèrement la distance de votre main.
+### Niveau 1 : Le guidage
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la distance de votre main progressivement.
-2. Pratiquez avec de légères distractions.
+1.  Demande à ton chien de s'asseoir.
+2.  Tends ta main à la verticale, paume ouverte, et dis « **Tope là !** ».
+3.  S'il ne touche pas, guide **doucement** sa patte avec ton autre main pour qu'elle touche ta paume.
+4.  Dès que sa patte touche ta main, dis « **Bravo !** » et donne une friandise.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Demandez le "Tope là" à différentes hauteurs (plus haut, plus bas).
+### Niveau 2 : On retire l'aide
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien lève sa patte et touche la main de son humain de manière immédiate et fiable (90% du temps) sur l'ordre "Tope là", sans guide physique, à différentes hauteurs, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Rendez le jeu très enthousiasmant avec des félicitations vocales. 
+1.  Demande « **Tope là !** » sans le guider physiquement.
+2.  Augmente un peu la distance de ta main.
+
+### Niveau 3 : On prend de la distance
+
+1.  Augmente progressivement la distance de ta main.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On varie les plaisirs
+
+1.  Entraîne-toi dans différents endroits.
+2.  Demande-lui le « Tope là ! » à différentes hauteurs (plus haut, plus bas).
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien lève sa patte et touche ta main **immédiatement** et de manière **fiable** (9 fois sur 10) sur l'ordre « Tope là ! », sans guidage, à différentes hauteurs et même avec des distractions.
+- **Conseil du Coach** : Mets-y de **l'enthousiasme** ! C'est un jeu. Tes félicitations et ton énergie sont ses meilleures récompenses. 

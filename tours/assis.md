@@ -5,35 +5,39 @@ parent: Apprendre des Tours
 nav_order: 2
 ---
 
-# Assis
+# L'ordre "Assis"
 
 - **Description du Tour** : Le chien pose son arrière-train au sol, en gardant ses pattes avant droites.
-- **Pourquoi l'Apprendre?** : C'est une commande fondamentale pour le contrôle, la sécurité (attendre avant de traverser la rue), et la politesse (saluer sans sauter). Elle est souvent un prérequis pour d'autres tours.
-- **Prérequis** : Aucun prérequis spécifique, c'est souvent le premier tour appris.
+- **Pourquoi l'Apprendre ?** : C'est une commande **fondamentale** pour le contrôle, la sécurité (attendre avant de traverser la rue), et la politesse (saluer sans sauter). Elle est souvent un prérequis pour d'autres tours.
+- **Prérequis** : Aucun. C'est souvent le premier tour qu'on apprend.
 
-## Apprentissage Étape par Étape (sans clicker) :
+## Apprentissage Étape par Étape
 
-### Niveau 1 (Calme, sans distraction) :
-1. Placez-vous devant votre chien avec une friandise très appétissante.
-2. Amenez lentement la friandise du museau du chien vers l'arrière de sa tête, au-dessus de son front. Le chien devrait naturellement baisser son arrière-train pour suivre la friandise et s'asseoir.
-3. Dès que ses fesses touchent le sol, dites "Bravo!" et donnez la friandise.
-4. Répétez 5 à 10 fois par session courte.
+### Niveau 1 : Dans le calme, sans distraction
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez le mot "Assis" juste avant de guider avec la friandise.
-2. Demandez le "Assis" alors que vous reculez d'un pas.
-3. Demandez au chien de rester assis 2-3 secondes avant de récompenser.
-4. Pratiquez dans une autre pièce calme de la maison.
+1.  Place-toi devant ton chien avec une **friandise** très appétissante.
+2.  Amène lentement la friandise du museau de ton chien vers l'arrière de sa tête, au-dessus de son front. Il devrait naturellement baisser son arrière-train pour suivre la friandise et **s'asseoir**.
+3.  Dès que ses fesses touchent le sol, dis « **Bravo !** » et donne la friandise.
+4.  Répète l'exercice 5 à 10 fois par session courte.
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la distance à 3-5 pas.
-2. Augmentez la durée à 5-10 secondes.
-3. Pratiquez avec une légère distraction (ex: télévision allumée, jouet au sol à distance).
+### Niveau 2 : Avec de légères distractions
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans le jardin, puis dans un parc peu fréquenté.
-2. Augmentez progressivement la distance et la durée (jusqu'à 30 secondes ou plus).
-3. Introduisez des distractions plus importantes (ex: un membre de la famille qui passe, un autre chien au loin).
+1.  Introduis le mot « **Assis** » juste avant de le guider avec la friandise.
+2.  Demande-lui « Assis » alors que tu recules d'un pas.
+3.  Demande-lui de rester assis 2-3 secondes avant de récompenser.
+4.  Entraîne-toi dans une autre pièce calme de la maison.
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien s'assoit immédiatement et de manière fiable (90% du temps) sur l'ordre "Assis", quelle que soit la distance (jusqu'à 5-10 mètres), la durée (jusqu'à 30 secondes) et dans des environnements variés avec des distractions modérées, sans avoir besoin de guide physique ou visuel.
-- **Conseils du Coach** : Variez les récompenses pour maintenir la motivation. Si le chien ne s'assoit pas, vérifiez que la friandise est bien placée pour guider le mouvement. 
+### Niveau 3 : Avec des distractions modérées
+
+1.  Augmente la distance à 3-5 pas.
+2.  Augmente la durée à 5-10 secondes.
+3.  Entraîne-toi avec une légère distraction (ex: télévision allumée, jouet au sol à distance).
+
+### Niveau 4 : Dans des environnements variés
+
+1.  Entraîne-toi dans le jardin, puis dans un parc peu fréquenté.
+2.  Augmente progressivement la distance et la durée (jusqu'à 30 secondes ou plus).
+3.  Introduis des distractions plus importantes (ex: un membre de la famille qui passe, un autre chien au loin).
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien s'assoit **immédiatement** et de manière **fiable** (9 sur 10 fois) sur l'ordre « Assis », quelle que soit la distance (jusqu'à 5-10 mètres), la durée (jusqu'à 30 secondes) et dans des environnements variés avec des distractions modérées. Le tout, sans avoir besoin de guide physique ou visuel.
+- **Conseil du Coach** : Varie les récompenses pour maintenir sa **motivation**. S'il ne s'assoit pas, vérifie que la friandise est bien placée pour guider le mouvement. 

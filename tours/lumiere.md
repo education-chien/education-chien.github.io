@@ -5,29 +5,34 @@ parent: Apprendre des Tours
 nav_order: 14
 ---
 
-# Allume/Éteint la lumière
-- **Description du Tour** : Le chien touche un interrupteur avec son museau ou sa patte pour allumer/éteindre la lumière.
-- **Pourquoi l'Apprendre?** : Un tour impressionnant qui montre l'intelligence du chien et peut être utile.
-- **Prérequis** : Maîtrise de "Touche" (avec le museau ou la patte).
+# Allumer et Éteindre la Lumière
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien touche un interrupteur avec son museau ou sa patte pour allumer ou éteindre la lumière.
+- **Pourquoi l'Apprendre ?** : Un tour **bluffant** qui montre l'intelligence de ton chien et qui peut même être utile !
+- **Prérequis** : Maîtrise de l'ordre « **Touche** » (avec le museau ou la patte).
 
-### Niveau 1 (Calme, sans distraction) :
-1. Collez une friandise sur l'interrupteur.
-2. Dites "Lumière" (ou "On/Off").
-3. Dès que le chien touche l'interrupteur avec son museau/patte pour prendre la friandise, dites "Bravo!" et donnez la friandise.
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Retirez la friandise de l'interrupteur, mais récompensez dès qu'il touche.
-2. Introduisez le mot "Allume" ou "Éteint".
+### Niveau 1 : Le contact
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez la distance à laquelle vous donnez l'ordre.
-2. Pratiquez avec de légères distractions.
+1.  Colle une **friandise** (ou un post-it avec une odeur de friandise) sur l'interrupteur.
+2.  Dis « **Lumière** » (ou « On/Off »).
+3.  Dès que ton chien touche l'interrupteur avec son museau ou sa patte pour la récupérer, dis « **Bravo !** » et donne-lui une vraie friandise.
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez avec différents interrupteurs.
-2. Demandez le tour à distance.
+### Niveau 2 : On retire l'aide
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien touche l'interrupteur pour allumer/éteindre la lumière de manière immédiate et fiable (90% du temps) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Assurez-vous que l'interrupteur est à une hauteur accessible et sécuritaire pour le chien. 
+1.  Retire la friandise de l'interrupteur, mais récompense dès qu'il le touche.
+2.  Introduis les mots « **Allume** » ou « **Éteins** ».
+
+### Niveau 3 : On prend de la distance
+
+1.  Augmente la distance à laquelle tu donnes l'ordre.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On généralise
+
+1.  Entraîne-toi avec différents interrupteurs dans la maison.
+2.  Demande-lui le tour à distance.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien touche l'interrupteur **immédiatement** et de manière **fiable** (9 fois sur 10) sur l'ordre verbal ou gestuel, sans guidage, dans des environnements variés et avec des distractions.
+- **Conseil du Coach** : Vérifie bien que l'interrupteur est à une hauteur **accessible** et **sécuritaire** pour ton chien. Ne le mets pas en difficulté. 

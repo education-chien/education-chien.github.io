@@ -5,31 +5,36 @@ parent: Apprendre des Tours
 nav_order: 13
 ---
 
-# Faire un "8" entre les jambes
-- **Description du Tour** : Le chien passe en "huit" entre les jambes de son humain qui reste immobile.
-- **Pourquoi l'Apprendre?** : Un tour élégant qui améliore la coordination et la concentration du chien autour de son humain.
-- **Prérequis** : Le chien doit être à l'aise pour passer entre les jambes.
+# Le "Huit" entre les jambes
 
-## Apprentissage Étape par Étape (sans clicker) :
+- **Description du Tour** : Ton chien passe en formant un "8" entre tes jambes, pendant que tu restes immobile.
+- **Pourquoi l'Apprendre ?** : Un tour **élégant** qui améliore sa **coordination** et sa **concentration** autour de toi.
+- **Prérequis** : Ton chien doit être à l'aise à l'idée de passer entre tes jambes.
 
-### Niveau 1 (Calme, sans distraction) :
-1. Tenez une friandise. Placez votre chien devant vous.
-2. Avancez une jambe (ex: droite) et guidez le chien avec la friandise pour qu'il passe entre vos jambes et ressorte de l'autre côté (ex: à gauche de votre jambe gauche).
-3. Dès qu'il est passé, dites "Bravo!" et donnez la friandise.
-4. Guidez-le ensuite pour qu'il fasse le tour de votre jambe gauche et repasse entre vos jambes dans l'autre sens, formant un "8".
+## Apprentissage Étape par Étape
 
-### Niveau 2 (Légères distractions, courte distance/durée) :
-1. Introduisez le mot "Huit" ou "Autour".
-2. Réduisez le guidage avec la friandise, en utilisant un geste de la main.
-3. Faites un "huit" complet.
+### Niveau 1 : Le guidage
 
-### Niveau 3 (Distractions modérées, distance/durée augmentée) :
-1. Augmentez le nombre de "huit" consécutifs.
-2. Pratiquez avec de légères distractions.
+1.  Tiens une **friandise** dans ta main. Place ton chien devant toi.
+2.  Avance une jambe (la droite, par exemple) et guide ton chien avec la friandise pour qu'il passe entre tes jambes et ressorte de l'autre côté.
+3.  Dès qu'il est passé, dis « **Bravo !** » et donne-lui la friandise.
+4.  Guide-le ensuite pour qu'il fasse le tour de ta jambe gauche et repasse entre tes jambes dans l'autre sens, pour former un "8".
 
-### Niveau 4 (Environnements variés, forte distraction, longue durée/distance) :
-1. Pratiquez dans différents environnements.
-2. Augmentez la fluidité et la vitesse du mouvement.
+### Niveau 2 : On introduit l'ordre
 
-- **Quand l'Exercice est Maîtrisé?** : Le chien exécute le "8" de manière fluide et fiable (90% du temps) entre les jambes de son humain (immobile ou en mouvement très lent) sur l'ordre verbal et/ou gestuel, sans guide physique, dans des environnements variés et avec des distractions modérées.
-- **Conseils du Coach** : Ce tour est une excellente base pour l'obérythmée. 
+1.  Introduis le mot « **Huit** » ou « Autour ».
+2.  Réduis le guidage avec la friandise, en utilisant juste un geste de la main.
+3.  Fais un "huit" complet.
+
+### Niveau 3 : On enchaîne
+
+1.  Augmente le nombre de "huits" à la suite.
+2.  Entraîne-toi avec de légères distractions.
+
+### Niveau 4 : On fluidifie
+
+1.  Entraîne-toi dans différents endroits.
+2.  Augmente la **fluidité** et la **vitesse** du mouvement.
+
+- **Quand l'Exercice est-il Maîtrisé ?** : Ton chien exécute le "8" de manière **fluide** et **fiable** (9 fois sur 10) entre tes jambes (immobiles ou en mouvement très lent), sur ordre verbal ou gestuel, sans guidage, même avec des distractions.
+- **Conseil du Coach** : Ce tour est une excellente base pour l'obérythmée (le "dog dancing"). Si ça t'intéresse, c'est un super point de départ. 
