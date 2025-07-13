@@ -5,11 +5,11 @@ parent: Les Races de Chiens
 nav_order: 15
 ---
 
-# Le Rottweiler
+# Le Rottweiler : Une force de la nature qui demande un maître, un vrai.
 
-**Choisir un Rottweiler, c'est choisir un compagnon puissant et loyal.**
+**Prendre un Rottweiler pour se donner un genre est la pire des idées. C'est un chien puissant, loyal et protecteur qui a besoin d'un leader expérimenté, pas d'un frimeur.**
 
-Le Rottweiler est un chien de garde **puissant**, **courageux** et **loyal**, mais aussi un excellent chien de compagnie.
+Le Rottweiler est un gardien **puissant**, **courageux** et d'une **loyauté** à toute épreuve. Mais c'est aussi un excellent chien de famille, à condition que la famille en question sache ce qu'elle fait.
 
 ## Fiche d'identité
 
@@ -21,50 +21,52 @@ Le Rottweiler est un chien de garde **puissant**, **courageux** et **loyal**, ma
 | **Type de poil** | Court, dur et dense |
 | **Couleurs** | Noir avec des marques feu bien délimitées |
 
-## Présentation générale
+## Le vrai visage du Rottweiler
 
-Le Rottweiler est un chien **calme**, **confiant** et très attaché à sa famille.
+C'est un chien **calme**, **sûr de lui** et profondément attaché à sa famille.
 
-Il est un **gardien naturel**, mais il est aussi doux et affectueux avec ses proches.
+C'est un **gardien né**, mais il sait aussi être doux et affectueux avec ses proches. Il fait parfaitement la part des choses... si on lui apprend.
 
-## Un compagnon pour la vie : Tempérament et besoins réels
+## Un protecteur, pas un mercenaire : tempérament et vrais besoins
 
-C'est un chien qui a besoin d'une **éducation précoce**, **ferme** et **positive**.
+Le Rottweiler a besoin d'une **éducation précoce, ferme et positive**. Le laxisme n'est pas une option.
 
-Il nécessite une **socialisation approfondie**.
+Il exige une **socialisation massive et continue** pour devenir un adulte stable et fiable.
 
-Il a besoin d'**exercice quotidien** pour canaliser son énergie.
+Il a besoin d'**exercice quotidien** pour canaliser sa puissance et son énergie.
 
-### Mythe 1: "Le Rottweiler est un chien méchant."
+### **AVERTISSEMENT : Éduque le chien, pas la race !**
 
-Le Rottweiler est un chien de **protection**, mais il n'est pas intrinsèquement méchant.
+**Arrête de te focaliser sur les "on-dit" de la race.** La génétique, c'est une vague prédisposition, pas une notice de montage. Ton boulot, c'est d'éduquer **l'individu** que tu as en face de toi, avec son caractère propre. Tes préjugés sont le pire ennemi de son éducation.
 
-Un Rottweiler bien **éduqué** et **socialisé** est un chien équilibré et fiable.
+### Mythe n°1 : "Le Rottweiler est un chien méchant."
 
-### Mythe 2: "Le Rottweiler est un chien pour tout le monde."
+**La réalité :** Cette idée stupide est véhiculée par ceux qui n'ont rien compris aux chiens de garde. Le Rottweiler est un chien de **protection**, il n'est pas "méchant" par nature.
 
-Le Rottweiler a besoin d'un maître **expérimenté**.
+Un Rottweiler bien **éduqué**, bien **socialisé** et bien **cadré** est un chien équilibré et d'une grande fiabilité. S'il devient dangereux, le problème est au bout de la laisse.
 
-Il doit être capable de comprendre son caractère et de lui fournir un **cadre clair** et **cohérent**.
+### Mythe n°2 : "Le Rottweiler est un chien pour tout le monde."
 
-## Activités pour un chien épanoui
+**La réalité :** Absolument pas. Le Rottweiler a besoin d'un maître **expérimenté, calme et cohérent**.
+
+Quelqu'un qui comprend son caractère, qui ne se laisse pas impressionner et qui lui fournit un **cadre de vie clair**. Si tu es novice ou hésitant, ce n'est pas un chien pour toi.
+
+## Comment rendre ton Rottweiler heureux
 
 De **longues promenades**, des **jeux de traction** et des **activités de pistage** sont parfaits pour lui.
 
-Il peut exceller en **obéissance** et en **sports de protection**.
+Il peut exceller en **obéissance** et dans les **sports de mordant** (avec un encadrement professionnel, évidemment).
 
-## Santé et bien-être
+## Santé : les points de vigilance
 
-Le Rottweiler est prédisposé à plusieurs affections :
+Comme beaucoup de grandes races, il est sujet à des problèmes sérieux :
 
-• **Dysplasie de la hanche** et du coude
-• **Maladies cardiaques**
-• **Cancers** (notamment l'ostéosarcome)
+*   **Dysplasie de la hanche** et du coude
+*   **Maladies cardiaques**
+*   **Cancers** (notamment l'ostéosarcome, un cancer des os agressif)
 
-## Un peu d'histoire
+## Pour la petite histoire
 
-Originaire d'**Allemagne**, le Rottweiler descend des **chiens de bouvier romains**.
+Originaire d'**Allemagne**, le Rottweiler descend des **chiens de bouvier laissés par les légions romaines**. Dans la ville de Rottweil, il était le chien des bouchers, utilisé pour la **conduite des troupeaux** et la **protection des bourses** de ses maîtres. Un vrai chien de travail polyvalent.
 
-Il était utilisé pour la **conduite des troupeaux** et la **protection des marchands** de bestiaux dans la ville de Rottweil.
-
-**Un Rottweiler bien éduqué devient un compagnon loyal et équilibré, pour le bonheur de toute la famille.** 
+**Un Rottweiler bien géré est un gardien incorruptible et un compagnon d'une loyauté sans faille. Mal géré, il devient un risque. La responsabilité te revient entièrement.** 

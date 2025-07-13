@@ -5,11 +5,11 @@ parent: Les Races de Chiens
 nav_order: 4
 ---
 
-# Le Bichon Havanais
+# Le Bichon Havanais : Plus qu'une peluche, un vrai petit chien
 
-**Choisir un Bichon Havanais, c'est choisir un compagnon joyeux et affectueux.**
+**Choisir un Bichon Havanais, c'est opter pour un concentré de bonne humeur. Mais ne t'y trompe pas, "petit" ne veut pas dire "sans besoins".**
 
-Le Bichon Havanais est un petit chien de compagnie **joyeux** et **affectueux**, de plus en plus populaire.
+Le Bichon Havanais gagne en popularité, et pour cause : c'est une boule de poils **joyeuse** et **ultra-affectueuse**. Mais attention à ne pas le traiter comme un jouet.
 
 ## Fiche d'identité
 
@@ -21,51 +21,53 @@ Le Bichon Havanais est un petit chien de compagnie **joyeux** et **affectueux**,
 | **Type de poil** | Long, doux et ondulé |
 | **Couleurs** | Fauve, noir, havane, tabac, avec ou sans taches |
 
-## Présentation générale
+## Le vrai visage du Bichon Havanais
 
-Le Bichon Havanais est un chien **vif**, **intelligent** et très attaché à sa famille.
+C'est un chien **vif**, **intelligent** et complètement dévoué à sa famille.
 
-Il est connu pour son caractère **enjoué** et sa démarche **élastique**.
+Il est connu pour son caractère **enjoué** et sa démarche **rebondissante** caractéristique. C'est un vrai petit boute-en-train.
 
-## Un compagnon pour la vie : Tempérament et besoins réels
+## Un compagnon, pas une décoration : tempérament et vrais besoins
 
-C'est un chien qui a besoin de beaucoup d'**attention** et de **compagnie**.
+Le Havanais a un besoin vital d'**attention** et de **présence**. C'est un pot de colle, et il faut le savoir.
 
-Il ne supporte pas la **solitude**.
+La **solitude** ? Il ne connaît pas et ne veut pas connaître. Si tu n'es jamais là, ne prends pas cette race.
 
-Son besoin d'exercice est **modéré**, mais il apprécie les **promenades** et les **jeux**.
+Son besoin d'exercice est **modéré**, mais il a besoin de ses **promenades** et de ses **moments de jeu** pour être bien dans ses pattes.
 
-### Mythe 1: "Le Bichon Havanais est un chien fragile."
+### **AVERTISSEMENT : Éduque le chien, pas le stéréotype !**
 
-Malgré sa petite taille, le Bichon Havanais est un chien **robuste**.
+**Ce n'est pas parce qu'il est petit et mignon qu'il n'a pas besoin de règles.** Un petit chien mal éduqué est tout aussi insupportable qu'un grand. Apprends à éduquer **l'individu** que tu as en face de toi, avec son caractère propre. Tes préjugés sur sa taille sont le pire ennemi de son éducation.
 
-Il est **joueur** et aime l'**activité**.
+### Mythe n°1 : "Le Bichon Havanais est un chien fragile."
 
-### Mythe 2: "Le Bichon Havanais n'a pas besoin d'éducation."
+**La réalité :** Sa petite taille est trompeuse. Le Bichon Havanais est un chien **robuste** et plein de vie.
 
-Comme tous les chiens, le Bichon Havanais a besoin d'une **éducation précoce** et **positive**.
+Il est **joueur** et adore se dépenser. Le transformer en chien de sac à main, c'est le rendre malheureux.
 
-Cela permet d'en faire un compagnon agréable à vivre.
+### Mythe n°2 : "Un petit chien comme ça, ça n'a pas besoin d'éducation."
 
-## Activités pour un chien épanoui
+**La réalité :** C'est la pensée qui crée les petits tyrans. Comme **tous les chiens**, le Bichon Havanais a besoin d'une **éducation précoce, claire et cohérente**.
 
-Des **promenades quotidiennes** et des **sessions de jeu** sont suffisantes pour son bien-être.
+C'est ce qui en fera un compagnon agréable et bien dans sa tête, plutôt qu'un jappeur capricieux.
 
-Il peut exceller en **obéissance** et en **agility**.
+## Comment rendre ton Bichon Havanais heureux
 
-## Santé et bien-être
+Des **promenades quotidiennes** et des **sessions de jeu** sont la base de son équilibre.
 
-Le Bichon Havanais est une race **saine**, mais peut être sujet à plusieurs affections :
+Il est tout à fait capable de s'amuser en **obéissance** ou en **agility** pour petits chiens.
 
-• **Problèmes oculaires**
-• **Luxations de la rotule**
+## Santé : les points de vigilance
 
-Un **brossage régulier** est nécessaire pour éviter les nœuds.
+C'est une race globalement **saine**, mais il faut surveiller certains points :
 
-## Un peu d'histoire
+*   **Problèmes oculaires**
+*   **Luxations de la rotule**
 
-Originaire de **Cuba**, le Bichon Havanais était le chien de compagnie de l'**aristocratie cubaine**.
+Son poil long demande un **brossage quasi quotidien** pour éviter de se transformer en un sac de nœuds. C'est un vrai travail, sois-en conscient.
 
-La race a été sauvée de l'extinction par des **éleveurs américains**.
+## Pour la petite histoire
 
-**Un Bichon Havanais bien soigné devient un compagnon joyeux et équilibré, pour le bonheur de toute la famille.** 
+Originaire de **Cuba**, le Bichon Havanais était le chouchou de l'**aristocratie cubaine** avant la révolution. La race a été sauvée de l'extinction grâce à des passionnés qui ont fui aux **États-Unis** avec leurs chiens.
+
+**Un Bichon Havanais bien éduqué et bien soigné est une source de joie permanente. Un Bichon traité comme un jouet deviendra un petit monstre. À toi de voir.** 

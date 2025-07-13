@@ -5,11 +5,11 @@ parent: Les Races de Chiens
 nav_order: 11
 ---
 
-# Le Chihuahua
+# Le Chihuahua : Le plus petit chien du monde, le plus grand caractère
 
-**Choisir un Chihuahua, c'est choisir un compagnon courageux et attachant.**
+**Choisir un Chihuahua, c'est adopter une personnalité immense dans un corps minuscule. Ne le traite jamais comme un jouet, il te le ferait payer.**
 
-Le Chihuahua est le plus petit chien du monde, mais il a une **grande personnalité**.
+Le Chihuahua est le plus petit chien du monde, mais ne te fie pas à sa taille. Il a une **personnalité de géant** et un courage qui frise l'inconscience.
 
 ## Fiche d'identité
 
@@ -21,50 +21,52 @@ Le Chihuahua est le plus petit chien du monde, mais il a une **grande personnali
 | **Type de poil** | Court ou long |
 | **Couleurs** | Toutes les couleurs sont admises |
 
-## Présentation générale
+## Le vrai visage du Chihuahua
 
-Le Chihuahua est un chien **vif**, **courageux** et très attaché à son maître.
+C'est un chien **vif**, **étonnamment courageux** et fusionnel avec son maître.
 
-Il peut se montrer **méfiant** envers les étrangers.
+Il peut être très **méfiant** envers les étrangers et les autres chiens. Il n'a pas conscience de sa petite taille.
 
-## Un compagnon pour la vie : Tempérament et besoins réels
+## Un grand chien dans un petit corps : tempérament et vrais besoins
 
-Malgré sa petite taille, le Chihuahua a besoin d'**exercice** et de **socialisation**.
+Même s'il tient dans un sac à main, le Chihuahua a besoin d'**exercice** et surtout de **socialisation**.
 
-Il est important de ne pas le **surprotéger**.
+Le **surprotéger** est la pire erreur que tu puisses faire. C'est comme ça qu'on crée des petits monstres agressifs et peureux.
 
-### Mythe 1: "Le Chihuahua est un chien tremblant et peureux."
+### **AVERTISSEMENT : Éduque le chien, pas la race !**
 
-Le tremblement du Chihuahua est souvent dû au **froid** ou à l'**excitation**, pas nécessairement à la peur.
+**Ce n'est pas parce qu'il est minuscule qu'il n'a pas besoin de règles.** Un petit chien mal éduqué est tout aussi insupportable qu'un grand. Apprends à éduquer **l'individu** que tu as en face de toi, avec son caractère propre. Tes préjugés sur sa taille sont le pire ennemi de son éducation.
 
-Un Chihuahua bien **socialisé** est un chien **confiant**.
+### Mythe n°1 : "Le Chihuahua est un chien tremblant et peureux."
 
-### Mythe 2: "Le Chihuahua n'a pas besoin de marcher."
+**La réalité :** Le tremblement du Chihuahua est souvent un mécanisme pour réguler sa température (il a vite froid) ou une manifestation d'**excitation** intense. Ce n'est pas forcément de la peur.
 
-Le Chihuahua adore les **promenades** et a besoin de se dépenser comme n'importe quel autre chien.
+Un Chihuahua bien **socialisé** dès son plus jeune âge est un chien **confiant** et audacieux. S'il est peureux, c'est que le travail de socialisation n'a pas été fait.
 
-## Activités pour un chien épanoui
+### Mythe n°2 : "Le Chihuahua n'a pas besoin de marcher."
 
-Des **petites promenades** quotidiennes et des **jeux à l'intérieur** suffisent.
+**La réalité :** C'est une ânerie. Le Chihuahua adore les **promenades**. Il a besoin de découvrir le monde, de sentir des odeurs et de se dépenser comme n'importe quel autre chien.
 
-Il peut aussi pratiquer l'**agility pour petits chiens**.
+Le porter tout le temps, c'est l'empêcher d'être un chien.
 
-## Santé et bien-être
+## Comment rendre ton Chihuahua heureux
 
-Le Chihuahua est prédisposé à plusieurs affections :
+Des **petites promenades quotidiennes** et des **jeux à l'intérieur** sont parfaits pour lui.
 
-• **Problèmes dentaires**
-• **Luxation de la rotule**
-• **Hydrocéphalie**
+Il peut aussi s'éclater en **agility pour très petits chiens**.
 
-Il est très **sensible au froid**.
+## Santé : les points de vigilance
 
-## Un peu d'histoire
+Sa petite taille le rend vulnérable à certains problèmes :
 
-Originaire du **Mexique**, le Chihuahua descendrait du **Techichi**.
+*   **Problèmes dentaires**
+*   **Luxation de la rotule**
+*   **Hydrocéphalie** (une malformation crânienne)
 
-C'était un chien élevé par les **Toltèques**.
+Il est extrêmement **sensible au froid**. Un petit manteau en hiver n'est pas du luxe, c'est une nécessité.
 
-Il doit son nom à l'État de **Chihuahua**.
+## Pour la petite histoire
 
-**Un Chihuahua bien socialisé devient un compagnon courageux et équilibré, pour le bonheur de toute la famille.** 
+Il vient du **Mexique**, où il serait le descendant du **Techichi**, un petit chien élevé par les **Toltèques**. Il doit son nom à l'État de **Chihuahua**, où il a été "redécouvert" au 19ème siècle.
+
+**Un Chihuahua bien socialisé et éduqué est un compagnon courageux, loyal et plein de vie. Un Chihuahua traité comme un accessoire deviendra un tyran miniature. Ne sous-estime jamais son caractère.** 

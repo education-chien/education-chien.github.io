@@ -5,11 +5,11 @@ parent: Les Races de Chiens
 nav_order: 17
 ---
 
-# Le Teckel
+# Le Teckel : Un caractère de géant dans un corps de saucisse
 
-**Choisir un Teckel, c'est choisir un compagnon courageux et attachant.**
+**Ne te laisse pas avoir par son look. Le Teckel est un chien de chasse féroce et têtu, pas un jouet. Son corps est fragile, mais son caractère est en béton armé.**
 
-Le Teckel, ou "chien saucisse", est un chien de chasse **courageux** au physique unique.
+Le Teckel, ou "chien saucisse" pour les intimes, est un chasseur **courageux** au physique unique. Mais ce physique est aussi son plus grand handicap.
 
 ## Fiche d'identité
 
@@ -20,45 +20,47 @@ Le Teckel, ou "chien saucisse", est un chien de chasse **courageux** au physique
 | **Type de poil** | Ras, dur ou long |
 | **Couleurs** | Unicolore (rouge), bicolore (noir et feu, marron et feu), arlequin |
 
-## Présentation générale
+## Le vrai visage du Teckel
 
-Le Teckel est un chien **intelligent**, **joueur** et **têtu**.
+C'est un chien **intelligent**, **joueur** et d'un **entêtement légendaire**.
 
-Il est très attaché à sa famille mais peut se montrer **méfiant** envers les étrangers.
+Il est fusionnel avec sa famille, mais peut se montrer très **méfiant** avec les étrangers. C'est un excellent avertisseur.
 
-## Un compagnon pour la vie : Tempérament et besoins réels
+## Un chasseur sur pattes courtes : tempérament et vrais besoins
 
-C'est un chien qui a besoin d'**exercice modéré** mais **régulier** pour éviter l'embonpoint.
+Le Teckel a besoin d'un **exercice modéré mais régulier** pour ne pas prendre de poids, ce qui serait catastrophique pour son dos.
 
-Son **dos long** le rend fragile, il faut donc éviter les **sauts** et les **escaliers**.
+Son **dos long et fragile** est son point faible. Les **sauts** (canapé, lit) et les **escaliers** sont ses pires ennemis. Tu dois aménager ta vie pour le protéger.
 
-### Mythe 1: "Le Teckel est un chien d'appartement paresseux."
+### **AVERTISSEMENT : Éduque le chien, pas la race !**
 
-Le Teckel est un chien de **chasse** qui a besoin de se dépenser.
+**Arrête de te focaliser sur les "on-dit" de la race.** La génétique, c'est une vague prédisposition, pas une notice de montage. Ton boulot, c'est d'éduquer **l'individu** que tu as en face de toi, avec son caractère propre. Tes préjugés sont le pire ennemi de son éducation.
 
-Il adore les **promenades** et les **jeux de pistage**.
+### Mythe n°1 : "Le Teckel est un chien d'appartement paresseux."
 
-### Mythe 2: "Le Teckel est un chien méchant."
+**La réalité :** C'est un **chien de chasse** dans l'âme. Il a été conçu pour traquer les blaireaux sous terre. Il a besoin de se dépenser.
 
-Le Teckel a un **fort caractère**, mais il n'est pas méchant.
+Il adore les **longues promenades** (en terrain plat) et les **jeux de pistage**. Le laisser sur le canapé, c'est le faire grossir et le rendre malheureux.
 
-Une bonne **éducation** est nécessaire pour canaliser son tempérament.
+### Mythe n°2 : "Le Teckel est méchant."
 
-## Activités pour un chien épanoui
+**La réalité :** Il n'est pas "méchant", il a un **fort caractère de terrier**. Il est têtu et n'hésitera pas à dire ce qu'il pense.
 
-Des **promenades quotidiennes**, des **jeux de balle** et des **activités de recherche** sont parfaits pour lui.
+Une **éducation claire et cohérente** est indispensable pour canaliser son tempérament. Si tu cèdes, il prendra le contrôle.
 
-## Santé et bien-être
+## Comment rendre ton Teckel heureux
 
-Le Teckel est prédisposé à plusieurs affections :
+Des **promenades quotidiennes**, des **jeux de balle au sol** et des **activités de recherche** sont parfaits pour lui.
 
-• **Problèmes de dos** (hernie discale)
-• **Obésité**
+## Santé : LE point de vigilance
 
-## Un peu d'histoire
+La santé du Teckel est dominée par un risque majeur :
 
-Originaire d'**Allemagne**, le Teckel était utilisé pour la **chasse au blaireau**.
+*   **Problèmes de dos (hernie discale)** : C'est LA grande fragilité de la race. Chaque saut est un risque.
+*   **Obésité** : L'ennemi numéro 1 de son dos. Son poids doit être surveillé de très près.
 
-"Dachshund" signifie **"chien de blaireau"**.
+## Pour la petite histoire
 
-**Un Teckel bien éduqué devient un compagnon courageux et équilibré, pour le bonheur de toute la famille.** 
+Originaire d'**Allemagne**, le Teckel était le spécialiste de la **chasse au blaireau**. Son nom allemand, "Dachshund", signifie littéralement **"chien de blaireau"**. Son corps long et bas lui permettait de se faufiler dans les terriers.
+
+**Un Teckel bien géré est un compagnon courageux, drôle et loyal. Un Teckel mal géré (surtout en surpoids) est un candidat à une opération du dos coûteuse et douloureuse. La santé de sa colonne vertébrale est entre tes mains.** 

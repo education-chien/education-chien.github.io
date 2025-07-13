@@ -5,11 +5,11 @@ parent: Les Races de Chiens
 nav_order: 13
 ---
 
-# Le Jack Russell Terrier
+# Le Jack Russell Terrier : Une pile électrique avec un instinct de tueur
 
-**Choisir un Jack Russell, c'est choisir un compagnon énergique et intelligent.**
+**Choisir un Jack Russell, c'est adopter une tornade. C'est un vrai terrier de chasse, pas un chien de salon, et il ne te laissera jamais l'oublier.**
 
-Le Jack Russell Terrier est un petit chien de chasse **énergique**, **intelligent** et plein de vie.
+Le Jack Russell est un petit chien de chasse **bourré d'énergie**, **ultra-intelligent** et avec un caractère bien trempé. Ne te laisse pas avoir par sa taille.
 
 ## Fiche d'identité
 
@@ -21,46 +21,50 @@ Le Jack Russell Terrier est un petit chien de chasse **énergique**, **intellige
 | **Type de poil** | Lisse, rêche ou "fil de fer" |
 | **Couleurs** | Majoritairement blanc, avec des taches noires ou feu |
 
-## Présentation générale
+## Le vrai visage du Jack Russell
 
-Le Jack Russell Terrier est un chien **courageux**, **vif** et très attaché à sa famille.
+C'est un chien **courageux jusqu'à l'inconscience**, **vif** et très attaché à sa famille.
 
-Il est connu pour son **énergie inépuisable** et son **fort instinct de chasse**.
+Il est connu pour son **énergie inépuisable** et son **instinct de chasse surpuissant**. Tout ce qui est petit et qui bouge est une proie potentielle.
 
-## Un compagnon pour la vie : Tempérament et besoins réels
+## Une fusée de poche : tempérament et vrais besoins
 
-C'est un chien qui a besoin de beaucoup d'**exercice** et de **stimulation mentale**.
+Le Jack a un besoin **vital** d'**exercice** et de **stimulation mentale**. C'est non négociable.
 
-Il n'est pas fait pour une vie en appartement s'il ne peut pas se dépenser suffisamment.
+La vie en appartement ? Oublie si tu n'es pas prêt à passer des heures dehors avec lui, chaque jour, pour le dépenser. Sinon, il va redécorer ton intérieur.
 
-### Mythe 1: "Le Jack Russell est un chien hyperactif."
+### **AVERTISSEMENT : Éduque le chien, pas la race !**
 
-Le Jack Russell a une grande **énergie**, mais il n'est pas hyperactif s'il bénéficie d'une **dépense physique** et **mentale** adéquate.
+**Arrête de te focaliser sur les "on-dit" de la race.** La génétique, c'est une vague prédisposition, pas une notice de montage. Ton boulot, c'est d'éduquer **l'individu** que tu as en face de toi, avec son caractère propre. Tes préjugés sont le pire ennemi de son éducation.
 
-### Mythe 2: "Le Jack Russell est un chien aboyeur."
+### Mythe n°1 : "Le Jack Russell est hyperactif."
 
-Il peut aboyer pour exprimer son **excitation** ou pour **alerter**.
+**La réalité :** Non, il est **énergique**. C'est un terrier, un chien de travail. C'est son état normal. S'il te semble "hyperactif", c'est juste que tu ne le dépenses pas assez.
 
-Une bonne **éducation** peut canaliser ce comportement.
+Donne-lui une **vraie dépense physique et mentale** et tu auras un chien calme à la maison. Sinon, tu auras un monstre sur ressorts.
 
-## Activités pour un chien épanoui
+### Mythe n°2 : "Le Jack Russell est un chien aboyeur."
 
-De **longues promenades**, des **jeux de balle** et des **activités de pistage** sont parfaits pour lui.
+**La réalité :** Il aboie pour communiquer son **excitation** ou pour **donner l'alerte**. C'est dans sa nature de terrier.
 
-L'**agility** et le **flyball** sont également d'excellents sports pour ce chien athlétique.
+Une bonne **éducation** et une bonne **dépense** permettent de canaliser ça. Un Jack qui aboie non-stop est souvent un Jack qui s'ennuie.
 
-## Santé et bien-être
+## Comment rendre ton Jack Russell heureux
 
-Le Jack Russell Terrier est une race **robuste**, mais peut être sujet à plusieurs affections :
+Des **longues promenades**, des **jeux de balle** et surtout des **activités de pistage ou de recherche** sont parfaits pour lui. Il faut qu'il utilise son nez.
 
-• **Problèmes oculaires**
-• **Surdité**
-• **Luxation de la rotule**
+L'**agility** et le **flyball** sont aussi d'excellents sports pour ce petit athlète.
 
-## Un peu d'histoire
+## Santé : les points de vigilance
 
-Créé en **Angleterre** par le Révérend John (Jack) Russell.
+C'est une race globalement **robuste**, mais il faut surveiller :
 
-Ce chien était destiné à la **chasse au renard**.
+*   **Problèmes oculaires**
+*   **Surdité** (liée à la robe blanche)
+*   **Luxation de la rotule**
 
-**Un Jack Russell bien stimulé devient un compagnon joyeux et équilibré, pour le bonheur de toute la famille.** 
+## Pour la petite histoire
+
+Créé en **Angleterre** par le Révérend John (surnommé Jack) Russell. Il voulait un chien tenace et courageux pour la **chasse au renard**, capable de suivre les chevaux et d'aller déloger le gibier sous terre. Il n'a pas été déçu.
+
+**Un Jack Russell bien dépensé est un compagnon drôle, intelligent et loyal. Un Jack qui s'ennuie est une force de destruction massive. C'est toi qui choisis.** 

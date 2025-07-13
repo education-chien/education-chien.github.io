@@ -5,11 +5,11 @@ parent: Les Races de Chiens
 nav_order: 9
 ---
 
-# Le Cane Corso
+# Le Cane Corso : La force tranquille (qui demande un leader, pas un amateur)
 
-**Choisir un Cane Corso, c'est choisir un compagnon puissant et loyal.**
+**Choisir un Cane Corso, c'est prendre la responsabilité d'un chien puissant, intelligent et protecteur. Si tu n'es pas prêt à être un leader, passe ton chemin.**
 
-Le Cane Corso est un chien de garde italien **puissant**, **intelligent** et **loyal**.
+Le Cane Corso est un gardien italien, un molosse **puissant**, **intelligent** et d'une **loyauté** impressionnante. Il n'est pas fait pour tout le monde, et c'est une bonne chose.
 
 ## Fiche d'identité
 
@@ -21,58 +21,58 @@ Le Cane Corso est un chien de garde italien **puissant**, **intelligent** et **l
 | **Type de poil** | Court, brillant et très dense |
 | **Couleurs** | Noir, gris, fauve, bringé |
 
-## Présentation générale
+## Le vrai visage du Cane Corso
 
-Le Cane Corso est un chien **équilibré**, **protecteur** et très attaché à sa famille.
+C'est un chien **équilibré**, **protecteur** et très proche de sa famille. Il ne faut pas confondre son calme avec de la passivité.
 
-Il est un excellent **gardien**, dissuasif par sa seule présence.
+C'est un **gardien** dans l'âme, dont la seule présence suffit à dissuader. Mais derrière le gardien se cache un chien sensible.
 
-## Un compagnon pour la vie : Tempérament et besoins réels
+## Un gardien, pas une arme : tempérament et vrais besoins
 
-C'est un chien qui a besoin d'un maître **expérimenté**.
+Le Cane Corso a besoin d'un maître **expérimenté et sûr de lui**. Il te testera. Il a besoin de savoir qui fixe les règles.
 
-Il doit être capable de lui offrir une **éducation ferme**, **juste** et **cohérente**.
+Il a besoin d'une **éducation ferme, juste et cohérente** dès le premier jour. Laxisme interdit.
 
-Une **socialisation précoce** est indispensable.
+Une **socialisation précoce et massive** est absolument indispensable pour en faire un adulte stable et fiable.
 
-Il a besoin d'**exercice quotidien**.
+Il a besoin d'**exercice quotidien** pour canaliser sa puissance.
 
-### Mythe 1: "Le Cane Corso est un chien dangereux."
+### **AVERTISSEMENT : Éduque le chien, pas la race !**
 
-Le Cane Corso est un **gardien né**, mais il n'est pas naturellement agressif envers les humains.
+**Arrête de te focaliser sur les "on-dit" de la race.** La génétique, c'est une vague prédisposition, pas une notice de montage. Ton boulot, c'est d'éduquer **l'individu** que tu as en face de toi, avec son caractère propre. Tes préjugés sont le pire ennemi de son éducation.
 
-Un chien bien **éduqué** et **socialisé** est un compagnon fiable et affectueux.
+### Mythe n°1 : "Le Cane Corso est un chien dangereux."
 
-### Mythe 2: "Le Cane Corso est un chien de combat."
+**La réalité :** Un couteau de cuisine est dangereux dans les mains d'un idiot. Un Cane Corso aussi. Ce n'est pas un chien naturellement agressif envers l'humain.
 
-Le Cane Corso est un chien de **protection** et de **travail**, pas un chien de combat.
+Un chien bien **éduqué**, bien **cadré** et bien **socialisé** est un compagnon d'une fiabilité exemplaire. Son instinct de protection est un atout, pas un défaut. C'est à toi de le gérer.
 
-Son passé est celui d'un **chien de ferme polyvalent**.
+### Mythe n°2 : "Le Cane Corso est un chien de combat."
 
-## Activités pour un chien épanoui
+**La réalité :** C'est une vision stupide et dépassée. Le Cane Corso est un chien de **protection**, de **garde** et de **travail**.
 
-Des **promenades quotidiennes** et des **activités qui stimulent son intelligence** sont nécessaires.
+Son histoire est celle d'un **chien de ferme polyvalent** en Italie, pas d'une machine à tuer. Ne projette pas des fantasmes idiots sur ton chien.
 
-Il peut pratiquer :
+## Comment rendre ton Cane Corso heureux
 
-• **L'obéissance**
-• **Le pistage**
-• **Le canicross**
+Des **promenades quotidiennes** et des **activités qui le stimulent mentalement** sont la base.
 
-## Santé et bien-être
+Il peut tout à fait s'épanouir en :
 
-Le Cane Corso est prédisposé à plusieurs affections :
+*   **Obéissance**
+*   **Pistage**
+*   **Canicross**
 
-• **Dysplasie de la hanche** et du coude
-• **Torsion de l'estomac**
-• **Problèmes oculaires**
+## Santé : les points de vigilance
 
-## Un peu d'histoire
+Comme tous les grands chiens, il a ses points faibles :
 
-Descendant des **molosses romains**, le Cane Corso était utilisé en **Italie**.
+*   **Dysplasie de la hanche** et du coude
+*   **Torsion de l'estomac**
+*   **Problèmes oculaires**
 
-Il servait comme chien de **garde**, de **chasse** et de **conduite de bétail**.
+## Pour la petite histoire
 
-La race a été sauvée de l'extinction dans les **années 1970**.
+Il descend directement des **molosses romains**. En **Italie**, il était le chien à tout faire des fermiers : garde, conduite de bétail, chasse au gros gibier... C'était le couteau suisse du paysan. La race a été sauvée de l'extinction dans les années 1970 par des passionnés.
 
-**Un Cane Corso bien éduqué devient un compagnon loyal et équilibré, pour le bonheur de toute la famille.** 
+**Un Cane Corso bien éduqué est un gardien loyal et un membre de la famille exceptionnel. Mal géré, il devient un danger public. La différence entre les deux, c'est toi.** 
