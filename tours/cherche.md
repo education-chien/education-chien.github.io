@@ -37,5 +37,29 @@ nav_order: 7
 2.  Augmente la complexité des cachettes.
 3.  Utilise des tapis de fouille ou des jouets distributeurs pour varier.
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il ne cherche pas<br/>l'objet caché"]
+    D --> E{"La cachette est-elle<br/>trop difficile au début ?"}
+    E -->|Oui| F["Revenez à une étape plus simple.<br/>Cachez l'objet SOUS SES YEUX<br/>et à un endroit très évident.<br/>Le but est qu'il réussisse."]
+    E -->|Non| G["L'objet/la friandise est-il<br/>assez intéressant pour lui ?<br/>Utilisez une récompense<br/>de très grande valeur."]
+
+    C --> H["Il abandonne rapidement"]
+    H --> I["C'est probablement trop difficile.<br/>Réduisez la difficulté de la cachette<br/>et encouragez-le avec une voix<br/>enjouée : 'Cherche ! Tu y es presque !'"]
+
+    C --> J["Il trouve l'objet mais<br/>ne vous le ramène pas<br/>(si c'est un jouet)"]
+    J --> K["Le but de ce tour est de 'trouver',<br/>pas forcément de 'rapporter'.<br/>C'est déjà une réussite !<br/>Pour le rapport, travaillez<br/>l'ordre 'Rapporte' séparément."]
+
+    C --> L["Il semble plus intéressé<br/>par autre chose dans la pièce"]
+    L --> M["Assurez-vous de commencer dans un<br/>environnement très calme et sans<br/>distractions. Augmentez les<br/>distractions très progressivement."]
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien trouve l'objet caché de manière **fiable** (9 fois sur 10) sur l'ordre « Cherche », même si la cachette est complexe et dans un environnement avec des distractions.
 - **Conseil du Coach** : Commence **toujours** par des cachettes très faciles. Il doit d'abord comprendre le jeu. Si c'est trop dur au début, il va juste se frustrer et abandonner. 

@@ -40,5 +40,29 @@ nav_order: 24
 2.  Augmente la distance et la durée de ton "absence".
 3.  Introduis des distractions importantes (d'autres chiens, des bruits forts).
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il se lève dès que je bouge"]
+    D --> E["Allez-vous trop vite ?"]
+    E -->|Oui| F["Le 'Reste' est un exercice de<br/>patience. Revenez à l'étape 1.<br/>Ne faites qu'un micro-mouvement<br/>au début (bouger un bras, un pied).<br/>S'il ne bouge pas, récompensez<br/>en revenant vers lui. Ne l'appelez<br/>jamais pour la récompense."]
+    E -->|Non| G["Le mot de libération ('Libre !')<br/>est-il bien clair pour lui ?<br/>Il doit comprendre qu'il ne doit<br/>bouger QUE sur ce mot."]
+
+    C --> H["Il gémit ou aboie<br/>pendant le 'Reste'"]
+    H --> I["C'est souvent un signe d'anxiété<br/>ou de frustration. Réduisez la<br/>durée et la distance pour qu'il<br/>se sente plus en sécurité. Faites<br/>des sessions très courtes et très positives."]
+
+    C --> J["Il casse la position quand<br/>je suis hors de sa vue"]
+    J --> K["C'est l'étape la plus difficile.<br/>Ne disparaissez qu'une fraction<br/>de seconde au début. Revenez avant<br/>même qu'il ait le temps de penser<br/>à bouger. Augmentez la durée de<br/>votre 'disparition' très,<br/>très progressivement."]
+
+    C --> L["Il se lève dès que je sors<br/>la friandise pour le récompenser"]
+    L --> M["Ne sortez la friandise qu'après<br/>avoir dit 'Bravo !' et être revenu<br/>à sa hauteur. Le mouvement de<br/>votre main vers la poche peut être<br/>un signal de fin pour lui. Soyez<br/>plus discret ou changez le timing."]
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien tient la position demandée de manière **fiable** (9 fois sur 10) pendant plusieurs minutes et à distance, même avec des distractions, jusqu'à ce que tu le libères.
 - **Conseil du Coach** : Si ton chien bouge avant ton signal, **surtout ne le gronde pas**. Ramène-le calmement à sa place et reprends l'exercice à l'étape d'avant, en plus facile. La clé, c'est de ne jamais le mettre en échec. 

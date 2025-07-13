@@ -36,5 +36,29 @@ nav_order: 13
 1.  Entraîne-toi dans différents endroits.
 2.  Augmente la **fluidité** et la **vitesse** du mouvement.
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il n'ose pas passer<br/>entre mes jambes"]
+    D --> E["Commencez par l'habituer sans<br/>mouvement. Lancez une friandise<br/>entre vos jambes écartées pour qu'il<br/>la récupère. Rendez cet espace<br/>amusant et positif."]
+
+    C --> F["Il passe entre mes jambes<br/>mais ne fait pas le tour derrière"]
+    F --> G["Le guidage avec la friandise<br/>doit être très clair. Votre main<br/>doit dessiner le '8' complet<br/>dans les airs. N'hésitez pas<br/>à utiliser votre autre main pour<br/>tapoter votre jambe et l'inciter à la contourner."]
+
+    C --> H["Il perd le fil au milieu<br/>du mouvement"]
+    H --> I["C'est un signe de fatigue ou de<br/>perte de concentration. Faites<br/>des sessions plus courtes.<br/>Au début, récompensez chaque<br/>passage entre les jambes, même<br/>si le '8' n'est pas complet."]
+
+    C --> J["Il ne le fait que si je<br/>le guide avec la friandise"]
+    J --> K{"Le geste de la main (sans friandise)<br/>a-t-il été bien associé ?"}
+    K -->|Non| L["Faites le geste de guidage avec la<br/>friandise visible, puis, de temps en<br/>temps, faites le même geste sans friandise<br/>et récompensez gros s'il réussit."]
+    K -->|Oui| M["Votre geste de la main doit être<br/>suffisant. Récompensez après<br/>le '8' complet, pas pendant."]
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien exécute le "8" de manière **fluide** et **fiable** (9 fois sur 10) entre tes jambes (immobiles ou en mouvement très lent), sur ordre verbal ou gestuel, sans guidage, même avec des distractions.
 - **Conseil du Coach** : Ce tour est une excellente base pour l'obérythmée (le "dog dancing"). Si ça t'intéresse, c'est un super point de départ. 

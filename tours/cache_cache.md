@@ -35,5 +35,29 @@ nav_order: 5
 1.  Passe au niveau supérieur : joue à l'extérieur (jardin clôturé, parc peu fréquenté).
 2.  Augmente encore la difficulté des cachettes.
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il ne cherche pas du tout<br/>quand je l'appelle"]
+    D --> E{"La cachette est-elle<br/>trop difficile au début ?"}
+    E -->|Non| F["Le mot de recherche ('Cherche !')<br/>est-il assez joyeux et excitant ?<br/>Votre énergie est la clé !<br/>Rendez le jeu plus amusant."]
+    E -->|Oui| G["Revenez à une cachette très simple,<br/>où il peut presque vous voir.<br/>Il doit réussir facilement au début<br/>pour comprendre le jeu."]
+
+    C --> H["Il commence à chercher<br/>mais abandonne vite"]
+    H --> I["C'est probablement que la cachette<br/>est encore trop complexe ou que<br/>la récompense n'est pas assez forte.<br/>Aidez-le avec des petits bruits<br/>et faites une fête immense<br/>quand il vous trouve !"]
+
+    C --> J["Il se laisse distraire<br/>par autre chose"]
+    J --> K["Commencez dans un environnement<br/>sans aucune distraction.<br/>Augmentez la difficulté très<br/>progressivement. Le rappel doit être<br/>plus intéressant que la distraction."]
+
+    C --> L["Il me trouve mais ne<br/>semble pas très content"]
+    L --> M["Votre réaction est sa plus grande<br/>récompense. Soyez EXTRÊMEMENT<br/>enthousiaste ! Câlins, friandises<br/>jackpot, son jouet préféré...<br/>Il doit comprendre que vous trouver<br/>est la meilleure chose au monde."]
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien te trouve de manière **fiable** (9 fois sur 10) quand tu donnes l'ordre, même si la cachette est complexe et qu'il y a des distractions.
 - **Conseil du Coach** : Rends le jeu **hyper excitant** et **gratifiant**. Ton énergie est la clé pour que ton chien adore ce jeu. 

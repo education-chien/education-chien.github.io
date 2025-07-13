@@ -38,5 +38,32 @@ nav_order: 3
 2.  Augmente la durée de la marche sur de plus longues périodes.
 3.  Récompense de manière **aléatoire**, mais toujours pour une marche sans tension.
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il tire constamment sur la laisse"]
+    D --> E{"Vous arrêtez-vous<br/>SYSTÉMATIQUEMENT<br/>dès qu'il y a de la tension ?"}
+    E -->|Non| F["C'est la règle d'or. Soyez<br/>extrêmement constant.<br/>Tension = arrêt total."]
+    E -->|Oui| G["La récompense est-elle assez<br/>motivante ? Utilisez des friandises<br/>très appétissantes. Récompensez<br/>chaque pas à vos côtés au début."]
+
+    C --> H["Il ne marche pas droit,<br/>il zigzague devant moi"]
+    H --> I["Récompensez UNIQUEMENT quand<br/>son épaule est à hauteur de votre genou.<br/>Vous pouvez tapoter votre cuisse<br/>pour l'inciter à rester proche."]
+
+    C --> J["Il s'assoit ou refuse<br/>d'avancer quand je m'arrête"]
+    J --> K{"Est-il fatigué ou frustré ?"}
+    K -->|Oui| L["Faites des sessions très courtes<br/>et positives. Terminez toujours<br/>sur une réussite."]
+    K -->|Non| M["Rendez le départ plus amusant.<br/>Utilisez une voix enjouée et<br/>récompensez le premier pas<br/>dans la bonne direction."]
+
+    C --> N["La marche est parfaite<br/>sans distraction, mais<br/>il tire dès qu'il voit<br/>quelque chose d'intéressant"]
+    N --> O["Augmentez la distance par rapport<br/>à la distraction. Trouvez un seuil<br/>où il peut rester concentré et<br/>travaillez à cette distance avant<br/>de vous rapprocher progressivement."]
+
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien marche calmement à côté de toi, sans tirer, son épaule à hauteur de ton genou, de manière **fiable** (9 fois sur 10) dans des environnements variés et avec des distractions. Il s'arrête quand tu t'arrêtes.
 - **Conseil du Coach** : Ne tire **jamais** sur la laisse pour le corriger. L'arrêt est la meilleure sanction. Ton chien doit comprendre que **tirer ne mène nulle part**. 

@@ -38,5 +38,28 @@ nav_order: 10
 2.  Demande la patte sans avoir de friandise visible dans la main (donne-la juste après).
 3.  Introduis des distractions plus importantes.
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il ne lève pas la patte du tout"]
+    D --> E{"Utilise-t-il son museau<br/>au lieu de sa patte ?"}
+    E -->|Oui| F["Ignorez quand il utilise son museau.<br/>Attendez. S'il finit par toucher<br/>avec la patte, même par accident,<br/>récompensez ENORMEMENT."]
+    E -->|Non| G["Guidez-le. Soulevez très doucement<br/>sa patte, posez-la sur votre main,<br/>dites 'Bravo !' et récompensez.<br/>Il va vite comprendre."]
+
+    C --> H["Il ne donne la patte que<br/>sur la main fermée (avec friandise)"]
+    H --> I{"L'ordre verbal 'Patte' a-t-il été<br/>bien associé au geste ?"}
+    I -->|Non| J["Dites 'Patte' juste au moment<br/>où il touche votre main fermée.<br/>Répétez de nombreuses fois."]
+    I -->|Oui| K["Tendez votre main ouverte (sans<br/>friandise visible) et donnez l'ordre.<br/>S'il réussit, la récompense vient<br/>de votre autre main. Soyez patient."]
+
+    C --> L["Il donne la patte trop vite<br/>ou la retire immédiatement"]
+    L --> M["Augmentez progressivement la durée<br/>pendant laquelle il doit laisser<br/>sa patte sur la vôtre avant de<br/>récompenser. Commencez par une<br/>demi-seconde, puis une seconde, etc."]
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien lève sa patte et la pose dans ta main **immédiatement** et de manière **fiable** (9 fois sur 10) sur l'ordre « Patte », sans aide, dans des environnements variés.
 - **Conseil du Coach** : S'il ne lève pas la patte, ne t'inquiète pas. Tu peux **doucement** la soulever toi-même en donnant l'ordre, puis récompenser. Il va vite comprendre le geste. 

@@ -35,5 +35,30 @@ nav_order: 15
 1.  Entraîne-toi dans différents endroits.
 2.  Augmente la distance et la **fluidité** du mouvement.
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il sort sur les côtés"]
+    D --> E["Le guidage avec la friandise<br/>est-il assez précis ?"]
+    E -->|Non| F["Gardez la friandise bien au centre,<br/>collée à votre corps. Votre chien<br/>doit la suivre. Au début, vous pouvez<br/>vous entraîner dans un couloir étroit<br/>pour limiter les sorties."]
+    E -->|Oui| G["Il n'est peut-être pas à l'aise<br/>si près de vous. Travaillez d'abord<br/>à le faire passer entre vos jambes<br/>à l'arrêt, de manière positive."]
+
+    C --> H["Il s'arrête en cours de route"]
+    H --> I["C'est un exercice difficile qui demande<br/>beaucoup de concentration.<br/>Faites des sessions très courtes.<br/>Récompensez chaque pas au début,<br/>puis tous les deux pas, etc."]
+
+    C --> J["La coordination est difficile<br/>(pour lui ou pour moi)"]
+    J --> K["Allez-y TRÈS lentement. Décomposez<br/>le mouvement : 1. Avancez un pied.<br/>2. Guidez le chien pour qu'il avance.<br/>3. Récompensez. 4. Recommencez."]
+    
+    C --> L["La marche arrière est un échec total"]
+    L --> M["La marche arrière est beaucoup moins<br/>naturelle. Assurez-vous que l'ordre<br/>'Recule' est bien maîtrisé en dehors<br/>de cet exercice. Le guidage doit être<br/>très clair, et la récompense généreuse."]
+
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien marche en avant ou en arrière entre tes jambes de manière **fluide** et **fiable** (9 fois sur 10), sur ordre verbal ou gestuel, sans guidage, sur plusieurs mètres et même avec des distractions.
 - **Conseil du Coach** : La **patience** est la clé. Ce tour demande une énorme coordination pour ton chien (et pour toi !). Allez-y pas à pas. 

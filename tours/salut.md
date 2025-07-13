@@ -34,5 +34,29 @@ nav_order: 26
 1.  Entraîne-toi dans différents endroits.
 2.  Demande-lui le tour à distance.
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il se couche complètement<br/>au lieu de faire la révérence"]
+    D --> E["Le guidage avec la friandise est<br/>probablement trop bas. Essayez de<br/>déplacer la friandise entre ses pattes<br/>mais légèrement vers l'arrière et<br/>le haut pour garder son arrière-train levé."]
+
+    C --> F["Il ne baisse pas du tout l'avant"]
+    F --> G{"Le prérequis 'Couché'<br/>est-il bien maîtrisé ?"}
+    G -->|Non| H["Ce tour est une modification<br/>du 'Couché'. Il est donc plus<br/>facile s'il connaît déjà bien ce<br/>mouvement de base."]
+    G -->|Oui| I["Il ne comprend peut-être pas.<br/>Vous pouvez l'aider en appliquant<br/>une très légère pression sur ses<br/>épaules pour l'inciter à baisser<br/>son poitrail. Récompensez le<br/>moindre abaissement."]
+
+    C --> J["Il ne tient pas la position"]
+    J --> K["C'est normal au début.<br/>Récompensez l'instant même où il<br/>prend la bonne position. Puis,<br/>augmentez très progressivement<br/>la durée avant de donner la friandise."]
+
+    C --> L["Il le fait quand il joue,<br/>mais pas sur commande"]
+    L --> M["C'est super ! Il connaît déjà le<br/>mouvement. Quand vous le voyez<br/>faire naturellement (appel au jeu),<br/>dites 'Salut !' et lancez-lui<br/>une friandise. Il va associer<br/>le mot à son action."]
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien fait la révérence **immédiatement** et de manière **fiable** (9 fois sur 10) sur ordre verbal ou gestuel, sans aide physique, même avec des distractions.
 - **Conseil du Coach** : Ce mouvement est **naturel** pour les chiens (c'est un appel au jeu), ce qui peut rendre l'apprentissage plus facile. Observe-le bien, il le fait peut-être déjà ! 

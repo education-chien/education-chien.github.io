@@ -35,5 +35,29 @@ nav_order: 27
 1.  Entraîne-toi dans différents endroits.
 2.  Demande-lui de sauter par-dessus plusieurs petits obstacles à la suite.
 
+## Arbre de Décision : Que faire si... ?
+
+Voici un guide pour vous aider à résoudre les problèmes courants lors de l'apprentissage de ce tour.
+
+```mermaid
+graph TD
+    A[Mon chien a une difficulté] -->|Non| B[Parfait ! Continuez comme ça !]
+    A -->|Oui| C{Quel est le problème ?}
+
+    C --> D["Il a peur de l'obstacle"]
+    D --> E["L'obstacle est-il trop haut ou<br/>intimidant pour commencer ?"]
+    E -->|Oui| F["La sécurité et la confiance avant tout.<br/>Commencez avec un obstacle quasi<br/>inexistant (un balai par terre).<br/>Il doit d'abord juste l'enjamber."]
+    E -->|Non| G["Rendez l'exercice plus ludique.<br/>Ne donnez pas d'ordre. Lancez<br/>son jouet préféré de l'autre côté<br/>de l'obstacle pour l'inciter à le<br/>franchir naturellement."]
+
+    C --> H["Il contourne l'obstacle"]
+    H --> I["Utilisez un couloir ou placez des<br/>chaises de chaque côté de l'obstacle<br/>pour créer un 'chenal' qui le<br/>guide vers le saut."]
+
+    C --> J["Pour le saut dans les bras,<br/>il ne monte que les pattes avant"]
+    J --> K["C'est déjà un excellent début !<br/>Récompensez ça généreusement.<br/>Ensuite, pour l'inciter à sauter<br/>complètement, baissez-vous encore<br/>plus et reculez légèrement au moment<br/>où il s'appuie sur vous."]
+
+    C --> L["Il saute mais de manière<br/>désordonnée ou dangereuse"]
+    L --> M["N'augmentez JAMAIS la hauteur si<br/>la technique n'est pas parfaite.<br/>Revenez à un obstacle très bas.<br/>L'objectif est un saut calme et<br/>contrôlé, pas un saut de panique."]
+```
+
 - **Quand l'Exercice est-il Maîtrisé ?** : Ton chien saute par-dessus l'obstacle ou dans tes bras **immédiatement** et de manière **fiable** (9 fois sur 10) sur ordre verbal ou gestuel, sans guidage, même avec des distractions.
 - **Conseil du Coach** : **Adapte toujours** la hauteur de l'obstacle à la taille et aux capacités de ton chien. **PROTEGE SES ARTICULATIONS** : évite les sauts à répétition, surtout pour les chiots ou les chiens âgés. 
