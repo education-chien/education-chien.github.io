@@ -1,126 +1,82 @@
 ---
 layout: default
-title: Aménager le Foyer
+title: "Aménager le Foyer : Construire le Sanctuaire"
 parent: Adopter en Refuge
 nav_order: 2
 ---
 
-# **Aménager un Foyer Accueillant et Sécurisé : Ton Plan d'Action**
+# **Aménager le Foyer : Transformer ta Maison en Sanctuaire**
 
-## **Introduction : Crée un Havre de Paix pour ton Nouveau Compagnon**
+## **Introduction : Chaque Objet Envoie un Message**
 
-L'arrivée d'un chien dans ton foyer est un moment clé qui exige de **préparer ton territoire**. Un espace bien pensé, c'est la garantie d'une adaptation rapide et d'un chien qui se sent en sécurité dès le premier jour.
+L'aménagement de ton foyer avant l'arrivée du chien est ton premier acte de leadership. Il ne s'agit pas de décoration, mais de **stratégie**. Chaque objet, chaque espace doit envoyer un message clair : "Ici, tu es en sécurité, les règles sont claires, et je contrôle l'environnement". Un espace bien pensé réduit drastiquement le stress de l'adaptation et prévient 90% des futurs problèmes.
 
-### **Pourquoi l'Aménagement est Non Négociable**
+C'est ta responsabilité de créer un havre de paix, pas un champ de mines.
 
-*   **Ça facilite son adaptation** à un environnement inconnu.
-*   **Ça réduit son stress** (et le tien).
-*   **Ça prévient les accidents** et les bêtises.
-*   **Ça lui donne un sentiment de sécurité** immédiat.
+## **L'Équipement Essentiel : Les Outils de ton Leadership**
 
-## **Les Indispensables pour le Confort de ton Chien**
+Ne vois pas ça comme une liste de courses, mais comme l'arsenal de base pour un départ réussi.
 
-### **Le Couchage : Son Quartier Général**
+### **Le Couchage : Sa Zone de Décompression**
 
-Avant même son arrivée, procure-toi le matériel de base. C'est la base du respect que tu lui portes.
+C'est son **refuge inviolable**.
+*   **Le lieu :** Un coin calme, à l'abri du passage. Pas au milieu du salon. Il doit pouvoir s'isoler sans être dérangé.
+*   **La règle :** Quand le chien est dans son panier, personne ne l'embête. C'est sa bulle de sécurité. Cette règle est **non négociable**.
+*   **L'astuce :** Mets-y un de tes vieux t-shirts. Ton odeur est un puissant calmant.
 
-**Un couchage confortable est sa zone refuge** :
-*   **Un lit, un coussin ou une couverture** assez épaisse pour l'isoler du sol.
-*   **Place-le dans un endroit calme**, à l'abri des courants d'air et du passage constant. C'est sa bulle.
-*   **Il doit pouvoir s'y reposer** sans que personne ne vienne le déranger.
-*   **Astuce pour les premières nuits** : place un objet avec ton odeur (un vieux t-shirt) pour le rassurer.
+### **Les Gamelles : La Zone de Ressource Contrôlée**
 
-### **Les Gamelles : La Zone de Ravitaillement**
+*   **Matériel :** Acier inoxydable. C'est hygiénique et solide.
+*   **Emplacement :** Un endroit tranquille où il peut manger sans stress.
+*   **Principe :** C'est toi qui fournis la ressource. Cela pose les bases d'une relation saine.
 
-*   **Deux gamelles minimum** : une pour l'eau, une pour la nourriture.
-*   **En acier inoxydable**, c'est le plus hygiénique et durable.
-*   **Placées dans un coin tranquille** et toujours accessibles.
-*   **Adaptées à sa taille**.
+### **L'Équipement de Sortie : Le Lien Physique entre Vous**
 
-### **L'Équipement de Promenade**
+*   **Le Harnais :** Un harnais en Y ou en H. Il respecte sa morphologie et évite la pression sur la trachée.
+*   **La Laisse :** Une laisse simple, d'environ 1m50. **Jette les laisses à enrouleur à la poubelle**. C'est un outil qui apprend au chien à tirer et qui ne te donne aucun contrôle.
+*   **Le Collier :** Utile pour la médaille, pas pour la promenade.
+*   **La Médaille :** Non négociable. Nom du chien et ton numéro de téléphone. C'est sa seule assurance vie s'il se perd.
 
-*   **Une laisse** (1,20 m à 1,50 m) de bonne qualité.
-*   **Un collier** simple, en nylon avec des attaches solides.
-*   **Un harnais en Y**, bien plus respectueux de sa morphologie.
-*   **Une médaille avec tes coordonnées**. Indispensable.
+### **Les Jouets : Les Outils de Stabilité Mentale**
 
-### **Jouets et Mastication : Les Outils Anti-Stress**
+La mastication et le jeu ne sont pas des luxes, ce sont des **besoins fondamentaux**.
+*   **Jouets d'occupation :** Kong, tapis de fouille... pour le stimuler mentalement.
+*   **Objets à mâcher :** Bois de cerf, corne... pour répondre à son besoin naturel de mastication, ce qui a un effet apaisant prouvé.
+*   **Règle de sécurité :** Choisis des jouets solides, adaptés à sa taille, pour éviter tout risque d'ingestion ou d'étouffement.
 
-Essentiels pour le stimuler, le fatiguer mentalement et gérer son stress.
+## **"Dog-Proofing" : Ta Mission Zéro Risque**
 
-*   Des **jouets robustes** et non toxiques.
-*   Adaptés à sa taille pour **éviter tout risque d'étouffement**.
-*   Varie les **textures** et les formes.
-*   Des **objets à mâcher** pour satisfaire ce besoin naturel et fondamental.
+Pense comme un parent avec un enfant de deux ans. Ta maison est pleine de dangers. Ta mission est de les neutraliser **avant** l'accident. C'est ta responsabilité, pas la sienne.
 
-### **Les Accessoires de Propreté**
+### **La Liste Noire : Ce qui Doit Disparaître de sa Portée**
 
-*   Des **sacs à déjections**.
-*   Un **nettoyant enzymatique** pour les accidents (jamais d'eau de Javel).
-*   Une **brosse et un peigne** adaptés à son poil.
+*   **Toxiques :** Produits ménagers, médicaments, plantes vertes (beaucoup sont toxiques !), chocolat, oignons... Mets tout sous clé ou en hauteur.
+*   **Électriques :** Cache les câbles dans des gaines ou derrière des meubles. Un chiot ou un chien anxieux peut les mâcher.
+*   **Objets de valeur ou personnels :** Chaussures, télécommandes, livres... Range tout. Un objet détruit est de ta faute, pas de la sienne. Tu ne lui as pas appris les règles et tu lui as laissé l'occasion.
+*   **Poubelles :** Elles doivent être inaccessibles ou avoir un couvercle très solide. C'est une source d'intoxication majeure.
 
-## **Sécuriser ton Environnement : Mission Zéro Risque**
+### **Structurer l'Espace : Créer des Frontières Claires**
 
-### **Le Principe : Penser "Chien"**
+*   **Barrières pour bébé :** Utilise-les pour bloquer l'accès aux pièces interdites (chambres, bureau...). Cela facilite ton travail de supervision et lui apprend les limites de son territoire.
+*   **Sécurise les extérieurs :** Balcon, jardin... vérifie qu'il n'y a aucune issue possible.
 
-Ta maison doit être "dog-proof". Pense comme si tu avais un enfant en bas âge : tout ce qui est dangereux doit être hors de sa portée. C'est ta **responsabilité**.
+## **Plan d'Action : Le Jour J et la Veille**
 
-### **Ranger les Objets Dangereux**
+### **La Préparation Finale**
 
-*   **Câbles électriques** : cache-les ou protège-les dans des gaines.
-*   **Produits chimiques** : Javel, antigel, médicaments... tout doit être sous clé.
-*   **Plantes toxiques** : identifie-les et mets-les hors de portée.
-*   **Petits objets** : vis, clous, jouets d'enfants... tout ce qui peut être avalé.
-*   **Vêtements et chaussures** : range-les si tu ne veux pas qu'ils soient redécorés.
+*   Fais un **dernier tour de inspection sécurité**. Mets-toi à sa hauteur pour voir ce qu'il verra.
+*   Installe son panier, ses gamelles (avec de l'eau fraîche).
+*   Prépare sa première ration de nourriture (celle du refuge pour commencer).
+*   Range et nettoie. Une maison en ordre est un environnement apaisant.
 
-### **Protéger les Espaces**
+### **Le Jour de l'Arrivée : L'Art de ne Rien Faire**
 
-*   Installe des **barrières de sécurité** pour interdire l'accès à certaines pièces si besoin.
-*   Sécurise les **escaliers et les balcons**.
-*   Protège les **zones sensibles** comme la salle de bain ou ton bureau.
-*   Crée des **passages clairs et sécurisés** pour lui.
+*   **Ambiance ZEN :** Pas de musique forte, pas de cris, pas de fête de bienvenue. Le calme est ton meilleur allié.
+*   **Disponibilité :** Pose une journée. Sois présent, mais pas oppressant.
+*   **Ton Énergie :** Sois le leader calme et confiant qu'il attend. Il va scanner ton état émotionnel. Si tu es stressé, il le sera aussi.
 
-### **Créer des Zones Refuges**
+## **Conclusion : Un Foyer Structuré est le Premier Signe de Respect**
 
-*   Un **panier avec des rebords** peut l'aider à se sentir en sécurité.
-*   Des **diffuseurs de phéromones** apaisantes peuvent adoucir la transition.
-*   Aménage-lui **un coin bien à lui** où il sait qu'il ne sera jamais dérangé.
+En préparant ton foyer de manière stratégique, tu ne fais pas que protéger tes affaires. Tu lui envoies un message puissant : "J'ai pensé à toi. Je contrôle la situation. Tu peux te détendre et me faire confiance."
 
-### **Adaptations Spécifiques par Pièce**
-
-#### **La Cuisine**
-*   **Poubelle avec un couvercle solide**.
-*   **Produits ménagers** en hauteur ou dans un placard fermé.
-*   **Gamelles** dans un coin calme.
-
-#### **Le Salon**
-*   **Couchage** dans un coin tranquille.
-*   **Jouets** en accès libre.
-*   **Espace de jeu** dégagé.
-
-#### **Les Chambres**
-*   **Barrières** si tu lui interdis l'accès.
-*   **Objets fragiles** en hauteur.
-*   **Câbles** protégés.
-
-## **Préparer l'Arrivée : Les Derniers Détails**
-
-### **La Veille de l'Arrivée**
-
-*   Fais un **dernier tour de sécurité**.
-*   Prépare ses **gamelles** avec de l'eau fraîche et sa première ration de nourriture.
-*   Ajuste la **température** de la pièce où il dormira.
-*   Rassemble tous ses **documents** d'adoption.
-
-### **Le Jour J**
-
-*   Crée une **ambiance calme**. Pas de fête, pas de cris.
-*   Aie tous ses **accessoires à portée de main**.
-*   **Prends ton temps**. Sois disponible pour lui.
-*   **Reste calme et confiant**. Il va sentir ton énergie.
-
-## **Conclusion : Un Foyer Prêt pour une Nouvelle Vie**
-
-Un foyer bien préparé, c'est la **première brique de ta future relation** avec ton chien. En prenant le temps de sécuriser son environnement, tu lui envoies un message clair : "Ici, tu es en sécurité, je m'occupe de toi."
-
-**Rappel important** : Cet aménagement n'est pas figé. Tu l'ajusteras en apprenant à connaître ton chien, ses habitudes et ses préférences. C'est le début du dialogue. 
+C'est la première brique, et la plus importante, de votre future relation. 

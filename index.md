@@ -4,7 +4,7 @@ title: Accueil
 nav_order: 1
 ---
 
-# Guides Complets pour Chien : Éducation, Santé, Adoption et Plus
+# Guides Chiens : éducation, santé, adoption… et kiff !
 
 Bien plus qu'un simple manuel, ce site est votre allié pour construire une relation complice avec votre chien. De l'accueil de votre chiot à sa santé au quotidien, en passant par l'apprentissage de tours amusants, nous transformons les questions complexes en conseils simples et applicables.
 
